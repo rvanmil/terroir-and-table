@@ -136,7 +136,7 @@ Object.assign(window.NL.recipes, {
 },
 "ea-hong-shao-rou": {
   name: "Roodgestoofd buikspek (hong shao rou)",
-  description: "Blokjes buikspek, langzaam gestoofd in soja, Shaoxing-rijstwijn en gekarameliseerde kandijsuiker tot ze als mahonie gelakt zijn — het vet wiebelend en doorschijnend, het magere vlees smeltend, de saus ingekookt tot een plakkerige glazuurlaag.",
+  description: "Blokjes buikspek, langzaam gestoofd in soja, Shaoxing-rijstwijn en gekaramelliseerde kandijsuiker tot ze als mahonie gelakt zijn — het vet wiebelend en doorschijnend, het magere vlees smeltend, de saus ingekookt tot een plakkerige glazuurlaag.",
   story: "Roodstoven is dé techniek van de Shanghainese benbang-huiskeuken, die houdt van ‘dikke olie en rode saus’ (nong you chi jiang) en een onverbloemd zoetje van kandijsuiker. Een kom hong shao rou op rijst is de smaak van de keuken van een Shanghainese grootmoeder, gereserveerd voor zondagen en nieuwjaarstafels.",
   timeNote: null,
   ingredients: [
@@ -192,7 +192,7 @@ Object.assign(window.NL.recipes, {
     "Breng een grote pan water aan de kook. Kook de noedels in twee porties 60–90 seconden tot ze gaar maar nog stevig zijn; laat de paksoi de laatste minuut met de laatste portie meekoken.",
     "Verdeel intussen de sojasaus en zwarte azijn over vier diepe kommen.",
     "Giet de noedels en paksoi af en verdeel ze over de kommen. Stapel de chilivlokken, knoflook, bosui en Sichuanpeper in een net hoopje boven op elke portie noedels.",
-    "Verhit de olie in een steelpannetje tot hij glanst en net begint te roken (ongeveer 190 °C).",
+    "Verhit de olie in een steelpannetje tot hij glanst en net begint te roken (ongeveer 190°C).",
     "Giet de hete olie recht over elk hoopje smaakmakers — het moet sissen en schuimen en de chili en knoflook ogenblikkelijk laten openbloeien. Zeg iedereen de eigen kom goed om te scheppen en meteen te eten."
   ],
   wines: [

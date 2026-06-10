@@ -94,10 +94,10 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Klop de hoisin, beide sojasauzen, de Shaoxing-rijstwijn, suiker, geprakte gefermenteerde tofu met het vocht, het vijfkruidenpoeder en de knoflook tot een marinade.",
     "Bedek de repen varkensvlees er volledig mee, bewaar 3 eetlepels marinade in de koelkast en laat het vlees afgedekt een nacht marineren; keer het één keer.",
-    "Verwarm de oven tot 200 °C hetelucht. Leg het vlees op een rooster boven een braadslee met 1 cm water — dat vangt druppels op en voorkomt dat de suikers verbranden en gaan roken.",
+    "Verwarm de oven tot 200°C hetelucht. Leg het vlees op een rooster boven een braadslee met 1 cm water — dat vangt druppels op en voorkomt dat de suikers verbranden en gaan roken.",
     "Rooster 25 minuten, keer dan de repen, bestrijk ze met de achtergehouden marinade en rooster nog 15 minuten.",
-    "Verhoog de temperatuur naar 230 °C, bestrijk het vlees royaal met de verwarmde honing en rooster 5–8 minuten tot de randen hier en daar blaren en blakeren. Bestrijk en blaker de andere kant op dezelfde manier.",
-    "Het vlees is gaar wanneer een satéprikker er zonder weerstand in glijdt en de kerntemperatuur ongeveer 72 °C bereikt; het oppervlak moet glanzend en mahonierood zijn met zwartgeblakerde puntjes.",
+    "Verhoog de temperatuur naar 230°C, bestrijk het vlees royaal met de verwarmde honing en rooster 5–8 minuten tot de randen hier en daar blaren en blakeren. Bestrijk en blaker de andere kant op dezelfde manier.",
+    "Het vlees is gaar wanneer een satéprikker er zonder weerstand in glijdt en de kerntemperatuur ongeveer 72°C bereikt; het oppervlak moet glanzend en mahonierood zijn met zwartgeblakerde puntjes.",
     "Laat 10 minuten rusten, snijd in plakken van 1 cm dwars op de draad en serveer over rijst met het rustvocht."
   ],
   wines: [
@@ -158,7 +158,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Doe de olie, het bosuiwit en de gember (indien gebruikt) in een koude wok en zet die op middellaag vuur. Voeg het groen toe zodra het zachtjes borrelt.",
     "Bak langzaam, af en toe roerend, 15–20 minuten; de bosui moet krimpen, knisperen en gelijkmatig diep goudbruin kleuren zonder zwart te blakeren. Schep eruit en laat uitlekken.",
-    "Voeg beide sojasauzen en de suiker toe aan de warme olie en laat het mengsel 30 seconden borrelen tot de suiker oplost en de saus licht gekarameliseerd ruikt. Haal van het vuur.",
+    "Voeg beide sojasauzen en de suiker toe aan de warme olie en laat het mengsel 30 seconden borrelen tot de suiker oplost en de saus licht gekaramelliseerd ruikt. Haal van het vuur.",
     "Kook de noedels in ruim kokend water tot ze net gaar zijn, 2–3 minuten voor verse, en laat ze daarna heel goed uitlekken — aanhangend water verdunt de saus.",
     "Verdeel de noedels over kommen en schep de bosui-oliesaus erover, ongeveer 3 eetlepels per kom.",
     "Bekroon met de krokante bosui, schep aan tafel grondig om en eet terwijl de noedels glanzend en heet zijn."
@@ -198,7 +198,7 @@ Object.assign(window.NL.recipes, {
     "Peperige, fris gestileerde syrah echoot de szechuanpeper-tinteling en kan de geblakerde, hartige bonen aan.",
     "Kruidig en pittig fris maakt hij de rokerige concentratie van het gerecht lichter en verfrist hij na elke zout-pittige hap."
   ],
-  tip: "Droog de bonen obsessief voor het bakken — water veroorzaakt fel spatten en stoomt de schil in plaats van haar te laten blakeren. Frituren op 180 °C gedurende 90 seconden is de restaurant-sluiproute."
+  tip: "Droog de bonen obsessief voor het bakken — water veroorzaakt fel spatten en stoomt de schil in plaats van haar te laten blakeren. Frituren op 180°C gedurende 90 seconden is de restaurant-sluiproute."
 },
 "ea2-mango-pomelo-sago": {
   name: "Mango-pomelo-sago",
@@ -251,8 +251,8 @@ Object.assign(window.NL.recipes, {
     "Knip om de 2 cm door de rand van vet en vlies rond elke karbonade, zodat de koteletten plat blijven tijdens het frituren. Bestrooi beide kanten met zout en witte peper.",
     "Laat de geschaafde kool 10 minuten in ijswater knapperig worden, laat dan uitlekken en slinger droog.",
     "Haal elke karbonade door de bloem, klop het teveel eraf, dan door het losgeklopte ei en druk hem stevig in de panko zodat de kruimels rechtop staan.",
-    "Verhit de olie tot 170 °C in een diepe, zware pan. Frituur twee koteletten tegelijk 6–7 minuten, halverwege kerend, tot diep goudbruin; de belletjes eromheen worden rustiger wanneer ze gaar zijn.",
-    "Laat rechtop uitlekken op een rooster — nooit plat op papier, dat maakt de korst zacht — en laat 3 minuten rusten; de nawarmte brengt de kern naar een net-sappige 63–65 °C.",
+    "Verhit de olie tot 170°C in een diepe, zware pan. Frituur twee koteletten tegelijk 6–7 minuten, halverwege kerend, tot diep goudbruin; de belletjes eromheen worden rustiger wanneer ze gaar zijn.",
+    "Laat rechtop uitlekken op een rooster — nooit plat op papier, dat maakt de korst zacht — en laat 3 minuten rusten; de nawarmte brengt de kern naar een net-sappige 63–65°C.",
     "Snijd elke kotelet dwars in repen van 2 cm, in model houdend, en leg hem weer in elkaar op borden naast een berg kool.",
     "Serveer met rijst, citroen, een toefje mosterd en tonkatsusaus eroverheen of ernaast om te dippen."
   ],
@@ -264,7 +264,7 @@ Object.assign(window.NL.recipes, {
 },
 "ea2-kitsune-udon": {
   name: "Kitsune-udon",
-  description: "Dikke, glibberige udonnoedels in een lichtgele amberkleurige dashibouillon, bekroond met een kussen van aburaage — gefrituurde tofu, gesudderd tot hij zoet, sappig en goudkleurig is. Zacht, soulvol en diep troostend.",
+  description: "Dikke, glibberige udonnoedels in een lichtgele amberkleurige dashibouillon, bekroond met een kussen van aburaage — gefrituurde tofu, gesudderd tot hij zoet, sappig en goudkleurig is. Zacht, weldadig en diep troostend.",
   story: "Kitsune-udon (vossen-udon) wordt toegeschreven aan Usami-tei Matsubaya, een noedelzaak in Osaka, rond 1893; de zoete gefrituurde tofu is genoemd naar de vossengeesten van de Inari-schrijnen, die dol zouden zijn op aburaage. De lichte, kombu-gedreven bouillon typeert de Kansai-kruiding, bleker en zachter dan die van Tokio.",
   timeNote: null,
   ingredients: [
@@ -351,7 +351,7 @@ Object.assign(window.NL.recipes, {
     "Laat de kombu en gedroogde shiitakes minstens 30 minuten weken in de 500 ml water (een nacht in de koelkast is beter). Breng langzaam tegen de kook aan en verwijder dan de kombu en paddenstoelen.",
     "Wikkel intussen de tofu in een schone doek, zet er een bord op en laat 20 minuten persen om overtollig vocht eruit te drijven.",
     "Breng de dashi op smaak met de sojasaus en mirin en houd de tsuyu-bouillon warm op het laagste vuur.",
-    "Snijd de geperste tofu in 12 grote blokjes en dep ze droog. Verhit de olie tot 180 °C in een diepe pan.",
+    "Snijd de geperste tofu in 12 grote blokjes en dep ze droog. Verhit de olie tot 180°C in een diepe pan.",
     "Rol elk blokje vlak voor het frituren door het aardappelzetmeel zodat alle kanten bedekt zijn — zetmeel dat te vroeg wordt aangebracht, wordt kleverig.",
     "Frituur de blokjes in twee porties 3–4 minuten, voorzichtig kerend, tot de korst lichtgoud en krokant is. Laat kort uitlekken op een rooster.",
     "Leg drie blokjes in elke ondiepe kom, schenk de hete bouillon eromheen (niet eroverheen) zodat de bovenkant krokant blijft, en garneer met een hoopje geraspte daikon, een snufje gember en bosui. Serveer direct."
@@ -504,7 +504,7 @@ Object.assign(window.NL.recipes, {
     { item: "instantgist" },
     { item: "suiker", note: "voor het deeg" },
     { item: "fijn zeezout" },
-    { item: "warm water", note: "circa 40 °C" },
+    { item: "warm water", note: "circa 40°C" },
     { item: "zachte donkerbruine basterdsuiker", note: "voor de vulling" },
     { item: "gemalen kaneel" },
     { item: "walnoten en pinda’s", note: "fijngehakt" },

@@ -137,7 +137,7 @@ Object.assign(window.NL.recipes, {
     "Vis het kaneelstokje eruit, mix de saus dan volledig glad en wrijf hem door een zeef terug in de pan — het zeven geeft makhani zijn kenmerkende zijdezachtheid.",
     "Verhit intussen de grill op de hoogste stand. Rijg de kip aan spiezen of spreid hem uit op een rooster en gril 10–12 minuten; keer halverwege, tot de kip gaar is met geblakerde randjes; bewaar het rustvocht.",
     "Breng de gezeefde saus zachtjes aan de kook, voeg de kip met het vocht, de suiker en de resterende boter toe en laat 5 minuten sudderen zodat de smaken zich verbinden.",
-    "Verkruimel de kasuri methi tussen je handpalmen boven de pan, voeg de resterende garam masala toe, roer het grootste deel van de room erdoor en proef de balans — eerst fris-zuur, dan pas zoet. Serveer met een sliert room, met naan of basmatirijst erbij."
+    "Verkruimel de kasuri methi tussen je handpalmen boven de pan, voeg de resterende garam masala toe, roer het grootste deel van de room erdoor en proef de balans — eerst friszuur, dan pas zoet. Serveer met een sliert room, met naan of basmatirijst erbij."
   ],
   wines: [
     "De rijkdom van gebakken appel en de heldere zuren van Zuid-Afrikaanse chenin evenaren de romige, frisse tomatensaus gewicht voor gewicht.",
@@ -219,7 +219,7 @@ Object.assign(window.NL.recipes, {
 },
 "sa-goan-fish-curry": {
   name: "Goanese viscurry",
-  description: "Stevige witvis gegaard in een oranjerode saus van verse kokos, Kashmiri-pepers en tamarinde — pittig, fris-zuur en strelend tegelijk, gemaakt om over rijst te lepelen.",
+  description: "Stevige witvis gegaard in een oranjerode saus van verse kokos, Kashmiri-pepers en tamarinde — pittig, friszuur en strelend tegelijk, gemaakt om over rijst te lepelen.",
   story: "Viscurry met rijst (xitti kodi) is het dagelijkse maal van Goa, een Konkani-kusttraditie die in de 16e eeuw werd getransformeerd toen de Portugezen pepers uit Amerika meebrachten; de verzurende kokum of tamarinde houdt hem fris in de tropische hitte.",
   timeNote: null,
   ingredients: [

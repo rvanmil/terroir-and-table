@@ -294,7 +294,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Pocheer de ontzoute kabeljauw 5 minuten in nauwelijks sudderend water, laat uitlekken en afkoelen, en pluk hem in vlokken; verwijder vel en graten.",
-    "Spoel de luciferaardappeltjes, dep ze helemaal droog en frituur ze in porties in olie van 180 °C tot ze goudbruin en knapperig zijn, 3–4 minuten. Laat uitlekken op keukenpapier en bestrooi licht met zout.",
+    "Spoel de luciferaardappeltjes, dep ze helemaal droog en frituur ze in porties in olie van 180°C tot ze goudbruin en knapperig zijn, 3–4 minuten. Laat uitlekken op keukenpapier en bestrooi licht met zout.",
     "Verhit de 80 ml olijfolie in een brede pan op middelhoog vuur en bak de uien met het laurierblad 12–15 minuten tot ze zacht, zoet en lichtgoud zijn. Voeg de knoflook de laatste 2 minuten toe.",
     "Roer de geplukte kabeljauw erdoor en verwarm 2 minuten zodat hij de ui-olie opneemt.",
     "Schep de gefrituurde aardappeltjes erdoor, zet het vuur lager en giet de losgeklopte eieren erover, op smaak gebracht met peper en maar weinig zout.",
@@ -359,7 +359,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Masseer het varkensvlees in met de paprikapasta, knoflook, pimentón, laurier, de helft van de wijn en wat versgemalen peper. Dek af en marineer minstens 4 uur in de koelkast, het liefst een nacht.",
-    "Frituur de aardappelblokjes in olie van 180 °C goudbruin en knapperig, ongeveer 6 minuten; laat uitlekken en bestrooi met zout. Houd warm.",
+    "Frituur de aardappelblokjes in olie van 180°C goudbruin en knapperig, ongeveer 6 minuten; laat uitlekken en bestrooi met zout. Houd warm.",
     "Haal het vlees uit de marinade en dep het droog; bewaar het vocht. Verhit de olijfolie in een brede, diepe pan op hoog vuur en braad het vlees in twee porties goed bruin aan, ongeveer 4 minuten per portie.",
     "Doe al het vlees terug in de pan, giet de bewaarde marinade en de resterende wijn erbij en laat tot de helft inkoken terwijl je de aanbaksels losschraapt, ongeveer 5 minuten — het vlees moet net gaar zijn en de saus glanzend.",
     "Voeg de schelpen toe, dek af en schud de pan op hoog vuur 3–5 minuten tot ze allemaal opengaan; gooi exemplaren weg die dicht blijven.",
@@ -425,11 +425,11 @@ Object.assign(window.NL.recipes, {
     { item: "kaneelpoeder en poedersuiker", note: "om te serveren" }
   ],
   steps: [
-    "Kook de suiker en het water met het kaneelstokje en de citroenschil tot 105 °C (een lichte siroop) en zet weg om te trekken.",
+    "Kook de suiker en het water met het kaneelstokje en de citroenschil tot 105°C (een lichte siroop) en zet weg om te trekken.",
     "Klop de bloem glad met een derde van de koude melk. Breng de rest van de melk met de room tegen de kook aan, klop dit op het bloemmengsel en zet terug op laag vuur; blijf roeren tot het indikt tot een losse béchamel.",
     "Giet de warme siroop in een dun straaltje door een zeef bij de melkbasis, al kloppend, en laat 10 minuten afkoelen voordat je de dooiers erdoor klopt. Zeef de custard in een kan — hij moet dun en schenkbaar zijn.",
     "Rol het bladerdeeg op tot een strakke rol, snijd in 12 plakken en laat 20 minuten koelen. Druk elke plak, met de spiraal naar boven, met natte duimen in de holtes van een muffinvorm en werk het deeg langs de randen omhoog tot het flinterdun is met een kleine overhang.",
-    "Verwarm de oven zo heet als hij kan — minstens 250 °C, het liefst 270 °C — met een bakplaat erin.",
+    "Verwarm de oven zo heet als hij kan — minstens 250°C, het liefst 270°C — met een bakplaat erin.",
     "Vul elk deegbakje voor driekwart met custard en bak op de hete plaat in 11–14 minuten tot het deeg diep goudbruin is en de custard gerezen en bevlekt met donkere karamelplekken.",
     "Laat maar 5 minuten afkoelen in de vorm — de custards zakken terug en stollen — en eet ze dan warm, bestoven met kaneel en poedersuiker."
   ],

@@ -49,7 +49,7 @@ Object.assign(window.NL.recipes, {
     { item: "blauwe fenegriek (utskho suneli)", note: "of ½ tl gemalen fenegriek" },
     { item: "gedroogde goudsbloemblaadjes (imeruli shaprani)", note: "optioneel" },
     { item: "cayennepeper" },
-    { item: "witte wijnazijn" },
+    { item: "wittewijnazijn" },
     { item: "koud water" },
     { item: "handje granaatappelpitjes" },
     { item: "zeezout" }
@@ -114,7 +114,7 @@ Object.assign(window.NL.recipes, {
     { item: "gemalen koriander" },
     { item: "blauwe fenegriek (utskho suneli)" },
     { item: "gedroogde bonenkruid of tijm" },
-    { item: "rode wijnazijn" },
+    { item: "rodewijnazijn" },
     { item: "bosje koriander", note: "gehakt" },
     { item: "zeezout en cayennepeper" }
   ],
@@ -216,7 +216,7 @@ Object.assign(window.NL.recipes, {
     { item: "lams- of kippenbouillon", note: "krachtig van smaak en ontvet" },
     { item: "gedroogde munt" },
     { item: "knoflooktenen", note: "geperst" },
-    { item: "witte wijnazijn" },
+    { item: "wittewijnazijn" },
     { item: "klein bosje koriander of dille", note: "gehakt" },
     { item: "zeezout" }
   ],
@@ -399,7 +399,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Rijk aan lychee en zachtweelderig omarmt hij de zoete tonen van wortel en rozijn en de warme kruiding van het gerecht.",
-    "Wild donker fruit met een rijpe kern houdt stand tegen gekarameliseerd lamsvlees en evenaart de zoetheid van het gedroogde fruit."
+    "Wild donker fruit met een rijpe kern houdt stand tegen gekaramelliseerd lamsvlees en evenaart de zoetheid van het gedroogde fruit."
   ],
   tip: "Maak de karamel echt donker — tot op het randje van bitter — anders smaakt de rijst slechts zoet in plaats van die kenmerkende, gebrand-amberkleurige diepte van het gerecht te krijgen."
 },

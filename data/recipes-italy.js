@@ -43,7 +43,7 @@ window.RECIPES.push(
     "Spoon the sauce evenly over the meat, scatter with whole capers and a little black pepper, and rest at cool room temperature for 20 minutes before serving."
   ],
   wines: [
-    { id: "gavi", note: "Piedmont’s crisp Cortese cuts the creamy tuna sauce while respecting the veal’s delicacy — the local match." },
+    { id: "roero-arneis", note: "Grown across the Tanaro from the Langhe, Arneis is the dish’s birthright pairing — pear-and-almond freshness against the creamy tuna sauce." },
     { id: "provence-rose", note: "Pale, dry rosé bridges the dish’s cold meat and briny sauce without overwhelming either." }
   ],
   tip: "If you’re wary of raw yolks, fold the tuna paste into 150 g of good shop-bought mayonnaise instead — sacrilege in Turin, but reliably delicious."
@@ -280,7 +280,7 @@ window.RECIPES.push(
   story: "A dish of Milanese osterie documented since the 18th century, its name meaning ‘bone with a hole’ in dialect. The traditional bianco version is made without tomato, brightened instead by the gremolada, and is classically served over risotto alla milanese.",
   tastes: ["rich", "umami", "bright"],
   keyIngredients: ["beef", "citrus", "herbs"],
-  dietary: ["dairy-free"],
+  dietary: [],
   difficulty: "intermediate",
   activeMinutes: 40,
   totalMinutes: 165,
@@ -289,7 +289,8 @@ window.RECIPES.push(
   ingredients: [
     { qty: 4, unit: "", item: "veal shank cross-cuts (ossobuco)", note: "about 300 g each, 4 cm thick" },
     { qty: 50, unit: "g", item: "plain flour", note: "for dusting" },
-    { qty: 4, unit: "tbsp", item: "olive oil" },
+    { qty: 2, unit: "tbsp", item: "olive oil" },
+    { qty: 50, unit: "g", item: "butter" },
     { qty: 1, unit: "", item: "onion", note: "finely diced" },
     { qty: 1, unit: "", item: "carrot", note: "finely diced" },
     { qty: 1, unit: "", item: "celery stalk", note: "finely diced" },
@@ -302,7 +303,7 @@ window.RECIPES.push(
   ],
   steps: [
     "Snip the membrane around each shank in three places so they stay flat, season well and dust lightly with flour.",
-    "Heat the oil in a wide casserole and brown the shanks hard, 3–4 minutes per side, until deeply golden. Set aside.",
+    "Heat the oil and butter in a wide casserole and brown the shanks hard, 3–4 minutes per side, until deeply golden. Set aside.",
     "Lower the heat, add the onion, carrot and celery to the same pan and sweat for 10 minutes, scraping up the browned bits, until soft.",
     "Return the shanks in a single layer, pour in the wine and let it reduce by half.",
     "Add the stock and the strips of lemon zest — the liquid should come two-thirds up the meat. Cover and braise at the gentlest simmer (or at 160°C in the oven) for about 2 hours, turning once, until the meat yields to a spoon but still clings to the bone.",

@@ -25,7 +25,7 @@ Object.assign(window.NL.recipes, {
     "Laat de geweekte kikkererwten goed uitlekken en dep ze droog. Maal ze in een keukenmachine met pulserende slagen samen met de ui, knoflook, peterselie, koriander, komijn, gemalen koriander en 1,5 tl zout tot het mengsel op grove, vochtige couscous lijkt die net samenhangt als je erin knijpt — pureer het niet glad.",
     "Laat het mengsel 30 minuten rusten in de koelkast zodat het zetmeel kan hydrateren, en roer het zuiveringszout er pas vlak voor het frituren door.",
     "Maak de tahinsaus: klop de tahin los met het citroensap, een geperste teen knoflook en een snufje zout. De saus zal eerst stug worden en daarna weer soepel terwijl je er 80–100 ml koud water door klopt tot een schenkbare crème.",
-    "Verhit de olie in een diepe pan tot 175 °C. Vorm het mengsel met natte handen of een falafelschep tot balletjes ter grootte van een walnoot of licht afgeplatte schijfjes.",
+    "Verhit de olie in een diepe pan tot 175°C. Vorm het mengsel met natte handen of een falafelschep tot balletjes ter grootte van een walnoot of licht afgeplatte schijfjes.",
     "Frituur ze in porties van 6–8 stuks in ongeveer 4 minuten, halverwege gekeerd, tot ze diep mahoniebruin en knapperig zijn; vanbinnen horen ze dampend en lichtgroen te zijn. Laat uitlekken op keukenpapier en bestrooi direct met zout.",
     "Serveer heet, opgestapeld in warm pitabrood of op een bord, overgoten met tahinsaus, met augurken, tomaat en naar keuze een salade erbij."
   ],
@@ -58,7 +58,7 @@ Object.assign(window.NL.recipes, {
     { item: "zeezout" }
   ],
   steps: [
-    "Verwarm de oven voor op 200 °C. Bestrijk de pitalagen met 3 el olijfolie, scheur ze in grove scherven en bak ze in 6–8 minuten goudbruin en helemaal knapperig. Laat afkoelen op de bakplaat.",
+    "Verwarm de oven voor op 200°C. Bestrijk de pitalagen met 3 el olijfolie, scheur ze in grove scherven en bak ze in 6–8 minuten goudbruin en helemaal knapperig. Laat afkoelen op de bakplaat.",
     "Klop de dressing: knoflookpasta, citroensap, granaatappelmelasse, sumak, een flinke snuf zout en 80 ml olijfolie. Proef — hij moet uitgesproken zuur zijn met een zoetzure ruggengraat.",
     "Doe de tomaten, komkommer, radijs, bosui en groene paprika in een wijde kom en bestrooi licht met zout zodat ze hun vocht beginnen los te laten.",
     "Voeg de postelein, peterselie en munt toe, schenk de dressing erover en schep alles voorzichtig maar grondig om met je handen.",
@@ -196,7 +196,7 @@ Object.assign(window.NL.recipes, {
     "Giet alle olie op 2 el na af. Bak de uien in 6–8 minuten goudbruin, voeg de knoflook en het gehakt toe en bak het rul tot het gebruind en droog is.",
     "Roer de geraspte tomaat, tomatenpuree, pul biber, zout en peper erdoor en laat 5 minuten sudderen tot de vulling dik is. Spatel naast het vuur de peterselie erdoor.",
     "Leg de aubergines in een ovenschaal, snijd elk exemplaar in de lengte in zonder de uiteinden door te snijden en wrik een diepe holte open. Vul royaal met het gehaktmengsel en dek elke aubergine af met een plak tomaat en een groene peper.",
-    "Schenk het hete water (op smaak gebracht met een snuf zout) rond de aubergines en bak ze 30–35 minuten op 190 °C, tot het vruchtvlees volledig is ingezakt en de bovenkanten gekarameliseerd zijn. Laat 10 minuten rusten en serveer met rijstpilav, met het braadvocht eroverheen gelepeld."
+    "Schenk het hete water (op smaak gebracht met een snuf zout) rond de aubergines en bak ze 30–35 minuten op 190°C, tot het vruchtvlees volledig is ingezakt en de bovenkanten gekaramelliseerd zijn. Laat 10 minuten rusten en serveer met rijstpilav, met het braadvocht eroverheen gelepeld."
   ],
   wines: [
     "Een lichte vulkanische rode wijn met rokerig rood fruit past bij zijdezachte aubergine en tomaat zonder ze met tannine te verpletteren.",
@@ -333,7 +333,7 @@ Object.assign(window.NL.recipes, {
     "Bak de amandelen in een klontje boter goudbruin, laat afkoelen en maal ze grof met de poedersuiker, 0,5 tl kaneel en het oranjebloesemwater.",
     "Vet een ronde vorm of ovenvaste koekenpan van 24 cm in met boter. Bekleed hem met 6 vellen filo, elk bestreken met boter, waaiervormig zodat ze rondom over de rand hangen.",
     "Vul in lagen: de helft van het amandelmengsel, de geplukte kip, de eiervlokken en dan de rest van de amandelen. Vouw het overhangende filodeeg over de bovenkant, dek af met de laatste 2 beboterde vellen en stop de randen langs de zijkanten naar binnen als een trommel.",
-    "Bak 30–35 minuten op 180 °C tot de bastilla diep goudbruin en knapperig is. Laat 5 minuten rusten, stort hem op een bord als je een gladde bovenkant wilt, bestuif met poedersuiker en trek er een raster van gemalen kaneel over. Serveer heet."
+    "Bak 30–35 minuten op 180°C tot de bastilla diep goudbruin en knapperig is. Laat 5 minuten rusten, stort hem op een bord als je een gladde bovenkant wilt, bestuif met poedersuiker en trek er een raster van gemalen kaneel over. Serveer heet."
   ],
   wines: [
     "Gewurz vol lychee en rozen is dol op de kaneel, oranjebloesem en de zoet-hartige spanning van bastilla.",
@@ -376,7 +376,7 @@ Object.assign(window.NL.recipes, {
 },
 "mn-gemista": {
   name: "Gevulde tomaten en paprika’s",
-  description: "Zoetgerijpte tomaten en paprika’s, gebakken tot ze rimpelig en gekarameliseerd zijn, gevuld met kruidenrijst die hun sappen heeft opgedronken, met knapperige in olie geroosterde aardappelen ertussen gewurmd.",
+  description: "Zoetgerijpte tomaten en paprika’s, gebakken tot ze rimpelig en gekaramelliseerd zijn, gevuld met kruidenrijst die hun sappen heeft opgedronken, met knapperige in olie geroosterde aardappelen ertussen gewurmd.",
   story: "Gemista is het hoogzomerse ladera-gerecht van Griekenland, gekookt in olijfolie voor de vastendagen van de orthodoxe kalender; volgens dorpstraditie ging de bakplaat ’s ochtends naar de gemeenschappelijke bakkersoven en kwam hij thuis voor de lunch.",
   timeNote: null,
   ingredients: [
@@ -401,7 +401,7 @@ Object.assign(window.NL.recipes, {
     "Maak de vulling: verwarm 60 ml van de olijfolie in een hapjespan, fruit de geraspte ui en knoflook zacht en roer dan de rijst 2 minuten mee. Voeg het gehakte tomatenvruchtvlees, de tomatenpuree, rozijnen, pijnboompitten, oregano en 150 ml water toe; laat 5 minuten sudderen — de rijst moet nog flink ongaar zijn. Roer de peterselie en munt erdoor en breng stevig op smaak.",
     "Zet de groenten dicht tegen elkaar in een ovenschaal en vul ze elk voor ongeveer driekwart, zodat de rijst ruimte heeft om te zwellen. Zet de dekseltjes terug.",
     "Wurm de aardappelparten in de openingen, breng ze op smaak en schenk de resterende olijfolie en 150 ml water over alles heen.",
-    "Bak 75–90 minuten op 180 °C, twee keer bedruipend met het bakvocht, tot de groenten ingezakt en geblakerd zijn, de rijst gaar is en de aardappelen goudbruin aan de randen. Kleuren ze te snel, dek dan losjes af met folie.",
+    "Bak 75–90 minuten op 180°C, twee keer bedruipend met het bakvocht, tot de groenten ingezakt en geblakerd zijn, de rijst gaar is en de aardappelen goudbruin aan de randen. Kleuren ze te snel, dek dan losjes af met folie.",
     "Laat minstens 20 minuten rusten — gemista is op zijn best warm, niet heet, en veel Grieken houden vol dat hij de volgende dag op kamertemperatuur nog beter is."
   ],
   wines: [
@@ -462,7 +462,7 @@ Object.assign(window.NL.recipes, {
     "Gebruik je Nabulsi of akkawi, proef dan een stukje na het weken in meerdere keren vers koud water; het mag nog maar nauwelijks zout zijn. Dep droog en scheur in stukken.",
     "Hak het kataifideeg in stukken van 2–3 cm en wrijf de gesmolten boter er met je vingers doorheen tot elke draad bedekt is en het zacht samenklontert.",
     "Druk het deeg stevig en gelijkmatig over de bodem van een beboterde ronde pan van 26 cm en stamp het aan met de onderkant van een glas — een compacte laag bakt tot een snijdbare korst.",
-    "Verdeel de kaas gelijkmatig over het deeg en houd een rand van 1 cm vrij. Zet de pan op matig-laag vuur en bak, terwijl je de pan om de paar minuten draait, 12–18 minuten tot de onderkant diep goudbruin is (til een randje op om te kijken) en de kaas volledig gesmolten. Of bak ongeveer 25 minuten op 200 °C.",
+    "Verdeel de kaas gelijkmatig over het deeg en houd een rand van 1 cm vrij. Zet de pan op matig-laag vuur en bak, terwijl je de pan om de paar minuten draait, 12–18 minuten tot de onderkant diep goudbruin is (til een randje op om te kijken) en de kaas volledig gesmolten. Of bak ongeveer 25 minuten op 200°C.",
     "Leg een groot bord op de pan en stort de knafeh in één zelfverzekerde beweging, zodat de korst boven ligt. Schenk de helft van de afgekoelde siroop erover, bestrooi royaal met pistaches en serveer heet in punten, met de rest van de siroop erbij."
   ],
   wines: [
@@ -495,7 +495,7 @@ Object.assign(window.NL.recipes, {
     "Meng de griesmeel, kokos, 100 g suiker en het bakpoeder. Spatel de gesmolten boter erdoor en daarna de yoghurt; meng slechts tot alles gelijkmatig vochtig is — te lang mengen maakt de cake taai.",
     "Vet een vorm van 20 x 20 cm in met de tahin (die voorkomt plakken en geeft een vleugje sesam). Druk het beslag stevig aan met vochtige handen of een paletmes en strijk de bovenkant glad.",
     "Kerf het oppervlak met een geolied mes diep in tot 16 ruiten en druk in het midden van elke ruit een amandel.",
-    "Bak 30–35 minuten op 180 °C tot de bovenkant goudbruin is en aan een satéprikker vochtige kruimels blijven hangen.",
+    "Bak 30–35 minuten op 180°C tot de bovenkant goudbruin is en aan een satéprikker vochtige kruimels blijven hangen.",
     "Snijd direct na het bakken opnieuw langs de kerflijnen en schenk dan de koude siroop langzaam en gelijkmatig over de hete cake, waarbij je elke scheut laat intrekken. Laat minstens 1 uur rusten en serveer met muntthee of koffie."
   ],
   wines: [

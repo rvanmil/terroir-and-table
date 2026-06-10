@@ -226,9 +226,9 @@ Object.assign(window.NL.recipes, {
     "Klop de zure room, citroenrasp en -sap en vanille erdoor, en daarna de eieren en de dooier één voor één, en meng alleen tot elk ei is opgenomen.",
     "Verpak de onderkant van de vorm in folie, zet hem in een braadslede en giet de vulling over de bodem. Schenk heet water in de slede tot het 2–3 cm tegen de zijkanten staat.",
     "Bak 55–65 minuten, tot de randen gestold zijn maar een cirkel van 6–8 cm in het midden nog trilt als pudding wanneer je ertegen tikt.",
-    "Zet de oven uit, zet de deur op een kier en laat de taak een uur binnenin afkoelen; koel daarna minstens 6 uur. Haal een heet mes langs de rand voordat je de vorm losklikt, en snijd met een heet, droog lemmet."
+    "Zet de oven uit, zet de deur op een kier en laat de taart een uur binnenin afkoelen; koel daarna minstens 6 uur. Haal een heet mes langs de rand voordat je de vorm losklikt, en snijd met een heet, droog lemmet."
   ],
-  wines: ["Honingzoete botrytis en abrikoosachtige zuren glijden als een saus over de dichte, frisse room.", "Schuimig, zachtzoet en maar 5,5% — zijn druivige lichtheid houdt een rijke punt licht aanvoelen."],
+  wines: ["De rassige zuren van Riesling snijden door de dichte room, terwijl honingzoete abrikoos de frisse vanillevulling ontmoet.", "Schuimig, zachtzoet en maar 5,5% — zijn druivige lichtheid laat een rijke punt licht aanvoelen."],
   tip: "Elk ingrediënt moet echt op kamertemperatuur zijn voor het mengen — koude roomkaas wordt nooit helemaal glad, en klontjes klop je er later niet meer uit."
 },
 "rd-texas-pecan-pie": {

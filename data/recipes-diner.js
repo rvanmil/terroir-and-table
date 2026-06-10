@@ -346,7 +346,7 @@ window.RECIPES.push(
     "Turn the oven off, prop the door ajar and let the cake cool inside for an hour, then chill at least 6 hours. Run a hot knife around the edge before unclipping, and slice with a hot, dry blade."
   ],
   wines: [
-    { id: "sauternes", note: "Honeyed botrytis sweetness and apricot acidity glide over the dense, tangy cream like a sauce." },
+    { id: "beerenauslese", note: "Riesling’s racy acidity slices through the dense cream while honeyed apricot meets the tangy vanilla filling." },
     { id: "moscato-asti", note: "Frothy, gently sweet and only 5.5% — its grapey lift keeps a rich slice feeling light." }
   ],
   tip: "Every ingredient must be at true room temperature before mixing — cold cream cheese never fully smooths out, and lumps cannot be beaten away later."

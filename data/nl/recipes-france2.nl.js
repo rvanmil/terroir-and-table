@@ -271,7 +271,7 @@ Object.assign(window.NL.recipes, {
     "De wijn waarin het gerecht smoort: strak, droog en mineraal snijdt hij door het varkensvet en evenaart hij de frisheid van de kool.",
     "Een vleugje zoet en elektrische zuren flatteren zowel de rook als de zure kool."
   ],
-  tip: "Spoel de zuurkool één keer voor een fris-zuur resultaat of twee keer voor een milder — proef een sliertje rauw voor hij de pan in gaat en beslis dan."
+  tip: "Spoel de zuurkool één keer voor een friszuur resultaat of twee keer voor een milder — proef een sliertje rauw voor hij de pan in gaat en beslis dan."
 },
 "fr2-daube-provencale": {
   name: "Provençaalse runderdaube",
@@ -302,7 +302,7 @@ Object.assign(window.NL.recipes, {
     "Schep het vet af, verwijder het bouquet garni en proef — er kan zout, peper of een verse rasp sinaasappelschil bij nodig zijn. Laat 15 minuten rusten en serveer met macaroni of aardappelpuree."
   ],
   wines: [
-    "Naar garrigue geurende grenache uit naburige wijngaarden weerklinkt in de kruiden en houdt stand tegen de donkere wijnsaus.",
+    "De ijkpunt-grenache van de zuidelijke Rhône — garrigue, warme steen en specerijen — gegroeid naast de kruiden van de daube zelf.",
     "Met zijn leisteenrand en concentratie heeft hij de spierkracht voor langgesmoord rundvlees en ziltige olijven."
   ],
   tip: "Zoals de meeste stoofschotels is daube de volgende dag beter — gaar haar volledig, laat een nacht koelen, til het vet eraf en verwarm voorzichtig opnieuw."

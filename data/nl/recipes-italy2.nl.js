@@ -55,7 +55,7 @@ Object.assign(window.NL.recipes, {
     "Knijp het brood zachtjes uit tussen je handen en verkruimel het in een wijde kom; het moet vochtig en luchtig zijn, nooit klef.",
     "Snijd de tomaten boven de kom zodat er geen sap verloren gaat, bestrooi ze met zout en laat ze hun vocht in het brood lekken.",
     "Voeg de ui, komkommer en basilicum toe en maak aan met de rest van de azijn, de olijfolie, zout en flink wat zwarte peper.",
-    "Schep om met je handen, proef — de salade moet uitgesproken fris-zuur zijn — en breng verder op smaak met azijn en zout.",
+    "Schep om met je handen, proef — de salade moet uitgesproken friszuur zijn — en breng verder op smaak met azijn en zout.",
     "Laat 30 minuten rusten op koele kamertemperatuur voor het serveren, zodat het brood de dressing opdrinkt; zet hem nooit in de koelkast, dat doodt de tomaten."
   ],
   wines: [
@@ -267,12 +267,13 @@ Object.assign(window.NL.recipes, {
     { item: "kruidnagels" },
     { item: "klein stukje kaneelstokje" },
     { item: "extra vergine olijfolie" },
+    { item: "boter" },
     { item: "zeezout en zwarte peper" }
   ],
   steps: [
     "Leg het rundvlees de avond tevoren in een diepe kom met de groenten, knoflook, kruiden en specerijen, schenk de wijn erover, dek af en zet in de koelkast; keer het vlees een keer als je eraan denkt.",
     "Haal het vlees eruit en dep het kurkdroog; zeef de wijn en bewaar wijn en groenten apart. Bestrooi het vlees royaal met zout en peper.",
-    "Verhit de olie in een zware braadpan en braad het vlees hard aan alle kanten aan, in totaal 10–12 minuten, tot er een diep mahoniekleurige korst ontstaat. Leg het vlees apart.",
+    "Verhit de olie en de boter in een zware braadpan en braad het vlees hard aan alle kanten aan, in totaal 10–12 minuten, tot er een diep mahoniekleurige korst ontstaat. Leg het vlees apart.",
     "Laat de gemarineerde groenten in dezelfde pan 8–10 minuten zacht worden, terwijl je de aanbaksels losschraapt.",
     "Leg het vlees terug, schenk de wijn erbij en breng aan de kook; schep het grijze schuim af. Dek af en laat tegen de kook aan smoren — op het fornuis of in een oven van 150°C — gedurende 3 tot 3½ uur, het vlees elk uur kerend, tot een vork er zonder weerstand in glijdt.",
     "Laat het vlees rusten onder folie. Verwijder de laurier, rozemarijn en hele specerijen, pureer de groenten in het stoofvocht en laat inkoken tot de saus een lepel donker bedekt.",
@@ -280,7 +281,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Wat samen groeit, hoort samen — de wijn uit de pan, met zijn teer-en-rozen-strengheid, is de enige eerste keus.",
-    "Is de Barolo helemaal in de pan beland, dan heeft krachtige Tempranillo de structuur en het donkere fruit voor het fluweelzachte rundvlees."
+    "Verona’s reus van gedroogde druiven beantwoordt de concentratie van het stoofvocht met die van zichzelf — gedroogde kers en donkere specerijen rond het fluweelzachte rundvlees."
   ],
   tip: "Je hebt geen fles van 60 euro nodig voor in de pan: elke eerlijke, stevige Nebbiolo (Langhe of Gattinara) smoort prachtig — bewaar de echte Barolo voor in de glazen."
 },
@@ -435,7 +436,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Schuimig, druivig en maar 5,5% — de lichte bubbel van Piemonte zelf spiegelt de zoetheid van het schuim zonder het te verzwaren.",
-    "Nootachtige amberdiepte speelt het volwassen tegenwicht voor de warme, wijnige custard."
+    "De wijn die in de custard zelf wordt geklopt — gekaramelliseerde sinaasappel en hazelnoot verdiepen elke lepel."
   ],
   tip: "Gebruik een ballongarde en een ruime kom — het volume komt van lucht, niet van warmte. Een verhouding om te onthouden: per persoon één dooier, één eetlepel suiker en één halve eierschaal Marsala."
 },

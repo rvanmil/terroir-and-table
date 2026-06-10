@@ -97,8 +97,8 @@ window.RECIPES.push(
   description: "A thick golden cake of grated potato fried in butter until shatteringly crisp outside and tender within, flipped whole and served in wedges.",
   story: "Rösti began as a farmer’s breakfast in the canton of Bern, fried from the previous day’s boiled potatoes; it became so emblematic of German-speaking Switzerland that the cultural divide with the French-speaking west is jokingly called the Röstigraben — the ‘rösti ditch’.",
   tastes: ["rich", "earthy", "nutty"],
-  keyIngredients: ["potatoes", "butter"],
-  dietary: ["vegetarian", "gluten-free"],
+  keyIngredients: ["potatoes", "butter", "pork"],
+  dietary: ["gluten-free"],
   difficulty: "approachable",
   activeMinutes: 25,
   totalMinutes: 60,
@@ -108,14 +108,15 @@ window.RECIPES.push(
     { qty: 1, unit: "kg", item: "waxy potatoes", note: "boiled in their skins until just tender, cooled completely" },
     { qty: 60, unit: "g", item: "butter", note: "or half butter, half lard for extra crispness" },
     { qty: 1, unit: "tbsp", item: "sunflower oil" },
+    { qty: 100, unit: "g", item: "smoked bacon (Speck)", note: "finely diced" },
     { qty: 1, unit: "", item: "small onion", note: "finely sliced — optional, but common in Bernese kitchens" },
     { qty: 1, unit: "tsp", item: "fine sea salt" },
     { qty: null, unit: "", item: "black pepper" }
   ],
   steps: [
     "Boil the unpeeled potatoes in salted water until a knife meets slight resistance at the centre, about 20 minutes. Drain and cool completely — ideally overnight in the fridge, which firms the starch.",
-    "Peel the cold potatoes and grate them on the coarse holes of a box grater. Season with salt and pepper and toss gently with the onion, if using, keeping the strands loose.",
-    "Heat half the butter with the oil in a 24–26 cm non-stick or well-seasoned pan over medium heat until foaming.",
+    "Peel the cold potatoes and grate them on the coarse holes of a box grater. Season with salt and pepper, keeping the strands loose.",
+    "Heat half the butter with the oil in a 24–26 cm non-stick or well-seasoned pan over medium heat and fry the bacon and the onion, if using, for 2–3 minutes until the fat runs and the onion turns translucent.",
     "Add the potatoes and press lightly into an even cake with a spatula, neatening the edges. Fry for 12–15 minutes, shaking the pan occasionally, until the underside is deep golden — lift an edge to check.",
     "Slide the rösti onto a plate, invert the pan over it and flip the whole thing back in. Add the remaining butter around the edges so it runs underneath.",
     "Fry the second side for another 10–12 minutes until evenly crisp and golden. Slide onto a board and serve cut into wedges, crust side up."
@@ -260,7 +261,7 @@ window.RECIPES.push(
   ],
   wines: [
     { id: "tokaji-aszu", note: "Electric apricot-and-honey sweetness with searing acidity mirrors the spiced apples and slices through the buttery crust." },
-    { id: "bual-madeira", note: "Toffee, raisin and that signature Madeira acidity echo the cinnamon and soaked raisins without cloying." }
+    { id: "beerenauslese", note: "Botrytised Riesling is baked apple and honey in a glass — it mirrors the spiced filling while its electric acidity cuts the buttery crust." }
   ],
   tip: "Use apples that hold their shape — a floury variety will collapse to sauce and the tall wedge will slump when sliced."
 },

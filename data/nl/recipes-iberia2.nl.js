@@ -53,7 +53,7 @@ Object.assign(window.NL.recipes, {
     "Voeg de warme melk soeplepel voor soeplepel toe en klop elke toevoeging glad voordat de volgende erbij gaat. Laat al roerend 10–12 minuten garen tot de bechamel dik en glanzend is en van de wanden van de pan loslaat.",
     "Breng op smaak met nootmuskaat, witte peper en een beetje zout (de jamón is al zout). Strijk het mengsel uit in een ondiepe schaal, druk vershoudfolie op het oppervlak en laat minstens 4 uur opstijven in de koelkast.",
     "Vorm met licht geoliede handen cilinders van ongeveer 6 cm lang. Haal ze door het losgeklopte ei en daarna door het paneermeel; druk de kruimels stevig aan.",
-    "Verhit de frituurolie tot 180 °C. Frituur de croquetas in porties van 5–6 stuks in ongeveer 2 minuten, al kerend, diep goudbruin — een te volle pan laat de temperatuur dalen en dan kunnen ze openbarsten.",
+    "Verhit de frituurolie tot 180°C. Frituur de croquetas in porties van 5–6 stuks in ongeveer 2 minuten, al kerend, diep goudbruin — een te volle pan laat de temperatuur dalen en dan kunnen ze openbarsten.",
     "Laat ze een minuutje uitlekken op keukenpapier en serveer ze heet, zolang het hart nog vloeibaar is."
   ],
   wines: [
@@ -84,8 +84,8 @@ Object.assign(window.NL.recipes, {
     "Snijd de aardappels in onregelmatige brokken van 3–4 cm, spoel ze af en dep ze grondig droog met een schone theedoek.",
     "Verhit voor de saus de 3 el olie in een steelpan en laat de ui op middelhoog vuur in 8 minuten zacht worden. Voeg de knoflook toe en bak 1 minuut mee; haal dan de pan van het vuur en roer beide pimentóns en de cayenne erdoor, zodat ze hun aroma loslaten zonder te verbranden.",
     "Voeg de gepureerde tomaten en een snuf zout toe en laat 15 minuten zachtjes sudderen tot de saus dik en dieprood is. Mix glad, roer de azijn erdoor en breng op smaak met zout — de saus moet uitgesproken, rokerig en duidelijk pittig zijn.",
-    "Verhit de frituurolie tot 140 °C en blancheer de aardappels 8–10 minuten tot ze gaar aanvoelen aan een mespunt maar nauwelijks kleur hebben. Schep ze eruit en laat uitlekken.",
-    "Verhoog de olietemperatuur tot 190 °C en frituur de aardappels nogmaals 3–4 minuten tot ze diep goudbruin zijn met knapperige randjes. Laat uitlekken op keukenpapier en bestrooi meteen met zout.",
+    "Verhit de frituurolie tot 140°C en blancheer de aardappels 8–10 minuten tot ze gaar aanvoelen aan een mespunt maar nauwelijks kleur hebben. Schep ze eruit en laat uitlekken.",
+    "Verhoog de olietemperatuur tot 190°C en frituur de aardappels nogmaals 3–4 minuten tot ze diep goudbruin zijn met knapperige randjes. Laat uitlekken op keukenpapier en bestrooi meteen met zout.",
     "Stapel de aardappels op een warm bord en schep de bravasaus er royaal overheen — nooit eronder, anders stomen ze zacht. Serveer direct met cocktailprikkers."
   ],
   wines: [
@@ -243,7 +243,7 @@ Object.assign(window.NL.recipes, {
     "Bestrooi de stukken ossenstaart royaal met zout en peper en bestuif ze licht met bloem. Verhit de olie in een zware braadpan op middelhoog tot hoog vuur en braad ze in porties rondom diepbruin aan — in totaal 10–12 minuten. Leg apart.",
     "Zet het vuur lager, doe de uien, wortels, prei en knoflook in dezelfde pan en bak ze 12–15 minuten, terwijl je de aanbaksels losschraapt, tot ze zacht en licht gekaramelliseerd zijn.",
     "Roer de tomatenpuree erdoor en bak 2 minuten; giet dan de wijn en sherry erbij. Laat 5 minuten hard koken om de alcohol te laten verdampen.",
-    "Doe de ossenstaart terug met de laurier en tijm, voeg net genoeg bouillon toe om alles bijna onder te zetten en breng aan de kook. Dek af en stoof op het zachtste pruttelvuur — op het fornuis of in de oven op 150 °C — 3 tot 3½ uur, tot het vlees bij het minste duwtje van een lepel van het bot glijdt.",
+    "Doe de ossenstaart terug met de laurier en tijm, voeg net genoeg bouillon toe om alles bijna onder te zetten en breng aan de kook. Dek af en stoof op het zachtste pruttelvuur — op het fornuis of in de oven op 150°C — 3 tot 3½ uur, tot het vlees bij het minste duwtje van een lepel van het bot glijdt.",
     "Schep de ossenstaart eruit. Zeef de saus en druk de groenten door een zeef (of mix ze erdoor voor een dikker, rustieker resultaat); schep daarna het vet eraf.",
     "Kook de saus op hoog vuur in tot hij glanzend aan een lepel blijft hangen — ongeveer 10 minuten. Proef en breng op smaak.",
     "Doe het vlees terug in de saus en verwarm het zachtjes. Serveer met gebakken aardappels of een gladde aardappelpuree om de saus op te vangen."
@@ -269,7 +269,7 @@ Object.assign(window.NL.recipes, {
     { item: "poedersuiker", note: "om te bestuiven" }
   ],
   steps: [
-    "Verwarm de oven voor op 175 °C en vet een springvorm van 23 cm in met boter; bekleed de bodem met bakpapier.",
+    "Verwarm de oven voor op 175°C en vet een springvorm van 23 cm in met boter; bekleed de bodem met bakpapier.",
     "Klop de eieren met de kristalsuiker 3–4 minuten tot het mengsel bleek en licht gebonden is en in volume is verdubbeld.",
     "Spatel het amandelmeel, de citroenrasp en kaneel erdoor tot er geen droge plekken meer zijn — het beslag wordt dik en zwaar; niet te lang mengen.",
     "Schep het in de vorm, strijk de bovenkant glad en bak 35–40 minuten tot de taart diep goudbruin is, veerkrachtig in het midden, en er aan een satéprikker vochtige kruimels maar geen nat beslag blijven hangen.",
@@ -337,9 +337,9 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Mix de pepers, knoflook, paprikapoeder, citroensap, azijn, olie, het laurierblad, de whisky en 2 tl zout tot een losse, felgekleurde saus. Laat hem 5 minuten zachtjes pruttelen in een steelpannetje zodat de smaken zich verbinden, en laat afkoelen. Houd een derde apart om mee te bedruipen en te serveren.",
     "Kerf de poten en borst van de kip op een paar plaatsen tot op het bot, wrijf de kip rondom in met de rest van de saus en laat afgedekt in de koelkast minstens 4 uur marineren, het liefst een nacht.",
-    "Laat de kip op kamertemperatuur komen. Maak een barbecue klaar voor matige indirecte hitte, of verwarm de oven voor op 200 °C met een rooster boven een braadslee.",
+    "Laat de kip op kamertemperatuur komen. Maak een barbecue klaar voor matige indirecte hitte, of verwarm de oven voor op 200°C met een rooster boven een braadslee.",
     "Gril de kip met de huid naar boven boven indirecte hitte (of braad hem in de oven) in 35–40 minuten gaar; bedruip hem elke 10 minuten met de achtergehouden saus.",
-    "Werk af met de huid naar beneden boven directe vlam (of onder een hete grill), 5–8 minuten en goed in de gaten houdend, tot de huid geblisterd is en hier en daar geblakerd. De dikste dij moet 75 °C aangeven en het vocht moet helder zijn.",
+    "Werk af met de huid naar beneden boven directe vlam (of onder een hete grill), 5–8 minuten en goed in de gaten houdend, tot de huid geblisterd is en hier en daar geblakerd. De dikste dij moet 75°C aangeven en het vocht moet helder zijn.",
     "Laat 10 minuten rusten, verdeel in stukken en kwast nog één keer in met warme piri-pirisaus. Serveer met citroenpartjes, friet en een eenvoudige tomatensalade, op z’n Algarves."
   ],
   wines: [
@@ -366,7 +366,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Breng een grote pan ongezouten water aan de kook met de ui en laurier. Dompel de octopus drie keer kort onder (‘om hem te laten schrikken’, zodat de tentakels krullen), laat hem dan zakken en pocheer zachtjes 50–60 minuten, tot een mes makkelijk in de dikste tentakel glijdt.",
     "Laat de octopus van het vuur af 15 minuten rusten in zijn kookvocht, laat hem dan uitlekken en snijd hem in grote stukken tentakel. Octopus wordt pas na het koken gezouten, anders wordt hij taai.",
-    "Kook intussen de aardappels in goed gezouten water in 15–20 minuten net gaar en giet af. Verwarm de oven voor op 220 °C.",
+    "Kook intussen de aardappels in goed gezouten water in 15–20 minuten net gaar en giet af. Verwarm de oven voor op 220°C.",
     "Druk elke aardappel zachtjes plat met je handpalm of een kopje zodat de schil splijt en het binnenste openbreekt — de murro, oftewel vuistslag.",
     "Schik octopus en aardappels in een grote aardewerken schaal, bestrooi met grof zout en peper, steek de tenen knoflook ertussen en giet alle olijfolie erover.",
     "Rooster 20–25 minuten, één keer bedruipend, tot de puntjes van de tentakels blisteren en blakeren en de randen van de aardappels knapperig worden in de borrelende olie.",

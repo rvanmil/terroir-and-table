@@ -94,6 +94,20 @@ window.WINES.push(
   pairsWith: "Braises, risotto with radicchio, roast duck, aged cheeses"
 },
 {
+  id: "amarone-valpolicella",
+  name: "Amarone della Valpolicella DOCG",
+  type: "red",
+  grapes: ["Corvina", "Rondinella", "Corvinone"],
+  country: "Italy",
+  region: "Veneto",
+  body: "full",
+  profile: "Dried cherry, fig, dark chocolate and sweet spice; opulent, warming and velvet-dense, yet finishing dry.",
+  notes: "Whole bunches are dried for months on racks (appassimento) before pressing, concentrating each grape into Verona’s mightiest red. A wine for the table’s grandest braises and the cheese board’s old, crystalline wheels.",
+  priceBand: "€€€€",
+  servingTemp: "17–18°C",
+  pairsWith: "Grand braises, stracotto, game, aged cheeses"
+},
+{
   id: "bourgogne-pinot",
   name: "Bourgogne Rouge",
   type: "red",
@@ -134,6 +148,20 @@ window.WINES.push(
   priceBand: "€",
   servingTemp: "16–17°C",
   pairsWith: "Lamb, herbed roasts, ratatouille, grilled sausages"
+},
+{
+  id: "chateauneuf-du-pape",
+  name: "Châteauneuf-du-Pape",
+  type: "red",
+  grapes: ["Grenache", "Syrah", "Mourvèdre"],
+  country: "France",
+  region: "Southern Rhône",
+  body: "full",
+  profile: "Ripe red and black fruit, garrigue herbs, leather and warm stones; generous, spicy and long.",
+  notes: "The papal vineyard of Avignon, its galets roulés storing the day’s sun for the night. Up to thirteen permitted varieties around a Grenache heart — the benchmark of the southern Rhône and a born partner for Provençal daubes.",
+  priceBand: "€€€",
+  servingTemp: "16–18°C",
+  pairsWith: "Daube provençale, lamb, game birds, herb-crusted roasts"
 },
 {
   id: "saint-emilion",
@@ -587,6 +615,20 @@ window.WINES.push(
   pairsWith: "Seafood pasta, pesto, fritto misto, light starters"
 },
 {
+  id: "roero-arneis",
+  name: "Roero Arneis DOCG",
+  type: "white",
+  grapes: ["Arneis"],
+  country: "Italy",
+  region: "Piedmont",
+  body: "medium",
+  profile: "White pear, apricot, chamomile and white flowers over a gently creamy texture, closing on a bitter-almond twist.",
+  notes: "From sandy hills on the Tanaro’s left bank, opposite the Langhe. Arneis — ‘little rascal’ in dialect — was nearly extinct by the 1960s until Vietti and Bruno Giacosa revived it; today it is Piedmont’s aperitivo white and the table partner of the region’s cold veal dishes.",
+  priceBand: "€€",
+  servingTemp: "10–12°C",
+  pairsWith: "Vitello tonnato, antipasti, delicate fish, fresh cheeses"
+},
+{
   id: "verdicchio",
   name: "Verdicchio dei Castelli di Jesi",
   type: "white",
@@ -914,6 +956,20 @@ window.WINES.push(
   pairsWith: "Risotto, fried fish, white meats, aged Parmesan"
 },
 {
+  id: "english-sparkling",
+  name: "English Sparkling (Sussex)",
+  type: "sparkling",
+  grapes: ["Chardonnay", "Pinot Noir", "Pinot Meunier"],
+  country: "England",
+  region: "Sussex & Kent",
+  body: "light",
+  profile: "Green apple, hedgerow blossom and brioche over chalk-bright, mouthwatering acidity.",
+  notes: "Grown on the same chalk seam that surfaces in Champagne, the South Downs now produce traditional-method fizz that beats its French cousins in blind tastings. Its scouring freshness was made for Britain’s fried suppers.",
+  priceBand: "€€€",
+  servingTemp: "6–8°C",
+  pairsWith: "Fish and chips, oysters, fried starters, celebration aperitifs"
+},
+{
   id: "cava-reserva",
   name: "Cava Reserva",
   type: "sparkling",
@@ -970,6 +1026,20 @@ window.WINES.push(
   priceBand: "€€€",
   servingTemp: "8–10°C",
   pairsWith: "Blue cheese, foie gras, fruit tarts, crème brûlée"
+},
+{
+  id: "beerenauslese",
+  name: "Riesling Beerenauslese",
+  type: "dessert",
+  grapes: ["Riesling"],
+  country: "Germany",
+  region: "Mosel & Rheingau",
+  body: "medium",
+  profile: "Honeyed apricot, baked apple, citrus oil and beeswax, the lavish sweetness held taut by Riesling’s electric acidity.",
+  notes: "Berry-selected, botrytis-shrivelled Riesling picked grape by grape in the great river valleys, made only in years when noble rot strikes. Lighter on its feet than Sauternes — sweetness with a spine.",
+  priceBand: "€€€€",
+  servingTemp: "8–10°C",
+  pairsWith: "Apple desserts, cheesecake, blue cheese, fruit tarts"
 },
 {
   id: "tokaji-aszu",
@@ -1068,6 +1138,20 @@ window.WINES.push(
   priceBand: "€€€",
   servingTemp: "12–14°C",
   pairsWith: "Cantucci, almond desserts, dried fruit, aged pecorino"
+},
+{
+  id: "marsala-superiore",
+  name: "Marsala Superiore Dolce",
+  type: "fortified",
+  grapes: ["Grillo", "Catarratto", "Inzolia"],
+  country: "Italy",
+  region: "Sicily",
+  body: "full",
+  profile: "Caramelised orange peel, roasted hazelnut, dried apricot and vanilla over a warming, oxidative depth.",
+  notes: "Sicily’s great fortified wine, raised in old casks in the baglios of the west coast since the 18th-century English trade. The wine that goes into a true zabaione — and belongs in the glass beside it.",
+  priceBand: "€€",
+  servingTemp: "12–14°C",
+  pairsWith: "Zabaione, almond pastries, aged pecorino, dried-fruit desserts"
 },
 {
   id: "banyuls",

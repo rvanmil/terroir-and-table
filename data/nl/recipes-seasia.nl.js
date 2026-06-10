@@ -200,7 +200,7 @@ Object.assign(window.NL.recipes, {
 },
 "se-bun-cha": {
   name: "Bun cha",
-  description: "Rokerige, boven houtskool gegrilde varkensburgertjes en gekarameliseerde plakjes buikspek, dobberend in een warme zoetzure vissausbouillon, gegeten door koude rijstvermicelli en een berg verse kruiden in de kom te dopen.",
+  description: "Rokerige, boven houtskool gegrilde varkensburgertjes en gekaramelliseerde plakjes buikspek, dobberend in een warme zoetzure vissausbouillon, gegeten door koude rijstvermicelli en een berg verse kruiden in de kom te dopen.",
   story: "Bun cha is dé lunch van Hanoi, traditioneel rond het middaguur boven kolen gegrild in de Oude Wijk en daarna zelden nog verkocht; het werd in 2016 wereldberoemd toen Anthony Bourdain en president Obama samen een kom deelden bij Bun Cha Huong Lien, maar Hanoiers eten het al generaties zo.",
   timeNote: "Plus 1–2 uur marineren",
   ingredients: [
@@ -230,7 +230,7 @@ Object.assign(window.NL.recipes, {
     "Verdeel de warme bouillon over vier kommen en laat het hete gegrilde varkensvlees erin glijden.",
     "Geef iedereen een kom vlees met bouillon, met de noedels, het kruidenbord, de pepers en knoflook ernaast: doop bij elke hap een plukje noedels en kruiden in de kom."
   ],
-  wines: ["Bleek, droog en fris verfrist hij tegenover het zoete gekarameliseerde varkensvlees, terwijl de kruiden en rook alle ruimte krijgen.", "Donker kersenfruit en een tijmachtige hartigheid nestelen zich tegen het geblakerde varkensvlees en de zoetzure vissausbouillon."],
+  wines: ["Bleek, droog en fris verfrist hij tegenover het zoete gekaramelliseerde varkensvlees, terwijl de kruiden en rook alle ruimte krijgen.", "Donker kersenfruit en een tijmachtige hartigheid nestelen zich tegen het geblakerde varkensvlees en de zoetzure vissausbouillon."],
   tip: "Gril het varkensvlees als het even kan boven echte houtskool — het druipende vet dat op de kolen opvlamt, geeft precies de rokerige laklaag die bun cha definieert. Een gietijzeren grillpan werkt ook, maar bak de burgertjes in porties zodat de pan nooit zijn hitte verliest."
 },
 "se-goi-cuon": {
@@ -294,7 +294,7 @@ Object.assign(window.NL.recipes, {
 },
 "se-rendang-daging": {
   name: "Rundvleesrendang",
-  description: "Rundvlees, urenlang gestoofd in gekruide kokosmelk tot het vocht voorbij curry inkookt tot een donkere, droge, intens aromatische korst — gekarameliseerd, mals en bijna confit-achtig, met de diepte van geroosterde kokos.",
+  description: "Rundvlees, urenlang gestoofd in gekruide kokosmelk tot het vocht voorbij curry inkookt tot een donkere, droge, intens aromatische korst — gekaramelliseerd, mals en bijna confit-achtig, met de diepte van geroosterde kokos.",
   story: "Rendang is het ceremoniële gerecht van de Minangkabau van West-Sumatra, gekookt voor bruiloften en feesten; het lange, vochtverdrijvende garen diende oorspronkelijk om buffelvlees te conserveren voor reizen in de merantau-traditie, toen jonge Minang-mannen van huis vertrokken om hun fortuin te zoeken.",
   timeNote: null,
   ingredients: [
@@ -324,7 +324,7 @@ Object.assign(window.NL.recipes, {
     "Rendang is klaar wanneer het vlees mahoniedonker is, bijna uit elkaar valt en gehuld is in een droge, klevende, olieglanzende specerijenkorst in plaats van saus. Proef en stel het zout bij.",
     "Laat minstens 30 minuten rusten (een nacht is beter) en serveer op kamertemperatuur of voorzichtig opgewarmd met gestoomde rijst."
   ],
-  wines: ["Peperige syrah vol fris fruit gaat de donkere geroosterde kruidigheid van rendang frontaal aan en blijft sappig genoeg voor de chili.", "Weelderig pruimenfruit en een hartige, peperige rand vlijen zich om de gekarameliseerde kokosrijkdom, zonder agressieve tannine."],
+  wines: ["Peperige syrah vol fris fruit gaat de donkere geroosterde kruidigheid van rendang frontaal aan en blijft sappig genoeg voor de chili.", "Weelderig pruimenfruit en een hartige, peperige rand vlijen zich om de gekaramelliseerde kokosrijkdom, zonder agressieve tannine."],
   tip: "De gevarenzone is het laatste uur: zodra de olie zich afscheidt, kan de pasta in enkele minuten aanbranden. Zet het vuur laag, blijf erbij en roer tot op de bodem — goed geroosterde (niet verbrande) aanbaksels zijn waar de kleur en diepte van rendang vandaan komen."
 },
 "se-gado-gado": {
@@ -353,7 +353,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Bak de rauwe pinda’s in een beetje olie op middelhoog vuur in 5–6 minuten goudbruin, laat ze dan uitlekken en afkoelen. (Sla over bij gebruik van pindakaas.)",
     "Stamp of mix de pinda’s met de pepers, knoflook en palmsuiker tot een grove pasta en werk er dan de tamarinde, ketjap manis, kokosmelk en zo’n 150 ml water door.",
-    "Laat de saus 8–10 minuten zachtjes pruttelen, al roerend, tot hij is ingedikt tot een schenkbare crème met pareltjes olie erop. Breng op smaak met zout; hij moet zoet, heet en fris-zuur smaken, in die volgorde.",
+    "Laat de saus 8–10 minuten zachtjes pruttelen, al roerend, tot hij is ingedikt tot een schenkbare crème met pareltjes olie erop. Breng op smaak met zout; hij moet zoet, heet en friszuur smaken, in die volgorde.",
     "Kook de eieren 8 minuten, laat ze schrikken in koud water, pel en halveer ze — de dooiers moeten net gestold zijn met een smeuïge kern.",
     "Blancheer de sperziebonen 2 minuten, de kool 1 minuut en de taugé 20 seconden in kokend gezouten water; spoel alles koud af en laat goed uitlekken.",
     "Bak de plakken tofu en tempé in een laagje hete olie goudbruin en knapperig aan beide kanten, zo’n 3 minuten per kant. Laat uitlekken op keukenpapier en bestrooi licht met zout.",
@@ -393,7 +393,7 @@ Object.assign(window.NL.recipes, {
     "Laat de spiesjes 2 minuten rusten en schik ze dan op een schaal boven een plas warme pindasaus.",
     "Besprenkel met extra ketjap manis en bestrooi met de blokjes sjalot en komkommer. Serveer met limoenpartjes en, voor een voller bord, samengeperste rijstkoekjes (lontong)."
   ],
-  wines: ["Bloemig maar droog tilt hij het zoete sojaglazuur op en verfrist tegenover de dichte pindasaus.", "Braamachtig, peperig fruit is dol op geblakerde korstjes en gekarameliseerde ketjap manis, met tannines zacht genoeg voor de chili."],
+  wines: ["Bloemig maar droog tilt hij het zoete sojaglazuur op en verfrist tegenover de dichte pindasaus.", "Braamachtig, peperig fruit is dol op geblakerde korstjes en gekaramelliseerde ketjap manis, met tannines zacht genoeg voor de chili."],
   tip: "Wapper de kolen aan terwijl de spiesjes garen — Madurese verkopers wapperen onafgebroken, zodat de druipende marinade rookt in plaats van vlam vat. Kleurt je kip te snel terwijl hij nog niet gaar is, schuif de spiesjes dan naar de koelere rand van de grill."
 },
 "se-penang-asam-laksa": {

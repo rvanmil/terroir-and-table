@@ -170,7 +170,7 @@ window.RECIPES.push(
     "Serve at once with malt vinegar, lemon, and mushy peas or tartare sauce if you like — never let it sit, the batter waits for no one."
   ],
   wines: [
-    { id: "champagne-brut", note: "Toasty brut Champagne and fried food is one of wine's great pairings — the scouring bubbles and acidity reset the palate after every crunchy, salty bite." },
+    { id: "english-sparkling", note: "Chalk-grown English fizz beside England’s own fried supper — the scouring bubbles and acidity reset the palate after every crunchy, salty bite." },
     { id: "picpoul-pinet", note: "This saline Languedoc lip-stinger does the job of the malt vinegar itself: pure, mouthwatering acid against the batter's richness." }
   ],
   tip: "Beef dripping is the traditional northern frying fat and gives an incomparable savoury crust to the chips — worth it if you can source it. Whatever you fry in, never crowd the pan: temperature drop is the enemy of crispness."

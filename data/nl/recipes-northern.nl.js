@@ -122,7 +122,7 @@ Object.assign(window.NL.recipes, {
     "Serveer meteen met moutazijn, citroen en naar wens mushy peas of tartaarsaus — laat het nooit staan, het beslag wacht op niemand."
   ],
   wines: [
-    "Toastige brut champagne bij gefrituurd eten is een van de grote wijncombinaties — de schurende bubbels en zuren resetten het gehemelte na elke knapperige, zoute hap.",
+    "Engelse bubbels van de krijtbodem naast Engelands eigen frituurmaal — de schurende bubbels en zuren resetten het gehemelte na elke knapperige, zoute hap.",
     "Deze zilte zuurmaker uit de Languedoc doet het werk van de moutazijn zelf: puur, mondwaterend zuur tegenover de rijkdom van het beslag."
   ],
   tip: "Rundvet is het traditionele noordelijke frituurvet en geeft de friet een onvergelijkbaar hartig korstje — de moeite waard als je eraan kunt komen. Waar je ook in frituurt: maak de pan nooit te vol, want temperatuurval is de vijand van knapperigheid."
@@ -267,7 +267,7 @@ Object.assign(window.NL.recipes, {
 },
 "no-carbonnade-flamande": {
   name: "Vlaamse stoofpot van rund en bier",
-  description: "Stukken rundvlees, tot ze uiteenvallen gestoofd in donker Belgisch abdijbier met een wirwar van gekarameliseerde uien, gezoet met een vleugje bruine suiker en aangescherpt met mosterdbrood dat in de jus smelt.",
+  description: "Stukken rundvlees, tot ze uiteenvallen gestoofd in donker Belgisch abdijbier met een wirwar van gekaramelliseerde uien, gezoet met een vleugje bruine suiker en aangescherpt met mosterdbrood dat in de jus smelt.",
   story: "Vlaanderens antwoord op boeuf bourguignon vervangt wijn door de grote bieren van de streek — traditioneel een zurige oud bruin of donker abdijbier — en gaat eeuwen terug in de Vlaamse boerenkeuken. In België is het de canonieke partner van friet, geserveerd in elk estaminet en elke frituur.",
   timeNote: null,
   ingredients: [
@@ -369,7 +369,7 @@ Object.assign(window.NL.recipes, {
     "Laat 10 minuten rusten, hak hem met een zwaar hakmes dwars door het bot in stukken zoals de jerk-kraampjes doen, en serveer met rice and peas, festival of hard dough bread, en extra hete saus."
   ],
   wines: [
-    "Halfdroge, vederlichte riesling is de grote brandblusser: zijn zoetheid sust de scotch bonnet-hitte terwijl racy zuren verfrissen tussen de happen.",
+    "Halfdroge, vederlichte riesling is de grote brandblusser: zijn zoetheid sust de scotch bonnet-hitte terwijl rassige zuren verfrissen tussen de happen.",
     "Wil je rood bij de schroei, dan heeft weelderige Shiraz het rijpe, donkere fruit en de zwartepeperkruidigheid om rook en piment frontaal te ontmoeten."
   ],
   tip: "Piment (allspice) is de niet-onderhandelbare ziel van jerk — gebruik zo mogelijk versgemalen hele bessen en gooi een handvol op de kolen voor authentieke pimenthoutrook. Draag handschoenen bij het verwerken van scotch bonnets."

@@ -60,7 +60,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Meng de uienringen met het zout in een grote kom en zet 10 minuten weg — het zout onttrekt vocht dat helpt het beslag te binden.",
     "Voeg de besan, het rijstmeel, de ajwain, het chilipoeder, de kurkuma, de groene pepers en de koriander bij de uien. Kneed alles met je handen door elkaar tot het uiensap een dikke, plakkende pasta vormt; voeg alleen indien nodig water toe, een theelepel per keer. Het mengsel moet maar nét samenhangen.",
-    "Verhit de olie in een karahi of diepe pan tot 175 °C — een snufje beslag moet rustig opstijgen met levendige belletjes, niet heftig.",
+    "Verhit de olie in een karahi of diepe pan tot 175°C — een snufje beslag moet rustig opstijgen met levendige belletjes, niet heftig.",
     "Laat ruwe, losse klompjes van het mengsel met je vingertoppen in de olie vallen, in porties van 6–8 zodat de temperatuur op peil blijft. Rafelige randen zijn juist de bedoeling; druk ze niet aan.",
     "Frituur 4–5 minuten, halverwege kerend, tot ze diep goudbruin zijn en hoorbaar krokant als je ertegen tikt met een schuimspaan. Laat uitlekken op een rooster, niet op papier, zodat ze knapperig blijven.",
     "Bestuif ze heet met chaat masala en serveer meteen met munt-korianderchutney en hete chai."
@@ -94,7 +94,7 @@ Object.assign(window.NL.recipes, {
     "Meng het lamsgehakt, de uitgeknepen ui, de gember-knoflookpasta, de groene pepers, alle gemalen specerijen, de kruiden en het zout in een kom. Kneed 4–5 minuten krachtig tot het mengsel plakkerig en bleek wordt — zo ontstaat de binding die de kebabs op de spies houdt.",
     "Laat het mengsel minstens 30 minuten koelen; koud, stevig vlees laat zich veel makkelijker vormen.",
     "Verdeel met natte handen in 8 porties en druk elke portie langs een platte metalen spies tot een worst van 15 cm en zo’n 2,5 cm dik; knijp er met duim en wijsvinger zachte ribbels in.",
-    "Stook een houtskoolgrill tot de kolen wit uitgeslagen en gloeiend heet zijn, of verhit een gietijzeren grillplaat op hoog vuur tot hij rookt, of zet de ovengrill op 250 °C.",
+    "Stook een houtskoolgrill tot de kolen wit uitgeslagen en gloeiend heet zijn, of verhit een gietijzeren grillplaat op hoog vuur tot hij rookt, of zet de ovengrill op 250°C.",
     "Gril de kebabs 8–10 minuten, elke 2 minuten kerend en bestrijkend met ghee, tot ze diepbruin zijn met geblakerde randjes en nét gaar — het vocht moet helder zijn, niet roze.",
     "Laat 3 minuten rusten op de spiesen, schuif ze er dan af en serveer met citroenparten, rauwe uienringen en muntchutney."
   ],
@@ -162,7 +162,7 @@ Object.assign(window.NL.recipes, {
     { item: "zout" }
   ],
   steps: [
-    "Blaker de aubergines in hun geheel direct boven een gasvlam of onder een grill van 250 °C, elke paar minuten kerend met een tang, 15–20 minuten tot de schil zwartgeblakerd en papierachtig is en het vruchtvlees volledig is ingezakt. De rook van de brandende schil is de ziel van het gerecht — haast je niet.",
+    "Blaker de aubergines in hun geheel direct boven een gasvlam of onder een grill van 250°C, elke paar minuten kerend met een tang, 15–20 minuten tot de schil zwartgeblakerd en papierachtig is en het vruchtvlees volledig is ingezakt. De rook van de brandende schil is de ziel van het gerecht — haast je niet.",
     "Laat de aubergines 10 minuten rusten in een afgedekte kom, pel dan de verkoolde schil eraf (niet afspoelen — dan spoel je de rook weg), verwijder harde zaadnesten en prak het vruchtvlees grof.",
     "Verhit de olie in een karahi of brede pan op middelhoog vuur; gebruik je mosterdolie, laat die dan eerst even roken zodat ze milder wordt. Voeg het komijnzaad toe en laat het knetteren.",
     "Voeg de uien toe en bak 8–10 minuten goudbruin, voeg dan de knoflook, gember en groene pepers toe en bak nog 2 minuten.",
@@ -314,7 +314,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Verhit de ghee in een zware pan op middelhoog vuur en laat de laurier, kardemom, kaneel en kruidnagels 30 seconden knetteren tot ze geuren.",
     "Voeg de uien met een snuf zout toe en bak ze geduldig 12–15 minuten, al roerend, gelijkmatig goudbruin — die kleur wordt het lichaam en de zoetheid van de saus.",
-    "Voeg de gember-knoflookpasta toe en bak 2 minuten, daarna de tomaten, gemalen koriander, het chilipoeder en de kurkuma; laat 6–8 minuten koken tot het jamachtig is en het vet uittreedt.",
+    "Voeg de gember-knoflookpasta toe en bak 2 minuten, daarna de tomaten, gemalen koriander, het chilipoeder en de kurkuma; laat 6–8 minuten koken tot het jamachtig is en het vet zich afscheidt.",
     "Voeg het gehakt toe, zet het vuur hoger en maak het goed los met de lepel. Bak 8–10 minuten tot het niet meer roze is en hier en daar begint te bruinen.",
     "Zet het vuur laag en roer de geklopte yoghurt er lepel voor lepel door, zodat hij niet schift, en laat elke toevoeging eerst opnemen.",
     "Voeg 150 ml heet water toe, breng op smaak, dek af en laat 25 minuten zachtjes sudderen, af en toe roerend, tot de keema mals is en de ghee naar het oppervlak stijgt — het traditionele teken dat het klaar is.",
@@ -322,7 +322,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Soepele grenachewarmte en een vleugje garrigue-kruidigheid passen naadloos naast de kaneel-kardemomrijkdom van het lamsvlees.",
-    "Milde tempranillo met een vanillerandje en verzachte tannines complimenteert langzaam gegaard gehakt zonder te botsen met de zachte pit."
+    "Milde tempranillo met een vanillerandje en verzachte tannines flatteert langzaam gegaard gehakt zonder te botsen met de zachte pit."
   ],
   tip: "Neem echt de tijd voor het bruinen van de uien — de keemasaus haalt haar kleur en diepte vrijwel volledig uit die stap, niet uit de tomaten."
 },
@@ -429,7 +429,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Chenin met textuur en zijn warme appelgebaktonen matcht de in ghee geroosterde korrels en blijft fris genoeg voor de groene peper.",
-    "Een zijdezachte, lichte pinot complimenteert de zachte aroma’s van hele specerijen zonder de nootachtige subtiliteit van het gerecht te begraven."
+    "Een zijdezachte, lichte pinot flatteert de zachte aroma’s van hele specerijen zonder de nootachtige subtiliteit van het gerecht te begraven."
   ],
   tip: "Kalijira — Bangladeshs piepkleine aromatische ‘prins onder de rijst’ — is het zoeken waard bij Bengaalse toko’s; gebruik anders de beste basmati die je kunt vinden en verminder het water met een scheutje."
 },

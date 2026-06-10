@@ -140,7 +140,7 @@ Object.assign(window.NL.recipes, {
     "Voeg de linzen en 1,5 liter water toe, breng op smaak met zout en peper en laat afgedekt 40 minuten sudderen tot de linzen en het lamsvlees gaar zijn.",
     "Roer de kikkererwten en eventueel de vermicelli erdoor en laat nog 5 minuten sudderen.",
     "Klop het bloem-en-watermengsel nog eens los en giet het in een dun straaltje in de soep, onder voortdurend roeren. Laat 10–15 minuten zachtjes sudderen en roer vaak zodat het niet aanzet, tot de soep zijdezacht is en aan de lepel blijft hangen.",
-    "Roer de rest van de kruiden erdoor, proef en breng verder op smaak — de soep moet zacht gekruid zijn en licht frisszuur van de tomaat.",
+    "Roer de rest van de kruiden erdoor, proef en breng verder op smaak — de soep moet zacht gekruid zijn en licht friszuur van de tomaat.",
     "Serveer heet met citroenparten en, geheel in ramadanstijl, een paar dadels ernaast."
   ],
   wines: [
@@ -200,7 +200,7 @@ Object.assign(window.NL.recipes, {
     { item: "amandelschaafsel", note: "geroosterd" }
   ],
   steps: [
-    "Verwarm de oven voor op 180 °C (hetelucht 160 °C). Kneed het amandelmeel, de poedersuiker, zachte boter, het oranjebloesemwater, de kaneel en het zout tot een gladde, licht vette pasta.",
+    "Verwarm de oven voor op 180°C (hetelucht 160°C). Kneed het amandelmeel, de poedersuiker, zachte boter, het oranjebloesemwater, de kaneel en het zout tot een gladde, licht vette pasta.",
     "Verdeel de pasta in 6 stukken en rol elk stuk tot een streng van zo’n 2 cm dik en de lengte van je deegvellen; bestuif je handen met poedersuiker als het plakt.",
     "Leg één vel deeg op het werkblad (houd de rest onder een nét vochtige doek) en bestrijk het met gesmolten boter. Leg een amandelstreng langs de lange kant en rol op tot een strakke sigaar; laat de uiteinden open.",
     "Plooi de sigaar voorzichtig als een accordeon — zo scheurt het deeg niet bij het buigen — en rol hem dan strak op in het midden van een beboterde bakplaat.",
@@ -252,7 +252,7 @@ Object.assign(window.NL.recipes, {
 "mg-brik-a-loeuf": {
   name: "Brik à l’oeuf",
   description: "Een oogverblindend krokante driehoek van flinterdun malsouka-deeg met daarin tonijn, kappertjes, peterselie en een heel ei waarvan de dooier nog moet uitlopen als je erin bijt. Gloeiend heet gegeten met een kneep citroen.",
-  story: "Brik is Tunesië’s meest iconische streetfood en de rituele opener van de iftartafel tijdens de ramadan; volgens de folklore werd een huwelijkskandidaat ooit beoordeeld op de vraag of hij er een kon eten zonder de dooier te morsen. Het gerecht stamt af van de Ottomaanse börekfamilie, opnieuw vormgegeven rond Tunesië’s papierdunne malsouka-vellen.",
+  story: "Brik is Tunesiës meest iconische streetfood en de rituele opener van de iftartafel tijdens de ramadan; volgens de folklore werd een huwelijkskandidaat ooit beoordeeld op de vraag of hij er een kon eten zonder de dooier te morsen. Het gerecht stamt af van de Ottomaanse börekfamilie, opnieuw vormgegeven rond de papierdunne malsouka-vellen van Tunesië.",
   timeNote: null,
   ingredients: [
     { item: "vellen malsouka-, brick- of filodeeg", note: "ongeveer 25 cm in het vierkant" },
@@ -268,7 +268,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Meng de tonijn, ui, kappertjes, peterselie en eventueel de geprakte aardappel en breng goed op smaak. Verdeel in 4 porties.",
-    "Verhit de olie in een ruime koekenpan tot 180 °C — een blokje brood moet in zo’n 30 seconden bruin kleuren.",
+    "Verhit de olie in een ruime koekenpan tot 180°C — een blokje brood moet in zo’n 30 seconden bruin kleuren.",
     "Leg één vel deeg op een bord. Verdeel er een portie vulling net uit het midden over en vorm die tot een ring met een kuiltje in het midden, als een nestje.",
     "Breek een ei in het kuiltje en bestrooi het met zout en peper. Vouw zonder aarzelen het deeg dicht tot een driehoek (of halve maan) en druk de randen op elkaar — de ring van vulling houdt de dooier op zijn plaats.",
     "Laat de brik meteen in de hete olie glijden. Frituur ongeveer 1 minuut per kant en schep ondertussen olie over de bovenkant, tot hij diep goudbruin en geblisterd is.",
@@ -298,7 +298,7 @@ Object.assign(window.NL.recipes, {
     { item: "gemalen komijn" },
     { item: "gemalen koriander" },
     { item: "chilivlokken", note: "of meer, naar smaak" },
-    { item: "witte wijnazijn" },
+    { item: "wittewijnazijn" },
     { item: "zeezout en zwarte peper" }
   ],
   steps: [
@@ -318,7 +318,7 @@ Object.assign(window.NL.recipes, {
 },
 "mg-ghormeh-sabzi": {
   name: "Ghormeh sabzi",
-  description: "Een diepgroene stoofschotel van lamsvlees en kidneybonen, bedolven onder een berg langzaam gebakken kruiden — peterselie, koriander, bieslook en fenegriek — verzuurd met gedroogde Perzische limoenen tot hij donker aromatisch en frisszuur is.",
+  description: "Een diepgroene stoofschotel van lamsvlees en kidneybonen, bedolven onder een berg langzaam gebakken kruiden — peterselie, koriander, bieslook en fenegriek — verzuurd met gedroogde Perzische limoenen tot hij donker aromatisch en friszuur is.",
   story: "Veel Iraniërs noemen ghormeh sabzi het nationale gerecht; de naam koppelt het Turkse ‘ghormeh’ (gestoofd) aan het Perzische ‘sabzi’ (kruiden), en versies van kruidenstoofschotels duiken al op in hofkookboeken uit het Safavidische tijdperk. Het is in heel Teheran het middelpunt van de vrijdagse familielunch, altijd op chelow-rijst, en wordt jaarlijks gevierd op een officieuze nationale ghormeh-sabzi-dag.",
   timeNote: "Week gedroogde kidneybonen een nacht",
   ingredients: [
@@ -436,7 +436,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Meng de bloem, gist, het zout en de suiker en voeg dan het lauwwarme water, de melk en olijfolie toe. Kneed 10 minuten tot een glad, soepel en nauwelijks plakkerig deeg.",
     "Dek af en laat op een warme plek 1–1,5 uur rijzen tot het verdubbeld is.",
-    "Verwarm de oven voor op 240 °C (hetelucht 220 °C) met een baksteen of een omgekeerde zware bakplaat erin. Meng de geraspte mozzarella met de verkruimelde feta.",
+    "Verwarm de oven voor op 240°C (hetelucht 220°C) met een baksteen of een omgekeerde zware bakplaat erin. Meng de geraspte mozzarella met de verkruimelde feta.",
     "Verdeel het deeg in 4 stukken en laat 10 minuten rusten. Rol elk stuk op bebloemd bakpapier uit tot een ovaal van zo’n 25 × 18 cm.",
     "Schep een kwart van de kaas in een baan over het midden van elk ovaal en houd brede randen vrij. Rol de twee lange randen naar binnen over de kaas tot dikke opstaande randen, knijp en draai dan de uiteinden stevig samen tot een puntige boot. Vul het open midden met nog wat kaas.",
     "Schuif de boten (op hun papier, zo nodig in porties) op de hete steen en bak 12–15 minuten tot de korst diep goudbruin is en de kaas borrelt en hier en daar bruin kleurt.",
@@ -463,7 +463,7 @@ Object.assign(window.NL.recipes, {
     { item: "gemalen koriander" },
     { item: "blauwe fenegriek (utskho suneli)", note: "of de helft van die hoeveelheid gemalen fenegriek" },
     { item: "cayennepeper" },
-    { item: "witte wijnazijn" },
+    { item: "wittewijnazijn" },
     { item: "klein bosje koriander", note: "gehakt, wat achterhouden" },
     { item: "granaatappelpitjes", note: "om te garneren" },
     { item: "zeezout" }
@@ -473,7 +473,7 @@ Object.assign(window.NL.recipes, {
     "Rooster de walnoten 4–5 minuten in een droge pan tot ze geuren en maal ze dan met de knoflook, ui, gemalen koriander, blauwe fenegriek, cayennepeper en een theelepel zout tot een fijne, vette pasta.",
     "Verdeel de walnootpasta in tweeën. Hak de uitgeknepen spinazie fijn en werk er de helft van de pasta door met de helft van de azijn en de helft van de verse koriander.",
     "Rasp of hak de bieten fijn, knijp het overtollige sap eruit en meng met de resterende pasta, azijn en koriander.",
-    "Proef beide mengsels: elk moet nootachtig, knoflookrijk en duidelijk frisszuur zijn. Stel zout en azijn bij — de azijn draagt het gerecht.",
+    "Proef beide mengsels: elk moet nootachtig, knoflookrijk en duidelijk friszuur zijn. Stel zout en azijn bij — de azijn draagt het gerecht.",
     "Vorm met vochtige handen van elk mengsel kleine balletjes of gladde bolle koekjes en schik ze op een schaal.",
     "Laat een uur koelen, druk dan met een duim een kuiltje in elk bergje en vul dat met granaatappelpitjes en de achtergehouden koriander; serveer met brood."
   ],

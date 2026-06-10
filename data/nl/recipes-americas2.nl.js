@@ -115,7 +115,7 @@ Object.assign(window.NL.recipes, {
     "Zet een gietijzeren pan van 23–25 cm op het middelste rooster en verwarm de oven voor op 220°C — de pan moet volledig voorverwarmen, minstens 15 minuten.",
     "Meng het maïsmeel, zout, bakpoeder en zuiveringszout met een garde in een kom.",
     "Klop de karnemelk, eieren en gesmolten boter door elkaar en roer dit door de droge ingrediënten, net tot er geen droge plekken meer zijn; het beslag moet schenkbaar zijn maar niet dun.",
-    "Haal de pan voorzichtig uit de oven, voeg het vet toe en walst het rond — het moet glanzen en licht roken.",
+    "Haal de pan voorzichtig uit de oven, voeg het vet toe en wals het rond — het moet glanzen en licht roken.",
     "Giet het beslag erin; het moet luid sissen aan de randen. Dat gesis is de korst.",
     "Bak 20–25 minuten tot de bovenkant goudbruin is, de randen loslaten en een satéprikker er schoon uitkomt.",
     "Stort het brood met de korst naar boven op een plank, laat 5 minuten rusten en serveer warm in punten met boter."
@@ -277,7 +277,7 @@ Object.assign(window.NL.recipes, {
     "Schep het vlees op een plank, verwijder de sinaasappel en laurier, en hak en pluk het grof zodat elke portie krokante randjes en zachte stukken heeft. Proef op zout.",
     "Serveer opgestapeld op een warme schaal met hete tortilla’s, ui, koriander, limoen en een salsa naar keuze — laat iedereen zijn eigen taco’s bouwen."
   ],
-  wines: ["Droge rode bubbels maaien door de rijkdom van het konfijten, precies zoals bij Emiliaans varkensvlees.", "Milde Tempranillo met een vleugje vanille omarmt het gekarameliseerde varkensvlees zonder de citrus te overstemmen."],
+  wines: ["Droge rode bubbels maaien door de rijkdom van het konfijten, precies zoals bij Emiliaans varkensvlees.", "Milde Tempranillo met een vleugje vanille omarmt het gekaramelliseerde varkensvlees zonder de citrus te overstemmen."],
   tip: "Zeef de kookreuzel en bewaar hem in de koelkast — hij blijft maanden goed en levert de beste refried beans van je leven. Restjes carnitas worden de volgende dag prachtig krokant in een droge koekenpan."
 },
 "am-capirotada": {
@@ -303,7 +303,7 @@ Object.assign(window.NL.recipes, {
     "Vet een middelgrote ovenschaal in met boter en leg de helft van het geroosterde brood er dicht tegen elkaar in.",
     "Strooi er de helft van de rozijnen, pinda’s en kaas over en herhaal met het resterende brood en de toppings.",
     "Schenk de warme siroop langzaam en gelijkmatig over alles en druk zachtjes aan met een spatel zodat het brood hem begint op te nemen.",
-    "Dek af met folie en bak 25 minuten; verwijder dan de folie en bak nog 10 minuten tot de bovenkant plakkerig en licht gekarameliseerd is en de siroop is opgenomen.",
+    "Dek af met folie en bak 25 minuten; verwijder dan de folie en bak nog 10 minuten tot de bovenkant plakkerig en licht gekaramelliseerd is en de siroop is opgenomen.",
     "Laat minstens 15 minuten rusten — capirotada wordt traditioneel lauwwarm of op kamertemperatuur geserveerd, nooit gloeiend heet."
   ],
   wines: ["Karamel- en geroosterde-nootnoten in de port schudden de hand van piloncillo en pinda’s.", "Rozijnige, espressodonkere Muscat versterkt het gedroogde fruit en de specerijen van de pudding."],
@@ -373,7 +373,7 @@ Object.assign(window.NL.recipes, {
 },
 "am-pabellon-criollo": {
   name: "Pabellón Criollo",
-  description: "Het nationale bord van Venezuela: diep hartig gepluksd rundvlees gestoofd met tomaat en paprika, zwarte bonen glanzend van sofrito, witte rijst en zoete gekarameliseerde bakbanaanplakken, naast elkaar geschikt als een vlag.",
+  description: "Het nationale bord van Venezuela: diep hartig gepluksd rundvlees gestoofd met tomaat en paprika, zwarte bonen glanzend van sofrito, witte rijst en zoete gekaramelliseerde bakbanaanplakken, naast elkaar geschikt als een vlag.",
   story: "Pabellón betekent vlag of paviljoen, en de banen van donker rundvlees, zwarte bonen en witte rijst worden gelezen als de kleuren van de bevolkingsgroepen uit Venezuela’s koloniale tijd, samengeweven op één bord; het gerecht ontstond in plantagekeukens die het gekookte rundvlees van gisteren aanvulden met bonen en rijst, en met een gebakken ei erbij heet het pabellón a caballo.",
   timeNote: "Week de bonen een nacht",
   ingredients: [

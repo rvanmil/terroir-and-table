@@ -23,7 +23,7 @@ Object.assign(window.NL.recipes, {
     { item: "zeezout en zwarte peper" }
   ],
   steps: [
-    "Verwarm de oven voor op 180 °C. Week het brood in 100 ml van de melk en zet apart.",
+    "Verwarm de oven voor op 180°C. Week het brood in 100 ml van de melk en zet apart.",
     "Fruit de uien in een beetje olie op middelhoog vuur in 8–10 minuten zacht en goudgeel, roer dan de knoflook, kerriepoeder en kurkuma erdoor en bak 1 minuut mee tot het geurig is.",
     "Voeg het gehakt toe, zet het vuur hoger en braad het rondom bruin, terwijl je de klontjes met een houten lepel fijnmaakt — ongeveer 8 minuten.",
     "Knijp het brood uit (bewaar de melk) en prak het door het vlees samen met de rozijnen, amandelen, jam en azijn. Breng royaal op smaak, laat 5 minuten sudderen en proef — zoet, zuur en kruidig moeten in balans zijn.",
@@ -92,7 +92,7 @@ Object.assign(window.NL.recipes, {
     { item: "zout" }
   ],
   steps: [
-    "Verwarm de oven voor op 180 °C en vet een ovenschaal van 20 cm in met boter.",
+    "Verwarm de oven voor op 180°C en vet een ovenschaal van 20 cm in met boter.",
     "Klop het ei met de fijne kristalsuiker tot het bleek en iets dikker is, klop er dan de abrikozenjam, azijn en gesmolten boter door.",
     "Zeef de bloem, het zuiveringszout en het zout samen; spatel dit afwisselend met de melk door het eimengsel tot een glad, schenkbaar beslag.",
     "Giet het beslag in de schaal en bak 40–45 minuten tot de cake diepbruin is en een satéprikker er schoon uitkomt — de donkere kleur hoort zo, hij is niet verbrand.",
@@ -259,7 +259,7 @@ Object.assign(window.NL.recipes, {
     "Pureer de gember, chilipeper, ui, knoflook, nootmuskaat, kruidnagel en het zout met een eetlepel water tot een dikke, geurige pasta.",
     "Schil de bakbananen en snijd ze in grove blokjes van 3 cm of in schuine plakken.",
     "Wentel de bakbanaan grondig door de kruidenpasta en laat 10 minuten staan zodat de smaken kunnen intrekken.",
-    "Verhit de olie in een diepe pan tot 180 °C — een stukje bakbanaan moet direct sissen en komen bovendrijven.",
+    "Verhit de olie in een diepe pan tot 180°C — een stukje bakbanaan moet direct sissen en komen bovendrijven.",
     "Frituur in twee porties 4–6 minuten, af en toe kerend, tot de randen diep mahoniekleurig zijn en het binnenste zacht; de suikers en gemberpasta kleuren sneller donker dan gewone bakbanaan, dus blijf goed opletten.",
     "Laat uitlekken op keukenpapier, bestrooi met geroosterde pinda's en serveer heet."
   ],
@@ -360,7 +360,7 @@ Object.assign(window.NL.recipes, {
     "Laat de kip op kamertemperatuur komen. Schraap de overtollige marinade in een steelpannetje, voeg de kokosmelk toe en laat 10 minuten zachtjes sudderen tot een bestrijksaus; breng goed op smaak.",
     "Bereid een barbecue voor op middelhoge indirecte hitte (of verwarm de ovengrill met de kip ruim onder het element).",
     "Gril de kip met het vel naar boven 25 minuten boven indirecte hitte, keer dan en gril nog 15 minuten, terwijl je om de 5 minuten royaal bestrijkt met de kokos-piri-pirisaus.",
-    "Werk af met het vel naar beneden boven directe hitte, 3–5 minuten, tot het vel geblakerd en plaatselijk gebläärd is. De kip is gaar wanneer het vocht bij het dijgewricht helder is (74 °C bij het bot).",
+    "Werk af met het vel naar beneden boven directe hitte, 3–5 minuten, tot het vel geblakerd en plaatselijk gebläärd is. De kip is gaar wanneer het vocht bij het dijgewricht helder is (74°C bij het bot).",
     "Laat 10 minuten rusten. Verwarm de resterende bestrijksaus door — niet laten koken — en controleer de smaak.",
     "Verdeel de kip in stukken, giet de warme kokos-piri-pirisaus erover en serveer met limoenpartjes, rijst of frieten."
   ],
@@ -432,7 +432,7 @@ Object.assign(window.NL.recipes, {
     "Maak het baradeeg: meng de bloem, gist, kurkuma, suiker en 1 theelepel zout en werk er dan genoeg lauwwarm water door voor een zacht, licht plakkerig deeg. Kneed kort, dek af en laat 1 uur rijzen tot het luchtig is.",
     "Voor de channa: verhit 2 eetlepels olie en fruit de ui 5 minuten; voeg de knoflook, scotch bonnet, kerriepoeder en de met een scheutje water aangelengde komijn toe en bak 2 minuten tot de curry ’breekt’ en geroosterd ruikt.",
     "Voeg de kikkererwten toe en net genoeg water om ze onder te zetten. Laat 20–25 minuten sudderen, terwijl je er een paar tegen de pan fijnprakt, tot de saus dik is en de kikkererwten heel zacht. Breng op smaak en houd warm. Rasp intussen de komkommer grof, knijp hem goed uit en breng op smaak met een snufje zout.",
-    "Verhit de frituurolie tot 180 °C. Trek met geoliede handen stukjes deeg ter grootte van een golfbal af en druk elk plat tot een dunne schijf van 10 cm.",
+    "Verhit de frituurolie tot 180°C. Trek met geoliede handen stukjes deeg ter grootte van een golfbal af en druk elk plat tot een dunne schijf van 10 cm.",
     "Frituur de bara één of twee tegelijk, 30–40 seconden per kant — ze moeten opbollen en bleekgoud en zacht blijven, niet krokant worden. Laat uitlekken op keukenpapier.",
     "Stel meteen samen: leg twee bara dakpansgewijs over elkaar, schep er hete channa op en maak af met de komkommer, tamarindesaus en pepersaus naar smaak.",
     "Serveer direct, gevouwen in papier als je de authentieke ervaring wilt — doubles wachten op niemand."

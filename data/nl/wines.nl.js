@@ -37,6 +37,12 @@ Object.assign(window.NL.wines, {
   pairsWith: "Stoofgerechten, risotto met radicchio, geroosterde eend, belegen kazen",
   servingTemp: "16–18°C"
 },
+"amarone-valpolicella": {
+  profile: "Gedroogde kers, vijg, pure chocolade en zoete specerijen; weelderig, verwarmend en fluweeldicht, maar met een droge afdronk.",
+  notes: "Hele trossen drogen maandenlang op rekken (appassimento) voor het persen, waardoor elke druif zich concentreert tot Verona’s machtigste rode wijn. Een wijn voor de grootste stoofschotels van de tafel en de oude, kristallijne kazen op de kaasplank.",
+  pairsWith: "Grote stoofschotels, stracotto, wild, belegen kazen",
+  servingTemp: "17–18°C"
+},
 "bourgogne-pinot": {
   profile: "Rode kers, framboos, bosgrond en roos; zijdezachte textuur, frisse zuren, fijne tannines.",
   notes: "De toegangspoort tot de meest begeerde Pinot Noir ter wereld. Dorpswijnen uit Marsannay of Givry bieden echt Bourgondisch parfum zonder grand-cru-prijzen.",
@@ -54,6 +60,12 @@ Object.assign(window.NL.wines, {
   notes: "De zonnige, gulle blend van Zuid-Frankrijk. Dorpen als Cairanne en Séguret leveren het karakter van Châteauneuf voor een fractie van de prijs.",
   pairsWith: "Lamsvlees, gebraad met kruiden, ratatouille, gegrilde worstjes",
   servingTemp: "16–17°C"
+},
+"chateauneuf-du-pape": {
+  profile: "Rijp rood en zwart fruit, garriguekruiden, leer en warme stenen; gul, kruidig en lang.",
+  notes: "De pauselijke wijngaard van Avignon, waar de galets roulés de zon van de dag vasthouden voor de nacht. Tot dertien toegestane druivenrassen rond een hart van grenache — het ijkpunt van de zuidelijke Rhône en een geboren partner voor Provençaalse daubes.",
+  pairsWith: "Daube provençale, lam, wild gevogelte, geroosterd vlees met kruidenkorst",
+  servingTemp: "16–18°C"
 },
 "saint-emilion": {
   profile: "Pruim, zwarte kers, ceder, truffel en warme aarde; soepele tannines, lange hartige afdronk.",
@@ -217,6 +229,12 @@ Object.assign(window.NL.wines, {
   pairsWith: "Pasta met zeevruchten, pesto, fritto misto, lichte voorgerechten",
   servingTemp: "9–11°C"
 },
+"roero-arneis": {
+  profile: "Witte peer, abrikoos, kamille en witte bloemen over een zacht romige textuur, eindigend met een twist van bittere amandel.",
+  notes: "Van zandige heuvels op de linkeroever van de Tanaro, tegenover de Langhe. Arneis — ‘kleine deugniet’ in dialect — was rond 1960 bijna uitgestorven, tot Vietti en Bruno Giacosa hem nieuw leven inbliezen; vandaag is het dé aperitivowijn van Piemonte en de tafelgenoot van de koude kalfsgerechten van de streek.",
+  pairsWith: "Vitello tonnato, antipasti, delicate vis, verse kazen",
+  servingTemp: "10–12°C"
+},
 "verdicchio": {
   profile: "Citroen, venkel, bittere amandel en zeebries; rijk van textuur met zuren die rijping aankunnen.",
   notes: "De meest rijpingswaardige autochtone witte wijn van Italië, van heuvels die afdalen naar de Adriatische Zee. Heeft het lijf voor rijkere visgerechten en het bittertje dat Italianen zo waarderen.",
@@ -331,6 +349,12 @@ Object.assign(window.NL.wines, {
   pairsWith: "Risotto, gebakken vis, wit vlees, belegen Parmezaan",
   servingTemp: "8–10°C"
 },
+"english-sparkling": {
+  profile: "Groene appel, meidoornbloesem en brioche over krijthelder, mondwaterend zuur.",
+  notes: "Gegroeid op dezelfde krijtlaag die in de Champagne aan de oppervlakte komt; de South Downs maken inmiddels traditionele-methode-bubbels die hun Franse neven verslaan in blinde proeverijen. Die schurende frisheid is gemaakt voor de Britse frituurkeuken.",
+  pairsWith: "Fish and chips, oesters, gefrituurde voorgerechten, feestelijk aperitief",
+  servingTemp: "6–8°C"
+},
 "cava-reserva": {
   profile: "Kweepeer, citrus, amandel en toast; aardse mediterrane interpretatie van traditionele-methode-bubbels.",
   notes: "Gemaakt zoals Champagne, voor een fractie van de prijs, in de kelders van Sant Sadurní. Xarel·lo geeft hem een hartig, kruidig Spaans accent, perfect bij zoute gerechten.",
@@ -355,6 +379,12 @@ Object.assign(window.NL.wines, {
   pairsWith: "Blauwschimmelkaas, foie gras, fruittaarten, crème brûlée",
   servingTemp: "8–10°C"
 },
+"beerenauslese": {
+  profile: "Honingzoete abrikoos, gebakken appel, citrusolie en bijenwas; de weelderige zoetheid strak gehouden door de elektrische zuren van Riesling.",
+  notes: "Bes voor bes geplukte, door botrytis verschrompelde Riesling uit de grote rivierdalen, alleen gemaakt in jaren waarin de edele rotting toeslaat. Lichtvoetiger dan Sauternes — zoetheid met ruggengraat.",
+  pairsWith: "Appeldesserts, cheesecake, blauwschimmelkaas, fruittaarten",
+  servingTemp: "8–10°C"
+},
 "tokaji-aszu": {
   profile: "Gedroogde abrikoos, sinaasappelschil, honing en rokerige thee; intens zoet, elektrische zuren.",
   notes: "‘Wijn der koningen, koning der wijnen’ — het oordeel van Lodewijk XIV. Door botrytis aangetaste bessen, sinds de 17e eeuw één voor één met de hand geplukt, een eeuw vóór Sauternes.",
@@ -369,7 +399,7 @@ Object.assign(window.NL.wines, {
 },
 "tawny-port": {
   profile: "Karamel, vijg, walnoot, sinaasappelrasp en rancio-kruidigheid; zoet, zijdezacht, zacht verwarmend.",
-  notes: "Tien jaar sluimeren in doorleefd eikenhout in Vila Nova de Gaia maakt vurige jonge port amberkleurig en mild. Licht gekoeld serveren; magisch bij alles wat gekarameliseerd of nootachtig is.",
+  notes: "Tien jaar sluimeren in doorleefd eikenhout in Vila Nova de Gaia maakt vurige jonge port amberkleurig en mild. Licht gekoeld serveren; magisch bij alles wat gekaramelliseerd of nootachtig is.",
   pairsWith: "Crème caramel, notentaarten, harde kazen, chocolade met noten",
   servingTemp: "12–14°C"
 },
@@ -395,6 +425,12 @@ Object.assign(window.NL.wines, {
   profile: "Ambernectar van gedroogde abrikoos, hazelnoot, karamel en sinaasappelschil; oxidatief en lang.",
   notes: "‘Heilige wijn’ van druiven gedroogd op strooien matten, daarna jarenlang gerijpt in kleine verzegelde caratelli-vaatjes op zolders, door Toscaanse zomers en winters heen. Gemaakt om cantucci in te dopen.",
   pairsWith: "Cantucci, amandeldesserts, gedroogd fruit, belegen pecorino",
+  servingTemp: "12–14°C"
+},
+"marsala-superiore": {
+  profile: "Gekaramelliseerde sinaasappelschil, geroosterde hazelnoot, gedroogde abrikoos en vanille over een verwarmende, oxidatieve diepte.",
+  notes: "De grote versterkte wijn van Sicilië, opgevoed in oude vaten in de baglios van de westkust sinds de Engelse handel van de 18e eeuw. De wijn die in een echte zabaione gaat — en in het glas ernaast hoort.",
+  pairsWith: "Zabaione, amandelgebak, belegen pecorino, desserts met gedroogd fruit",
   servingTemp: "12–14°C"
 },
 "banyuls": {

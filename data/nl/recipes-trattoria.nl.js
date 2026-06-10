@@ -70,7 +70,7 @@ Object.assign(window.NL.recipes, {
 "rt-prosciutto-e-melone": {
   name: "Prosciutto met meloen",
   description: "Zijdezachte linten zoet-zilte gerijpte prosciutto, gedrapeerd over parten geurige, druipend rijpe cantaloupe. Twee ingrediënten, nul kookwerk, en een van de meest volmaakte zout-zoetcontrasten uit het Italiaanse repertoire.",
-  story: "De combinatie stamt uit de renaissancegeneeskunde: de galenische leer bestempelde meloen als gevaarlijk ‘koud en vochtig’, te corrigeren met ‘hete, droge’ gezouten ham, en hofartsen schreven precies deze combinatie voor aan pauselijke en hertogelijke banketten. Het medicijn werd een genot, en het is nog altijd Italië’s ultieme zomerse antipasto, gebouwd op de grote hammen van Parma.",
+  story: "De combinatie stamt uit de renaissancegeneeskunde: de galenische leer bestempelde meloen als gevaarlijk ‘koud en vochtig’, te corrigeren met ‘hete, droge’ gezouten ham, en hofartsen schreven precies deze combinatie voor aan pauselijke en hertogelijke banketten. Het medicijn werd een genot, en het is nog altijd Italiës ultieme zomerse antipasto, gebouwd op de grote hammen van Parma.",
   timeNote: null,
   ingredients: [
     { item: "rijpe cantaloupemeloen", note: "circa 1,2 kg — hij moet bij de steelaanzet naar honing geuren" },
@@ -244,13 +244,13 @@ Object.assign(window.NL.recipes, {
     "Haal de steaks een vol uur van tevoren uit de koelkast en dep ze kurkdroog; een koude, vochtige steak stoomt in plaats van dat hij schroeit.",
     "Verhit een gietijzeren pan of grillplaat tot hij werkelijk woest heet is — een druppel water moet dansen en onmiddellijk verdampen.",
     "Wrijf de steaks in met een beetje van de olie, bestrooi royaal met zout en leg ze met de rozemarijn in de pan. Schroei ze 3 minuten dicht zonder te bewegen, tot er een diepe korst op zit.",
-    "Keer en bak nog 3 minuten voor rood tot rosé — 50–52 °C in de kern — en bedruip één keer met het rozemarijntakje gedoopt in het braadvet. Toscanen serveren tagliata al sangue; verder garen dan medium mist de essentie.",
+    "Keer en bak nog 3 minuten voor rood tot rosé — 50–52°C in de kern — en bedruip één keer met het rozemarijntakje gedoopt in het braadvet. Toscanen serveren tagliata al sangue; verder garen dan medium mist de essentie.",
     "Laat de steaks op een warm bord, losjes afgedekt, een volle 8 minuten rusten zodat de sappen zich herverdelen.",
     "Spreid de rucola uit over een voorverwarmde schaal. Snijd het vlees tegen de draad in linten van 1 cm en leg ze over de blaadjes; schenk de rustsappen erover.",
     "Schaaf er met een dunschiller brede krullen grana over, werk af met zoutvlokken, gekraakte peper en de resterende olie, en serveer met de citroenhelften ernaast."
   ],
   wines: [
-    "Sangiovese’s kersenfruit, stoffige tannine en kruidige rand vormen de eeuwige Toscaanse partner voor dichtgeschroeid rundvlees.",
+    "Het kersenfruit, de stoffige tannine en de kruidige rand van sangiovese vormen de eeuwige Toscaanse partner voor dichtgeschroeid rundvlees.",
     "Wil je meer spierkracht, dan gaat krachtige tempranillo het gevecht met de korst en de peperige rucola frontaal aan."
   ],
   tip: "Laat het vlees minstens zo lang rusten als je het hebt geschroeid — het verschil tussen een sappige tagliata en een grauwe, lekkende ligt volledig in die geduldige minuten."
@@ -273,12 +273,12 @@ Object.assign(window.NL.recipes, {
     "Klop de eieren los in een ondiepe schaal zonder ze te kruiden — de Milanezen zouten pas op het eind — en spreid het paneermeel uit op een plateau.",
     "Haal elke kotelet door het ei, laat het overtollige eraf druipen en druk hem dan aan beide kanten stevig in het paneermeel; gebruik je handpalm zodat de laag zich aan het vlees hecht. Voor een dikkere korst herhaal je ei en paneermeel een tweede keer.",
     "Laat de gepaneerde koteletten 15 minuten rusten in de koelkast, zodat de korst zich zet en in de pan niet losschuift.",
-    "Verhit de geklaarde boter in een brede, zware pan tot 160–170 °C — een kruimel die je erin laat vallen moet meteen sissen en in 30 seconden goudkleurig worden, nooit zwartblakeren.",
-    "Bak de koteletten per één of twee, 3–4 minuten per kant, terwijl je de schuimende boter erover lepelt, tot de korst gelijkmatig diepgoud is en het vlees bij het bot 58–60 °C aangeeft.",
+    "Verhit de geklaarde boter in een brede, zware pan tot 160–170°C — een kruimel die je erin laat vallen moet meteen sissen en in 30 seconden goudkleurig worden, nooit zwartblakeren.",
+    "Bak de koteletten per één of twee, 3–4 minuten per kant, terwijl je de schuimende boter erover lepelt, tot de korst gelijkmatig diepgoud is en het vlees bij het bot 58–60°C aangeeft.",
     "Laat kort uitlekken op keukenpapier, zout royaal terwijl ze heet zijn en serveer direct met citroenpartjes — korst knisperend, het botje gewikkeld in een servet, op de oude Milanese manier."
   ],
   wines: [
-    "Lombardije’s rijke, volgens de traditionele methode gemaakte bubbel is de lokale glorie-combinatie — zijn belletjes en toast zijn gemaakt voor een gebakken boterkorst.",
+    "De rijke, volgens de traditionele methode gemaakte bubbel van Lombardije is het lokale gloriepaar — zijn belletjes en toast zijn gemaakt voor een gebakken boterkorst.",
     "Fris, droog en ingetogen mineraal — hij verfrist tussen rijke happen door zonder met het delicate kalfsvlees te wedijveren."
   ],
   tip: "Klaar de boter zelf door hem zachtjes te smelten en het heldere goud van de melkbestanddelen af te schenken — gewone boter verbrandt voordat de baktemperatuur is bereikt, en alleen olie verraadt waar het gerecht om draait."
@@ -301,11 +301,11 @@ Object.assign(window.NL.recipes, {
     { item: "zwarte peper" }
   ],
   steps: [
-    "Verwarm de oven voor op 200 °C. Spoel de vis af, dep hem droog en vul de buikholte met de citroenplakjes, rozemarijn, tijm, laurier en het venkelgroen — de schubben beschermen het vlees, dus laat ze zitten.",
+    "Verwarm de oven voor op 200°C. Spoel de vis af, dep hem droog en vul de buikholte met de citroenplakjes, rozemarijn, tijm, laurier en het venkelgroen — de schubben beschermen het vlees, dus laat ze zitten.",
     "Klop de eiwitten schuimig en werk ze met je handen door het zout tot het aanvoelt als natte sneeuw die samenklit wanneer je erin knijpt.",
     "Spreid een bedje van 1 cm van het zoutmengsel uit op een bakplaat die iets groter is dan de vis, en leg de vis erop.",
     "Pak de rest van het zout over en rond de vis, stevig aandrukkend tot een gesloten korst van ongeveer 1,5 cm dik, en laat alleen het puntje van de staart vrij als ijkpunt.",
-    "Bak 25–30 minuten; de korst moet hard zijn en net goudkleurig worden. Voor precisie: een kernthermometer door de korst in het dikste deel moet 55–58 °C aangeven.",
+    "Bak 25–30 minuten; de korst moet hard zijn en net goudkleurig worden. Voor precisie: een kernthermometer door de korst in het dikste deel moet 55–58°C aangeven.",
     "Laat de vis 8 minuten in zijn korst rusten — hij gaart daarbinnen af — en breng dan de bakplaat naar tafel.",
     "Sla de korst langs de randen kapot met de bolle kant van een zware lepel en til het deksel er in stukken af; veeg los zout weg. Trek het vel er in één beweging af.",
     "Til de bovenste filet in delen van de graat, verwijder dan de ruggengraat om bij de tweede filet te komen. Serveer met een royaal sliertje olijfolie, zwarte peper en citroenpartjes — saus is overbodig."
@@ -337,7 +337,7 @@ Object.assign(window.NL.recipes, {
     "Wikkel een baksteen (of twee) in een dubbele laag aluminiumfolie; een zware gietijzeren pan of braadpan is een prima vervanger.",
     "Verhit een grote gietijzeren of zware koekenpan op middelhoog vuur met een filmpje olie tot het glanst. Leg de kip er met het vel naar beneden in en zet de baksteen erbovenop.",
     "Gaar 20–25 minuten zonder te gluren, en regel het vuur zo dat het gestaag sist maar nooit hevig rookt — het vel moet vanzelf loslaten en diep, gelijkmatig mahoniekleurig zijn.",
-    "Verwijder de baksteen, keer de kip, leg de baksteen terug en gaar nog 15–20 minuten, tot het dikste deel van de dij 74 °C aangeeft en het braadvocht helder is.",
+    "Verwijder de baksteen, keer de kip, leg de baksteen terug en gaar nog 15–20 minuten, tot het dikste deel van de dij 74°C aangeeft en het braadvocht helder is.",
     "Laat de kip 10 minuten rusten, knijp dan het citroensap over het knapperige vel uit, knip hem met een gevogelteschaar in stukken en serveer met citroenpartjes en het eventuele braadvocht."
   ],
   wines: [
@@ -349,7 +349,7 @@ Object.assign(window.NL.recipes, {
 "rt-minestrone-alla-genovese": {
   name: "Genuese minestrone met pesto",
   description: "Een dikke, langzaam gesudderde wirwar van zomergroenten, bonen en korte pasta, aan tafel bekroond met een lepel basilicumpesto die wegsmelt in smaragdgroene linten. Stevig genoeg als avondmaal, geurig genoeg om naar de Riviera te smaken.",
-  story: "Genua’s versie van Italië’s grote groentesoep onderscheidt zich door de pesto die er op het laatst doorheen wordt geroerd — de basilicumsaus van de stad die een gerecht optilt dat havenarbeiders, zeelieden en boerengezinnen voedde met wat de moestuin gaf. Liguriërs eten hem lauwwarm in plaats van heet, en in augustus, wanneer de groenten op hun best zijn, vaak op kamertemperatuur.",
+  story: "Genua’s versie van Italiës grote groentesoep onderscheidt zich door de pesto die er op het laatst doorheen wordt geroerd — de basilicumsaus van de stad die een gerecht optilt dat havenarbeiders, zeelieden en boerengezinnen voedde met wat de moestuin gaf. Liguriërs eten hem lauwwarm in plaats van heet, en in augustus, wanneer de groenten op hun best zijn, vaak op kamertemperatuur.",
   timeNote: "Plus een nacht weken als je gedroogde bonen gebruikt",
   ingredients: [
     { item: "verse of gekookte borlotti- of cannellinibonen", note: "of 100 g gedroogd, een nacht geweekt" },
@@ -405,7 +405,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Een lint stroperige pedro ximénez ernaast (of eroverheen) geschonken maakt de bittere espresso en de melkige gelato nog decadenter.",
-    "Australië’s rozijnige versterkte muscat is befaamd als dé wijn die van espresso houdt — koffie, karamel en gedroogd fruit in harmonie."
+    "Australiës rozijnige versterkte muscat is befaamd als dé wijn die van espresso houdt — koffie, karamel en gedroogd fruit in harmonie."
   ],
   tip: "Gebruik gelato, geen luchtig roomijs: door de lagere overrun van gelato (minder ingeklopte lucht) smelt hij langzaam en weelderig, in plaats van bij contact met de espresso in schuim uiteen te vallen."
 },

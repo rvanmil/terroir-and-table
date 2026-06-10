@@ -51,6 +51,21 @@ Object.assign(window.NL.recipes, {
    sofrito) with a brief Dutch gloss only if the English had one.
 6. **JS validity**: straight double quotes, escape internal double quotes, use ’ for
    apostrophes inside text. No trailing comma after the last property. The file must parse.
+7. **House style (canonical choices — follow exactly)**:
+   - Temperatures without a space: `180°C`, never `180 °C`.
+   - Spelling: `gekaramelliseerd` (double l), `friszuur` (one word, one s).
+   - Compounds: `wittewijnazijn`, `rodewijnazijn` (one word).
+   - Grape varieties lowercase mid-sentence (riesling, chenin, grenache); capitals only for
+     appellations and proper names (Barolo, Chablis, Sauternes).
+   - Wines are masculine: "hij/zijn", never "haar".
+   - Cheese: `belegen kazen` (not "gerijpte"); radish: `rettich` (add "(daikon)" gloss for
+     Japanese dishes); spring onion: `bosui`; "custard" stays as loanword; `gehemelte`.
+   - No English preposed genitive on words ending in -ë/-e: never "Italië’s X" — write
+     "Italiës X" or "de X van Italië".
+   - Mini-glossary for wine notes: racy → rassig; match (noun) → combinatie/partner;
+     to match → passen bij/evenaren; crush(ed) → grof gestampt; finishing touch →
+     om af te maken; resets the palate → verfrist het gehemelte; complements → flatteert/
+     past bij (never "complimenteert").
 
 ## Verification (run before replying)
 

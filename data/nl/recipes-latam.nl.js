@@ -64,7 +64,7 @@ Object.assign(window.NL.recipes, {
 },
 "la-tacos-al-pastor": {
   name: "Tacos al pastor (thuisversie uit de koekenpan)",
-  description: "Dunne plakjes varkensvlees, karmozijnrood gemarineerd met guajillo, achiote en ananas, hard dichtgeschroeid in een koekenpan en gevouwen in warme maïstortilla’s met ui, koriander en gekarameliseerde ananas.",
+  description: "Dunne plakjes varkensvlees, karmozijnrood gemarineerd met guajillo, achiote en ananas, hard dichtgeschroeid in een koekenpan en gevouwen in warme maïstortilla’s met ui, koriander en gekaramelliseerde ananas.",
   story: "Al pastor ontstond halverwege de 20e eeuw in Mexico-Stad, toen kinderen van Libanese immigranten het lamsvlees van shoarma verruilden voor in chilipeper gemarineerd varkensvlees aan het verticale spit, de trompo; deze eerlijke thuisversie ruilt het spit in voor een gloeiend hete koekenpan.",
   timeNote: "Plus minstens 4 uur (het liefst een nacht) marineren",
   ingredients: [
@@ -89,7 +89,7 @@ Object.assign(window.NL.recipes, {
     "Pureer de uitgelekte pepers met de achiotepasta, het ananassap, de azijn, knoflook, oregano, komijn en 1,5 tl zout volledig glad.",
     "Bedek de plakjes varkensvlees grondig met de marinade, dek af en zet minstens 4 uur, het liefst een nacht, in de koelkast.",
     "Verhit een gietijzeren koekenpan of plancha op hoog vuur tot hij rookt. Schroei het varkensvlees in porties in één laag dicht, 2–3 minuten per kant, tot de randen geblakerd zijn en het vlees gaar is. Een te volle pan laat het vlees stomen — weersta de verleiding.",
-    "Bak de ananasparten in dezelfde pan tot ze gekarameliseerd zijn, circa 2 minuten per kant, hak dan het varkensvlees en de ananas samen in kleine stukjes en schep ze om in het bakvocht.",
+    "Bak de ananasparten in dezelfde pan tot ze gekaramelliseerd zijn, circa 2 minuten per kant, hak dan het varkensvlees en de ananas samen in kleine stukjes en schep ze om in het bakvocht.",
     "Verwarm de tortilla’s op een droge comal of direct boven een vlam tot ze zacht en licht geblakerd zijn; houd ze warm in een doek.",
     "Bouw de taco’s: twee tortilla’s per taco als ze dun zijn, een royale lepel varkensvlees, een paar stukjes ananas, ui, koriander en een kneep limoen. Serveer direct."
   ],
@@ -129,7 +129,7 @@ Object.assign(window.NL.recipes, {
     "Pocheer de kip in 2 liter licht gezouten water met een kwart van de ui, circa 35 minuten, tot hij net gaar is. Houd de kip warm en bewaar de bouillon.",
     "Verwijder de steeltjes en zaadjes van alle pepers en bewaar 2 el zaadjes. Rooster de pepers op een droge comal op middelhoog vuur tot ze geuren en donkerder kleuren, circa 30 seconden per kant, en week ze daarna 30 minuten in heet water. Rooster de bewaarde zaadjes apart tot ze zeer donker zijn — traditioneel bijna zwart — voor de kenmerkende bitterheid van de mole; zet een raam open.",
     "Blaker op dezelfde comal de tomaten, tomatillo’s, de rest van de ui en de knoflook tot ze geblakerd en zacht zijn. Pel de knoflook.",
-    "Rooster het sesamzaad en de amandelen in een droge pan goudbruin en laat de kaneel, kruidnagels en piment de laatste minuut meeroosteren tot ze geuren; bak daarna de rozijnen en bakbanaan in 1 el van de reuzel tot ze gekarameliseerd zijn.",
+    "Rooster het sesamzaad en de amandelen in een droge pan goudbruin en laat de kaneel, kruidnagels en piment de laatste minuut meeroosteren tot ze geuren; bak daarna de rozijnen en bakbanaan in 1 el van de reuzel tot ze gekaramelliseerd zijn.",
     "Pureer in porties de uitgelekte pepers, geblakerde zaadjes, geroosterde specerijen, groenten, noten en het fruit met de zwartgeblakerde tortilla en genoeg kippenbouillon tot een volledig gladde, dikke puree. Wrijf hem door een fijne zeef — deze stap onderscheidt een echte mole van een grove chilisaus.",
     "Verhit de rest van de reuzel in een zware pan tot hij glanst en schenk de puree erin; het hoort heftig te sissen. Bak de mole 10 minuten onder voortdurend roeren, draai dan het vuur laag en laat 60–90 minuten sudderen, vaak roerend en met bouillon verdunnend, tot hij donkerder kleurt en het vet in kleine plasjes komt bovendrijven.",
     "Roer de chocolade erdoor tot hij gesmolten is en breng op smaak met zout; de afgewerkte mole moet een lepel dik bedekken en gelaagd smaken — afwisselend bitter, zoet, rokerig en fruitig.",
@@ -162,7 +162,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Pureer de achiotepasta met het zure sinaasappelsap, de knoflook, oregano, komijn en het zout tot een gladde, steenrode marinade. Bedek het varkensvlees grondig, dek af en zet een nacht in de koelkast.",
-    "Verwarm de oven op 150 °C. Haal de bananenbladeren kort door een vlam tot ze glanzend en buigzaam worden — dat maakt hun aroma vrij en voorkomt dat ze scheuren.",
+    "Verwarm de oven op 150°C. Haal de bananenbladeren kort door een vlam tot ze glanzend en buigzaam worden — dat maakt hun aroma vrij en voorkomt dat ze scheuren.",
     "Bekleed een braadpan met de bladeren en laat ze ruim overhangen. Voeg het varkensvlees en elke druppel marinade toe, vouw de bladeren dicht en leg het deksel erop.",
     "Gaar 3,5–4 uur in de oven tot het varkensvlees bij de aanraking van een vork uiteenvalt en in rood vocht zwemt. Weersta de verleiding om het pakketje vóór 3 uur te openen.",
     "Maak intussen de pickle: meng de rode uien en habanero met het limoensap en een flinke snuf zout en laat minstens 1 uur op kamertemperatuur staan, af en toe omscheppend, tot ze felroze zijn.",
@@ -234,7 +234,7 @@ Object.assign(window.NL.recipes, {
     "Breng het water met de boter, suiker en het zout flink aan de kook. Stort van het vuur af de bloem er in één keer bij en roer krachtig met een houten lepel tot een gladde bal ontstaat die schoon van de pan loslaat.",
     "Laat het deeg 5 minuten afkoelen en klop er dan het ei door tot het volledig is opgenomen en glanst. Schep het in een stevige spuitzak met een grote stervormige spuitmond.",
     "Maak de chocolade: verwarm de melk tot tegen de kook aan, voeg de gehakte chocolade toe en klop tot hij gesmolten is; klop er dan de aangelengde maïzena door en laat 2 minuten sudderen tot hij dik genoeg is om een lepel zwaar te bedekken. Houd warm. Schuim vlak voor het serveren op met een molinillo of garde.",
-    "Verhit de olie in een diepe, zware pan tot 180 °C — een restje deeg moet direct sissen en in ongeveer een minuut bruinen.",
+    "Verhit de olie in een diepe, zware pan tot 180°C — een restje deeg moet direct sissen en in ongeveer een minuut bruinen.",
     "Spuit slierten deeg van 12–15 cm direct in de olie en knip de uiteinden af met een schaar; frituur er 3–4 tegelijk. Frituur ze 4–5 minuten, af en toe kerend, tot ze diep goudbruin en krokant zijn; bleke churros zakken in en worden vettig als ze afkoelen.",
     "Laat ze kort uitlekken op keukenpapier en wentel de hete churros dan door de kaneelsuiker.",
     "Serveer direct, opgestapeld, met koppen dikke warme chocolade om in te dopen."
@@ -243,7 +243,7 @@ Object.assign(window.NL.recipes, {
     "Pikzwart en stroperig overtreft PX de kaneelsuiker in zoetheid en versmelt hij met de chocoladedip.",
     "Diepe tonen van rozijn en espresso echoën de geroosterde cacao en houden stand tegen het rijke gefrituurde deeg."
   ],
-  tip: "Houd de olie met een thermometer constant op 180 °C — de meest voorkomende churrofout is te koele olie, die vettige, deegachtige kernen geeft."
+  tip: "Houd de olie met een thermometer constant op 180°C — de meest voorkomende churrofout is te koele olie, die vettige, deegachtige kernen geeft."
 },
 "la-ceviche-clasico": {
   name: "Klassieke Peruaanse ceviche",
@@ -300,7 +300,7 @@ Object.assign(window.NL.recipes, {
     { item: "fijn zeezout en zwarte peper" }
   ],
   steps: [
-    "Frituur de frieten in olie van 180 °C in 8–10 minuten goudbruin en krokant; laat uitlekken en bestrooi met zout. (Goede ovenfrieten zijn doordeweeks een vergeeflijke afsteek.)",
+    "Frituur de frieten in olie van 180°C in 8–10 minuten goudbruin en krokant; laat uitlekken en bestrooi met zout. (Goede ovenfrieten zijn doordeweeks een vergeeflijke afsteek.)",
     "Dep het rundvlees kurkdroog en bestrooi met zout, peper en de komijn. Verhit een wok of je breedste koekenpan op het hoogste vuur tot hij rookt.",
     "Schroei het rundvlees in twee porties dicht in een beetje olie en schep pas om als één kant geblakerd is, circa 90 seconden per portie — vanbinnen moet het rosé blijven. Schep op een bord.",
     "Zet de wok terug op vol vuur, voeg de ui toe en roerbak 1 minuut, zodat de randen blakeren maar hij knapperig blijft; voeg dan de knoflook en ají amarillo 30 seconden toe.",
@@ -340,7 +340,7 @@ Object.assign(window.NL.recipes, {
     "Zet het vuur hoger, voeg het rundvlees toe en bak het net tot het zijn rauwe kleur verliest. Breng op smaak met paprika, komijn, chilivlokken, zout en peper, spreid dan uit op een bakplaat en zet 30 minuten in de koelkast; een koude, licht vette vulling voorkomt dat het deeg lekt.",
     "Schep het gehakte ei en de olijven door de koude vulling.",
     "Rol het deeg uit tot 2–3 mm en steek 12 cirkels van circa 12 cm uit. Leg op elke cirkel een royale lepel vulling, bestrijk de rand met water, vouw dicht en druk aan.",
-    "Knijp elke empanada dicht met een repulgue: vouw kleine overlappende plooien langs de rand, of druk stevig aan met de tanden van een vork. Zet 15 minuten in de koelkast terwijl de oven opwarmt naar 220 °C.",
+    "Knijp elke empanada dicht met een repulgue: vouw kleine overlappende plooien langs de rand, of druk stevig aan met de tanden van een vork. Zet 15 minuten in de koelkast terwijl de oven opwarmt naar 220°C.",
     "Bestrijk met losgeklopt ei en bak op een hete bakplaat 18–22 minuten tot ze diep goudbruin en geblaard zijn. Laat 5 minuten rusten — het vocht binnenin is gloeiend heet — en serveer warm."
   ],
   wines: [
@@ -369,7 +369,7 @@ Object.assign(window.NL.recipes, {
     "Maak de chimichurri minstens 30 minuten van tevoren: roer de peterselie, knoflook, oregano, chilivlokken en 1 tl zout door het warme water (dat laat de gedroogde kruiden openbloeien), voeg dan de azijn en als laatste de olie toe. Hij moet los, scherp en lepelbaar zijn — nooit tot een pasta geblend.",
     "Haal de steaks 45 minuten voor het bakken uit de koelkast en dep ze helemaal droog.",
     "Verhit een zware gietijzeren pan, plancha of grill op hoog vuur tot hij flink rookt. Bestrooi de steaks royaal aan beide kanten met zout, vlak voordat ze het hete oppervlak raken.",
-    "Schroei ze zonder bewegen 4–5 minuten dicht tot een diepe, mahoniekleurige korst ontstaat, keer dan en bak nog 4–5 minuten voor medium-rare — circa 52–54 °C in de kern, stevig verend aan de randen en zacht in het midden.",
+    "Schroei ze zonder bewegen 4–5 minuten dicht tot een diepe, mahoniekleurige korst ontstaat, keer dan en bak nog 4–5 minuten voor medium-rare — circa 52–54°C in de kern, stevig verend aan de randen en zacht in het midden.",
     "Zet de steaks kort op hun vetrand om die uit te bakken en krokant te maken.",
     "Laat het vlees een volle 8–10 minuten rusten op een warm bord; een ongeruste steak bloedt zijn sappen uit zodra je hem aansnijdt.",
     "Snijd in dikke plakken tegen de draad in, bestrooi de snijvlakken met een beetje zout en serveer met chimichurri erover en extra op tafel."
@@ -441,16 +441,16 @@ Object.assign(window.NL.recipes, {
     "Maak de pino: verhit de olie in een brede pan en bak de uien met een snuf zout op middelhoog vuur 12–15 minuten tot ze zacht en goudbruin zijn. Voeg het rundvlees, de paprika en komijn toe en bak tot het vlees bruin is; breng goed op smaak. Zet de pino het liefst een uur (of een nacht) in de koelkast — hij zet zich en wint aan diepte.",
     "Blend of maal de maïs met de basilicum en melk tot een dikke, halfgrove crème — gevlekt, niet perfect glad.",
     "Verwarm de maïscrème met de boter in een steelpan op middellaag vuur, onder voortdurend roeren, 8–10 minuten tot hij indikt tot de consistentie van zachte polenta die een spoor van de lepel vasthoudt. Breng op smaak met zout.",
-    "Verwarm de oven op 200 °C. Verdeel de pino over de bodem van een ovenschaal van 2 liter of vier individuele pailas.",
+    "Verwarm de oven op 200°C. Verdeel de pino over de bodem van een ovenschaal van 2 liter of vier individuele pailas.",
     "Verdeel de stukken kip, eikwarten, olijven en rozijnen gelijkmatig over de pino.",
     "Strijk de maïslaag in een dikke, gelijkmatige laag over alles en bestrooi het oppervlak met de suiker.",
-    "Bak 30–35 minuten tot de korst goudgebruneerd is met gekarameliseerde plekken aan de randen en de vulling langs de zijkanten opborrelt. Laat 10 minuten rusten — hij wordt zeer heet geserveerd, maar hoeft niet letterlijk je gehemelte te verbranden."
+    "Bak 30–35 minuten tot de korst goudgebruneerd is met gekaramelliseerde plekken aan de randen en de vulling langs de zijkanten opborrelt. Laat 10 minuten rusten — hij wordt zeer heet geserveerd, maar hoeft niet letterlijk je gehemelte te verbranden."
   ],
   wines: [
     "Chili’s eigen druif: zijn pruimige fruit en peperige, kruidige streek slaan de brug tussen de zoete maïskorst en de hartige pino.",
     "Volle chenin met tonen van gebakken appel hanteert de zoet-hartige wip van het gerecht beter dan de meeste witte wijnen."
   ],
-  tip: "De suiker bovenop is niet optioneel — die gekarameliseerde plekken tegen de zoute pino zijn de hele essentie van het gerecht. Diepvriesmaïs werkt, maar voeg ter compensatie een theelepel extra suiker aan de korst toe."
+  tip: "De suiker bovenop is niet optioneel — die gekaramelliseerde plekken tegen de zoute pino zijn de hele essentie van het gerecht. Diepvriesmaïs werkt, maar voeg ter compensatie een theelepel extra suiker aan de korst toe."
 },
 "la-arepas-de-queso": {
   name: "Arepas gevuld met kaas",
@@ -470,7 +470,7 @@ Object.assign(window.NL.recipes, {
     "Laat het deeg 5 minuten rusten zodat het meel volledig hydrateert; het moet aanvoelen als zachte boetseerklei en niet scheuren als je erop drukt. Kneed er anders een scheutje extra water door.",
     "Verdeel in 8 ballen en klop elke bal tussen je handpalmen tot een schijf van circa 9 cm breed en 1,5 cm dik; strijk gescheurde randjes glad met een natte vinger.",
     "Verhit een licht geoliede budare, comal of zware koekenpan op middelhoog vuur. Bak de arepas 6–7 minuten per kant tot ze goudbruin zijn met geblakerde sproetjes en een droge, stevige korst.",
-    "Zet ze 10 minuten in een oven van 180 °C om af te bakken; een goed gebakken arepa klinkt hol als je op de onderkant tikt.",
+    "Zet ze 10 minuten in een oven van 180°C om af te bakken; een goed gebakken arepa klinkt hol als je op de onderkant tikt.",
     "Snijd elke arepa heet langs zijn evenaar open als een pitabroodje, bestrijk de binnenkant desgewenst met boter en vul royaal met kaas zodat die in de stoom smelt. Serveer meteen."
   ],
   wines: [
@@ -495,7 +495,7 @@ Object.assign(window.NL.recipes, {
     { item: "snufje fijn zeezout" }
   ],
   steps: [
-    "Verwarm de oven op 150 °C en zet een waterkoker aan voor het bain-marie.",
+    "Verwarm de oven op 150°C en zet een waterkoker aan voor het bain-marie.",
     "Maak de karamel: verhit de suiker en het water in een kleine pan op middelhoog vuur, al walsend maar nooit roerend, tot hij diep amberkleurig is — de kleur van donkere rum, nét voor het rookpunt. Schenk direct in een ronde vorm van 20 cm en kantel om de bodem te bedekken.",
     "Klop de eieren en dooiers zachtjes los met het zout en klop er dan de gecondenseerde melk, geëvaporeerde melk en vanille door. Klop zo min mogelijk lucht erin — schuim wordt gaatjes.",
     "Zeef de custard door een fijne zeef op de gestolde karamel.",

@@ -410,7 +410,7 @@ window.RECIPES.push(
     "Skim the fat, discard the bouquet garni, and taste — it may want salt, pepper or a fresh grating of orange zest. Rest 15 minutes and serve with macaroni or mashed potatoes."
   ],
   wines: [
-    { id: "cotes-du-rhone", note: "Garrigue-scented Grenache from neighbouring vineyards echoes the herbs and stands up to the dark wine sauce." },
+    { id: "chateauneuf-du-pape", note: "The southern Rhône’s benchmark Grenache — garrigue, warm stone and spice — grown beside the daube’s own herbs." },
     { id: "priorat", note: "Slate-edged and concentrated, it has the muscle for long-braised beef and briny olives." }
   ],
   tip: "Like most braises, daube is better the next day — cook it fully, chill overnight, lift off the fat and reheat gently."

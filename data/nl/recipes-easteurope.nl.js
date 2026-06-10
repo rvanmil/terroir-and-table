@@ -93,8 +93,8 @@ Object.assign(window.NL.recipes, {
     "Leg elke kipfilet tussen vellen vershoudfolie en sla hem voorzichtig met een deegroller uit tot een gelijkmatige dikte van 5 mm, zonder het vlees te scheuren.",
     "Bestrooi de kip met zout en peper, leg op elk stuk een bevroren boterstaafje, vouw de zijkanten in en rol op tot een strak, volledig gesloten pakketje — elk stukje blootliggende boter lekt weg in de frituur.",
     "Haal elk pakketje door de bloem, dan door het ei en dan door het paneermeel; herhaal het ei en het paneermeel voor een tweede laag — dat is de verzekeringspolis die de boter binnenhoudt. Laat de kipfilets 1 uur opstijven in de koelkast.",
-    "Verhit de olie tot 170 °C in een diepe, zware pan. Frituur de kipfilets twee tegelijk in 4–5 minuten al kerend diep goudbruin rondom.",
-    "Leg ze op een rooster boven een bakplaat en bak ze af in een oven van 180 °C, 12–15 minuten, tot het dikste deel op een kernthermometer 74 °C aangeeft.",
+    "Verhit de olie tot 170°C in een diepe, zware pan. Frituur de kipfilets twee tegelijk in 4–5 minuten al kerend diep goudbruin rondom.",
+    "Leg ze op een rooster boven een bakplaat en bak ze af in een oven van 180°C, 12–15 minuten, tot het dikste deel op een kernthermometer 74°C aangeeft.",
     "Laat 3 minuten rusten en serveer ze heel, zodat elke gast die spectaculaire golf kruidenboter krijgt — boterige puree en doperwten zijn het traditionele gezelschap."
   ],
   wines: [
@@ -192,7 +192,7 @@ Object.assign(window.NL.recipes, {
     "Smelt de honing, suiker en boter in een kom boven een pan zachtjes kokend water. Roer het zuiveringszout erdoor en blijf 2–3 minuten roeren terwijl het schuimt en een tint donkerder wordt — die karameltoon is het handelsmerk van medovik.",
     "Klop van het vuur af de eieren er één voor één door en spatel dan de bloem en het zout erdoor tot een zacht, warm, licht plakkerig deeg.",
     "Verdeel in 8 stukken. Rol elk stuk, terwijl het nog warm is, op bakpapier uit tot een ronde lap van 20 cm, 2 mm dun, en prik hem overal in met een vork.",
-    "Bak de lappen één of twee tegelijk op 180 °C, elk 4–6 minuten, tot ze diep amberkleurig zijn. Snijd elke lap zolang hij heet is bij tot een nette cirkel en bewaar alle afsnijdsels.",
+    "Bak de lappen één of twee tegelijk op 180°C, elk 4–6 minuten, tot ze diep amberkleurig zijn. Snijd elke lap zolang hij heet is bij tot een nette cirkel en bewaar alle afsnijdsels.",
     "Klop de slagroom tot zachte pieken en spatel er dan de zure room, poedersuiker en een snufje zout door tot een crème die nét zijn vorm houdt.",
     "Stapel de lagen met tussen elke laag een royale laag crème en bestrijk dan de boven- en zijkanten met de rest.",
     "Maal de afsnijdsels tot fijne kruimels en druk ze over de hele taart. Zet een nacht in de koelkast — de krokante lagen moeten de room opdrinken en zacht worden voordat je serveert."
@@ -262,11 +262,11 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Wrijf de koude boter door de bloem en poedersuiker, bind met de dooiers en een theelepel koud water en laat het deeg 30 minuten rusten in de koelkast.",
-    "Rol twee derde van het deeg uit en bekleed er de bodem van een vierkante of ronde vorm van 23 cm mee; prik in en bak 15 minuten blind op 180 °C tot het lichtgoud is. Bewaar de rest voor het raster.",
+    "Rol twee derde van het deeg uit en bekleed er de bodem van een vierkante of ronde vorm van 23 cm mee; prik in en bak 15 minuten blind op 180°C tot het lichtgoud is. Bewaar de rest voor het raster.",
     "Klop de zachte boter met de kristalsuiker luchtig, klop dan de eidooiers er één voor één door, gevolgd door de gezeefde twaróg, het zetmeel, de citroenrasp en de vanille — het mengsel moet dik en volkomen glad zijn.",
     "Klop de eiwitten tot stevige pieken en spatel ze in drie keer door het mengsel, met behoud van zo veel mogelijk lucht; spatel dan de rozijnen erdoor.",
     "Giet de vulling over de bodem. Rol het bewaarde deeg uit, snijd het in repen van 1,5 cm en leg er een diagonaal raster mee over de bovenkant.",
-    "Bak 55–65 minuten op 170 °C tot het raster goudbruin is en het midden nog maar nauwelijks wiebelt. Zet de oven uit en laat de taart er 30 minuten in staan met de deur op een kier — langzaam afkoelen voorkomt scheuren en inzakken.",
+    "Bak 55–65 minuten op 170°C tot het raster goudbruin is en het midden nog maar nauwelijks wiebelt. Zet de oven uit en laat de taart er 30 minuten in staan met de deur op een kier — langzaam afkoelen voorkomt scheuren en inzakken.",
     "Bestrijk het raster met warme abrikozenjam, laat volledig afkoelen en zet dan in de koelkast voordat je de taart in nette vierkanten snijdt."
   ],
   wines: [
@@ -300,7 +300,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Lardeer het rundvlees de dag van tevoren door er met een klein mes reepjes spek doorheen te rijgen, en begraaf het dan in de gehakte groenten met de piment, laurier, azijn en een scheut olie. Dek af en zet een nacht in de koelkast.",
     "Haal het vlees eruit, dep het droog, bestrooi met zout en peper en braad het in een braadpan rondom hard aan. Haal het eruit en karamelliseer de gemarineerde groenten 10 minuten in hetzelfde vet.",
-    "Leg het vlees terug op de groenten, giet de bouillon erbij, doe het deksel erop en smoor 2–2,5 uur op 160 °C; keer halverwege één keer, tot een vork er moeiteloos in glijdt.",
+    "Leg het vlees terug op de groenten, giet de bouillon erbij, doe het deksel erop en smoor 2–2,5 uur op 160°C; keer halverwege één keer, tot een vork er moeiteloos in glijdt.",
     "Laat het vlees rusten onder folie. Vis de laurierblaadjes en pimentbessen eruit en pureer de groenten met het smoorvocht volkomen glad; wrijf de saus door een zeef voor een nog fijner resultaat.",
     "Roer de room en het citroensap erdoor en laat zachtjes inkoken tot de saus dik genoeg is om te bedekken; breng zorgvuldig op smaak — de saus moet balanceren tussen zoete wortelgroenten en citroenfrisheid.",
     "Snijd het vlees tegen de draad in plakken en verwarm de plakken in de saus.",
@@ -337,7 +337,7 @@ Object.assign(window.NL.recipes, {
     "Kook de aardappelen in goed gezouten water in ongeveer 15 minuten gaar; giet af en houd warm met een klontje boter en peterselie.",
     "Haal elke plak kaas door de bloem, dan door het ei en dan door het paneermeel, en herhaal de ei- en paneermeellaag voor een volledige dubbele verzegeling — één kaal plekje en de kaas ontsnapt.",
     "Druk het paneermeel stevig aan en vries de gepaneerde plakken 20 minuten in, zodat de kaas koud wordt terwijl de korst opstijft.",
-    "Verhit de olie tot 180 °C in een diepe koekenpan. Frituur de plakken twee tegelijk in 2–3 minuten per kant diep goudbruin — de kaas binnenin moet volledig gesmolten zijn, maar de korst intact.",
+    "Verhit de olie tot 180°C in een diepe koekenpan. Frituur de plakken twee tegelijk in 2–3 minuten per kant diep goudbruin — de kaas binnenin moet volledig gesmolten zijn, maar de korst intact.",
     "Laat kort uitlekken op keukenpapier en serveer direct met de aardappelen, een royale pot tartaarsaus en citroenpartjes, terwijl het hart nog spectaculair rekt."
   ],
   wines: [
@@ -373,7 +373,7 @@ Object.assign(window.NL.recipes, {
     "Leg een portie vulling ter grootte van een walnoot op de steelkant van elk blad, vouw de zijkanten in en rol op tot een strak pakketje ter grootte van een klein ei — de rijst heeft ruimte nodig om te zwellen.",
     "Bekleed een zware braadpan met de helft van de gesnipperde kool en wat spek. Stapel de rolletjes in strakke concentrische cirkels, stop de rest van het spek en de laurierblaadjes tussen de lagen en dek af met de rest van de gesnipperde kool.",
     "Klop de tomatenblokjes, de resterende tomatenpuree en het water door elkaar, breng op smaak en giet erover — de rolletjes moeten nét onderstaan.",
-    "Dek af en gaar 2,5–3 uur op 160 °C (of op het zachtste suddervuurtje), tot de bladeren zijdezacht zijn en een rolletje zonder weerstand snijdt. Schud de pan af en toe in plaats van te roeren — roeren breekt de rolletjes.",
+    "Dek af en gaar 2,5–3 uur op 160°C (of op het zachtste suddervuurtje), tot de bladeren zijdezacht zijn en een rolletje zonder weerstand snijdt. Schud de pan af en toe in plaats van te roeren — roeren breekt de rolletjes.",
     "Laat 20 minuten rusten en serveer dan rechtstreeks uit de pan met zachte mămăligă en koude zure room."
   ],
   wines: [
@@ -461,14 +461,14 @@ Object.assign(window.NL.recipes, {
     "Vet een diepe ronde of vierkante ovenschaal van 26 cm in met olie en leg twee hele vellen filo over de bodem; laat ze tegen de randen opkruipen.",
     "Neem de overige vellen één voor één, frommel elk vel losjes op als een zakdoek, dompel het in het kaasbeslag tot het doordrenkt is en vlij het in de schaal.",
     "Ga door tot de schaal vol is en het beslag op; giet eventuele restjes over de bovenkant. Vouw het overhangende filo naar binnen en besprenkel alles met de gesmolten boter.",
-    "Bak 40–45 minuten op 180 °C tot de richels diep goudbruin zijn en het midden gestold maar nog zacht — een mes moet er schoon maar vochtig uitkomen.",
+    "Bak 40–45 minuten op 180°C tot de richels diep goudbruin zijn en het midden gestold maar nog zacht — een mes moet er schoon maar vochtig uitkomen.",
     "Laat 10 minuten rusten en snijd dan in royale vierkanten. Serveer warm, traditioneel met een glas koude yoghurt of kefir."
   ],
   wines: [
     "Kurkdroge, citroen-zilte Assyrtiko maait door zoute kaas en boterig filodeeg als zeelucht.",
     "Bleke, droge rosé houdt het fris en gezellig naast de rijke, eierige frommel van kaas en deeg."
   ],
-  tip: "Wees niet te precies met het frommelen — ongelijke vouwen geven het mooiste contrast tussen krokante richel en romige holte. Gibanica warmt goed op bij 160 °C en is de volgende ochtend misschien zelfs nog lekkerder."
+  tip: "Wees niet te precies met het frommelen — ongelijke vouwen geven het mooiste contrast tussen krokante richel en romige holte. Gibanica warmt goed op bij 160°C en is de volgende ochtend misschien zelfs nog lekkerder."
 },
 "ee-banitsa": {
   name: "Banitsa",
@@ -491,7 +491,7 @@ Object.assign(window.NL.recipes, {
     "Spreid een vel filo uit, bestrijk het dun met het boter-oliemengsel en strooi een lijn vulling langs de lange kant. Rol op tot een losse sliert — te strak en hij kan niet rijzen.",
     "Draai de eerste sliert tot een spiraal in het midden van de vorm en ga door met de overige vellen; wikkel elke nieuwe sliert om de vorige tot de vorm spiraalsgewijs gevuld is.",
     "Verdun de achtergehouden vulling met het bruisende water en giet hem gelijkmatig over de spiraal; besprenkel dan met de laatste boter.",
-    "Bak 35–40 minuten op 180 °C tot de bovenkant diep goudbruin en krokant is. Luister maar: een gare banitsa knispert als hij uit de oven komt.",
+    "Bak 35–40 minuten op 180°C tot de bovenkant diep goudbruin en krokant is. Luister maar: een gare banitsa knispert als hij uit de oven komt.",
     "Dek 10 minuten af met een schone theedoek — zo wordt hij nét zacht genoeg — en snijd dan in punten. Serveer warm, met koude yoghurt of ayran."
   ],
   wines: [

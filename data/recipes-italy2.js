@@ -357,7 +357,7 @@ window.RECIPES.push(
   story: "The grand Sunday roast of the Langhe hills, where the nobles’ wine met the farmers’ patient pot. Braising tough cuts in Nebbiolo wine has been the region’s way of honouring both its cattle and its cellars since at least the 19th century, and it remains the classic centrepiece of winter feast days.",
   tastes: ["rich", "umami", "earthy"],
   keyIngredients: ["beef", "carrots", "onions", "herbs"],
-  dietary: ["gluten-free", "dairy-free"],
+  dietary: ["gluten-free"],
   difficulty: "intermediate",
   activeMinutes: 45,
   totalMinutes: 260,
@@ -374,13 +374,14 @@ window.RECIPES.push(
     { qty: 1, unit: "", item: "sprig of rosemary" },
     { qty: 4, unit: "", item: "cloves" },
     { qty: 1, unit: "", item: "small piece of cinnamon stick" },
-    { qty: 3, unit: "tbsp", item: "extra virgin olive oil" },
+    { qty: 2, unit: "tbsp", item: "extra virgin olive oil" },
+    { qty: 40, unit: "g", item: "butter" },
     { qty: null, unit: "", item: "sea salt and black pepper" }
   ],
   steps: [
     "The night before, put the beef in a deep bowl with the vegetables, garlic, herbs and spices, pour over the wine, cover and refrigerate, turning once if you remember.",
     "Lift the meat out and pat it completely dry; strain and reserve the wine and vegetables separately. Season the beef generously.",
-    "Heat the oil in a heavy casserole and brown the beef hard on every side, 10–12 minutes total, until a deep mahogany crust forms. Set the meat aside.",
+    "Heat the oil and butter in a heavy casserole and brown the beef hard on every side, 10–12 minutes total, until a deep mahogany crust forms. Set the meat aside.",
     "Soften the marinated vegetables in the same pot for 8–10 minutes, scraping up the browned glaze.",
     "Return the beef, pour in the wine and bring to a simmer, skimming any grey foam. Cover and braise at a bare tremble — on the hob or in a 150°C oven — for 3 to 3½ hours, turning the meat every hour, until a fork slides in with no resistance.",
     "Rest the beef under foil. Discard the bay, rosemary and whole spices, then blend the vegetables into the braising liquid and reduce until the sauce coats a spoon darkly.",
@@ -388,7 +389,7 @@ window.RECIPES.push(
   ],
   wines: [
     { id: "barolo", note: "What grows together goes together — the wine in the pot, with its tar-and-roses austerity, is the only first choice." },
-    { id: "ribera-del-duero", note: "If the Barolo all went into the pan, powerful Tempranillo has the structure and dark fruit for the velvety beef." }
+    { id: "amarone-valpolicella", note: "Verona’s dried-grape giant answers the braise’s concentration with its own — dried cherry and dark spice wrapped around the velvety beef." }
   ],
   tip: "You don’t need a 60-euro bottle for the pot: any honest, sturdy Nebbiolo (Langhe or Gattinara) braises beautifully — save the real Barolo for the glasses."
 },
@@ -603,7 +604,7 @@ window.RECIPES.push(
   ],
   wines: [
     { id: "moscato-asti", note: "Frothy, grapey and just 5.5% — Piedmont’s own light fizz mirrors the foam’s sweetness without weighing it down." },
-    { id: "vin-santo", note: "Nutty amber depth plays the grown-up counterpoint to the warm, winey custard." }
+    { id: "marsala-superiore", note: "The wine that is whisked into the custard itself — caramelised orange and hazelnut deepen every spoonful." }
   ],
   tip: "Use a balloon whisk and a roomy bowl — volume comes from air, not heat. A ratio worth memorising: per person, one yolk, one tablespoon of sugar, one half-eggshell measure of Marsala."
 },

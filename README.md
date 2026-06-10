@@ -5,7 +5,7 @@ cultures** — from street-food cheap to Michelin-level showpieces, including th
 restaurant canon (steak tartare, beef wellington, shoyu ramen, chicken tikka masala,
 bitterballen, cheese fondue) — each with honest timings for the serious home cook, scalable
 metric ingredients, real technique, cultural background, and **two wine pairings drawn from
-a curated cellar of 79 benchmark wines** (plus sake and Norman cider), every one of which is used. **Fully bilingual: Nederlands (default) and
+a curated cellar of 85 benchmark wines** (plus sake and Norman cider), every one of which is used. **Fully bilingual: Nederlands (default) and
 English**, switchable from the preferences page — every recipe, wine note and interface
 string is translated.
 
@@ -54,7 +54,7 @@ new version on their next online visit.
   preferences (cuisine, moods, diets, time, 3 or 4 courses; shuffle endlessly). Produces a
   printable menu card, a merged marketing list scaled to your table, a count-back cook's
   clock, and a deduplicated wine list with bottle counts.
-- **The Cellar** (`#/cellar`) — all 79 wines, filterable by type, body and country, each
+- **The Cellar** (`#/cellar`) — all 85 wines, filterable by type, body and country, each
   cross-linked to every dish in the atlas that calls for it.
 - **Saved menus** — name and save any composed menu, then load, rename, reorder or delete it
   from the library on the menu page; dishes within a course can be reordered too.

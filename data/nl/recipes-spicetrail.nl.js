@@ -68,7 +68,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Een rijke, nootachtige witte wijn weerspiegelt de weelde van amandel en ghee in de saus, terwijl de zuren voorkomen dat het gerecht zwaar aanvoelt.",
-    "Zachte Soave met haar amandeltoets is een bescheiden partner voor het delicate saffraan- en kardemomparfum van de korma."
+    "Zachte Soave met zijn amandeltoets is een bescheiden partner voor het delicate saffraan- en kardemomparfum van de korma."
   ],
   tip: "Klop de yoghurt grondig en voeg hem van het vuur af toe — een theelepel van de amandelpasta er eerst doorheen geroerd beschermt hem tegen schiften."
 },
@@ -102,7 +102,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "De witte-peperbeet en groentevriendelijke zuren van Grüner kunnen de aardse linzen aan en snijden door de ghee.",
-    "Volle Chenin met haar ronde toets van gebakken appel heeft het lichaam voor de romige dal en genoeg frisheid voor de peper."
+    "Volle Chenin met zijn ronde toets van gebakken appel heeft het lichaam voor de romige dal en genoeg frisheid voor de peper."
   ],
   tip: "Maak de tadka in de laatste 30 seconden voor het serveren — zijn dramatiek en aroma vervliegen snel, dus het pannetje moet nog sissen als hij de kom raakt."
 },
@@ -197,11 +197,11 @@ Object.assign(window.NL.recipes, {
     "Kneed voor de schil het koude magere lamsvlees met de bulgur, geraspte ui, resterende zevenkruidenmix, kaneel en een royale theelepel zout; maal het in porties in een keukenmachine tot een gladde, samenhangende pasta en voeg een eetlepel ijswater toe als het stroef gaat.",
     "Rol de schilpasta met natte handen tot 12 eieren. Hol elk ei uit door er een vinger in te duwen en te draaien, en maak de wand gelijkmatig dun tot zo’n 5 mm — doop je vinger in ijswater zodra het plakt.",
     "Schep vulling in elke holte, knijp de opening dicht en vorm beide uiteinden tot de klassieke torpedovorm. Laat 30 minuten opstijven in de koelkast.",
-    "Verhit de olie tot 180 °C. Frituur de kibbeh in porties van vier, al kerend, 5–6 minuten tot ze diep kastanjebruin en krokant zijn.",
+    "Verhit de olie tot 180°C. Frituur de kibbeh in porties van vier, al kerend, 5–6 minuten tot ze diep kastanjebruin en krokant zijn.",
     "Laat uitlekken op keukenpapier en serveer heet met partjes citroen, verse munt en een kom koele yoghurt of tahinsaus erbij."
   ],
   wines: [
-    "Kurkdroge, zilte fino is briljant bij alles wat gefrituurd is, en haar amandeltoets knipoogt naar de pijnboompitvulling.",
+    "Kurkdroge, zilte fino is briljant bij alles wat gefrituurd is, en zijn amandeltoets knipoogt naar de pijnboompitvulling.",
     "Bladerige, frisse Cabernet Franc heeft net genoeg grip voor het lamsvlees en blijft licht tegenover de krokante schil."
   ],
   tip: "Houd het lamsvlees voor de schil bijna bevroren en werk met ijswater — warmte is de vijand van een gladde pasta die haar dunne wanden in de frituur intact houdt."
@@ -230,7 +230,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Klop de olijfolie, het citroensap, de geperste knoflook, zevenkruidenmix, paprikapoeder, komijn, kaneel en 1,5 theelepel zout door elkaar. Schep de kippendijen erdoor en laat een nacht marineren in de koelkast.",
     "Maal voor de toum de gepelde knoflook met een theelepel zout in een keukenmachine, en schraap de wand regelmatig schoon; giet dan de neutrale olie in een zo dun mogelijk straaltje erbij, afgewisseld met kleine scheutjes citroensap en ijswater, tot het opbolt tot een witte, mayonaiseachtige wolk. Zet koud weg.",
-    "Verwarm de oven voor op 220 °C. Leg de dijen licht overlappend in een braadslee — die overlap bootst de dichte gelaagdheid van het spit na — en rooster ze 30–35 minuten tot de randen diep gebruind zijn.",
+    "Verwarm de oven voor op 220°C. Leg de dijen licht overlappend in een braadslee — die overlap bootst de dichte gelaagdheid van het spit na — en rooster ze 30–35 minuten tot de randen diep gebruind zijn.",
     "Laat de kip 5 minuten rusten, snijd haar dan dwars in dunne linten en schep die terug door het gekruide braadvocht.",
     "Laat de gesneden kip 2–3 minuten krokant worden onder een hete grill, zodat de randjes frizzelen als vlees dat van het spit is geschaafd.",
     "Verwarm de pita’s, besmeer ze royaal met toum en vul ze met kip, augurk en tomaat. Rol strak op, wikkel één uiteinde in papier en eet staand, zoals Beiroet het bedoelt."
@@ -318,7 +318,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Week de inktvis 20 minuten in de melk of het bruiswater — een tavernatruc die hem mals houdt — laat dan uitlekken en dep grondig droog.",
-    "Meng de bloem, griesmeel en het zout in een brede kom. Verhit de olie in een diepe pan tot 190 °C — heet is niet onderhandelbaar; koelere olie betekent taaie inktvis.",
+    "Meng de bloem, griesmeel en het zout in een brede kom. Verhit de olie in een diepe pan tot 190°C — heet is niet onderhandelbaar; koelere olie betekent taaie inktvis.",
     "Haal een handvol inktvis door de bloem, schud elk los korreltje eraf in een zeef en laat in de olie zakken.",
     "Frituur in kleine porties slechts 90 seconden tot 2 minuten, tot lichtgoud en krokant — inktvis gaar je óf korter dan 2 minuten óf langer dan 40; alles daartussenin is onvriendelijk.",
     "Schep op keukenpapier, zout direct terwijl hij nog glanst, en herhaal met de overige porties; laat de olie telkens weer op temperatuur komen.",

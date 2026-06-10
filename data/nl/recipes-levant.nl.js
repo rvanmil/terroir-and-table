@@ -468,7 +468,7 @@ Object.assign(window.NL.recipes, {
     "Bestrooi met de kruiden en breng de pan direct naar tafel met brood om te dopen; laatkomers krijgen gestolde dooiers en geen medelijden."
   ],
   wines: [
-    "De zoetheid en racy zuren van halfdroge riesling sussen de chili en paprika en dansen met de frisheid van de tomaat.",
+    "De zoetheid en rassige zuren van halfdroge riesling sussen de chili en paprika en dansen met de frisheid van de tomaat.",
     "Bladerige, frisse cabernet franc, licht gekoeld, is een van de weinige rode wijnen die oprecht van zowel paprika als eieren houdt."
   ],
   tip: "Breek elk ei eerst in een kopje en laat het in zijn kuiltje glijden — gebroken dooiers zijn niet te redden, en eieren die na elkaar worden toegevoegd garen ongelijkmatig."

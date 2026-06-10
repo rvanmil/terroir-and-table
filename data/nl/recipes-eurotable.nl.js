@@ -72,14 +72,15 @@ Object.assign(window.NL.recipes, {
     { item: "vastkokende aardappelen", note: "in de schil gekookt tot net gaar, volledig afgekoeld" },
     { item: "boter", note: "of half boter, half reuzel voor extra krokantheid" },
     { item: "zonnebloemolie" },
+    { item: "gerookt spek", note: "in kleine blokjes" },
     { item: "kleine ui", note: "in dunne ringen — optioneel, maar gebruikelijk in Bernse keukens" },
     { item: "fijn zeezout" },
     { item: "zwarte peper" }
   ],
   steps: [
     "Kook de ongeschilde aardappelen in gezouten water tot een mes in het midden lichte weerstand voelt, ongeveer 20 minuten. Giet af en laat volledig afkoelen — het liefst een nacht in de koelkast, dat verstevigt het zetmeel.",
-    "Schil de koude aardappelen en rasp ze op de grove kant van een rasp. Breng op smaak met zout en peper en schep er voorzichtig de ui door, als je die gebruikt; houd de slierten luchtig.",
-    "Verhit de helft van de boter met de olie in een anti-aanbakpan of goed ingebrande pan van 24–26 cm op middelhoog vuur tot het schuimt.",
+    "Schil de koude aardappelen en rasp ze op de grove kant van een rasp. Breng op smaak met zout en peper; houd de slierten luchtig.",
+    "Verhit de helft van de boter met de olie in een anti-aanbakpan of goed ingebrande pan van 24–26 cm op middelhoog vuur en bak het spek en de ui, als je die gebruikt, 2–3 minuten tot het spek zijn vet loslaat en de ui glazig wordt.",
     "Voeg de aardappelen toe en druk ze met een spatel licht aan tot een gelijkmatige koek; werk de randen netjes bij. Bak 12–15 minuten, terwijl je de pan af en toe schudt, tot de onderkant diep goudbruin is — til een randje op om te kijken.",
     "Laat de rösti op een bord glijden, leg de pan er omgekeerd op en keer het geheel terug in de pan. Voeg de rest van de boter langs de randen toe zodat hij eronder loopt.",
     "Bak de tweede kant nog 10–12 minuten tot hij gelijkmatig krokant en goudbruin is. Laat op een plank glijden en serveer in punten gesneden, met de korst naar boven."
@@ -115,7 +116,7 @@ Object.assign(window.NL.recipes, {
     "Schep het uitgeplozen rundvlees, de mosterd en de peterselie erdoor. Breng stevig op smaak met nootmuskaat, zout en peper — koelen vlakt smaak af.",
     "Strijk de ragout uit in een ondiepe schaal, druk vershoudfolie op het oppervlak en zet minstens 3 uur in de koelkast tot hij helemaal stevig is.",
     "Rol de ragout met natte handen tot balletjes van zo’n 3 cm doorsnee. Haal ze achtereenvolgens door de bloem, het losgeklopte ei en het paneermeel en zorg dat het jasje overal dicht is — elk gaatje barst open in de frituur.",
-    "Laat de gepaneerde ballen 30 minuten opstijven in de koelkast terwijl je de olie verhit tot 180 °C.",
+    "Laat de gepaneerde ballen 30 minuten opstijven in de koelkast terwijl je de olie verhit tot 180°C.",
     "Frituur ze in porties van 6–8 stuks in 3–4 minuten diep goudbruin. Laat uitlekken op keukenpapier.",
     "Serveer ze gloeiend heet met een potje pittige mosterd om in te dopen — en waarschuw iedereen dat de kern lava is."
   ],
@@ -160,7 +161,7 @@ Object.assign(window.NL.recipes, {
 },
 "re-hollandse-appeltaart": {
   name: "Hollandse appeltaart",
-  description: "Een hoge taart van kaneelappels en rozijnen in kruimige botervulling van deeg, met een raster van deegrepen erbovenop, geserveerd in royale punten — met slagroom natuurlijk.",
+  description: "Een hoge taart van kaneelappels en rozijnen in een kruimige korst van boterdeeg, met een raster van deegrepen erbovenop, geserveerd in royale punten — met slagroom natuurlijk.",
   story: "Recepten voor appeltaart staan al in het allereerste gedrukte Nederlandse kookboek uit 1514, en de hoge appeltaart is nog altijd de vanzelfsprekende bestelling bij de koffie in cafés door het hele land — de rij voor Winkel 43 in de Amsterdamse Jordaan bewijst haar status als nationale troostkost.",
   timeNote: "Plus afkoelen — hij snijdt het mooist op kamertemperatuur",
   ingredients: [
@@ -179,7 +180,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Wrijf de bloem, boter, basterdsuiker en het zout tot fijne kruimels en kneed het geheel met het grootste deel van het losgeklopte ei tot een stevig deeg. Verpak het en laat het 30 minuten rusten in de koelkast.",
-    "Vet een springvorm van 20 cm in. Druk twee derde van het deeg in een gelijkmatige laag over de bodem en 4 cm langs de rand omhoog. Zet koud weg. Verwarm de oven voor op 175 °C.",
+    "Vet een springvorm van 20 cm in. Druk twee derde van het deeg in een gelijkmatige laag over de bodem en 4 cm langs de rand omhoog. Zet koud weg. Verwarm de oven voor op 175°C.",
     "Schep de stukken appel om met de rozijnen, kristalsuiker, kaneel en het citroensap.",
     "Strooi het paneermeel over de deegbodem en stapel de appels er stevig in, met een lichte bolling — ze zakken in tijdens het bakken.",
     "Rol de rest van het deeg uit en snijd het in repen van 2 cm. Leg ze als een raster over de appels en druk de uiteinden vast op de rand. Bestrijk met het achtergehouden ei.",
@@ -188,7 +189,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Elektriserende zoetheid van abrikoos en honing met vlijmscherpe zuren spiegelt de kaneelappels en snijdt door de boterige korst.",
-    "Toffee, rozijn en die typische madeirazuren echoën de kaneel en gewelde rozijnen zonder ooit plakkerig te worden."
+    "Riesling met botrytis is gebakken appel en honing in een glas — hij spiegelt de gekruide vulling, terwijl zijn elektrische zuren door de boterige korst snijden."
   ],
   tip: "Gebruik appels die hun vorm houden — een melig ras kookt tot moes en dan zakt de hoge punt in bij het aansnijden."
 },
@@ -216,7 +217,7 @@ Object.assign(window.NL.recipes, {
     "Doe de witvis en gerookte schelvis met de melk en het laurierblad in een ruime pan. Breng tegen de kook aan, pocheer 3 minuten en haal de vis er dan uit — hij mag maar net gaar zijn. Zeef de melk en bewaar hem.",
     "Kook de aardappelen in gezouten water volledig gaar, 15–18 minuten. Giet goed af, laat 2 minuten uitdampen en stamp ze dan fijn met de helft van de boter, de slagroom en wat geraspte nootmuskaat. Breng op smaak.",
     "Smelt de rest van de boter in een steelpan, roer de bloem erdoor en gaar 2 minuten. Klop er geleidelijk de warme pocheermelk door en laat sudderen tot een gladde saus die aan de lepel blijft hangen. Roer de mosterd en peterselie erdoor; breng op smaak met zout en witte peper.",
-    "Verwarm de oven voor op 200 °C. Schep de gepocheerde vis, de rauwe garnalen en alle rustvocht voorzichtig door de saus — houd de vlokken groot — en verdeel alles over een ovenschaal van 1,5 liter.",
+    "Verwarm de oven voor op 200°C. Schep de gepocheerde vis, de rauwe garnalen en alle rustvocht voorzichtig door de saus — houd de vlokken groot — en verdeel alles over een ovenschaal van 1,5 liter.",
     "Schep de puree over de afgekoelde vulling, beginnend langs de randen om ze af te sluiten, trek het oppervlak ruw op met een vork en bestrooi met de Cheddar.",
     "Bak 30–35 minuten tot de bovenkant goudbruin is en de saus langs de rand borrelt. Laat 5 minuten rusten en serveer met doperwten of gesmoorde groene groenten."
   ],
@@ -248,10 +249,10 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Klop de 125 g bloem, de eieren, de melk en een snufje zout tot een glad beslag met de dikte van koffieroom. Laat minstens 1 uur op kamertemperatuur rusten — gerust beslag rijst hoger.",
-    "Verwarm de oven voor op 220 °C. Wrijf het rundvlees in met mosterdpoeder, zout en peper. Braad het in het vet in een hete braadslee rondom bruin aan.",
-    "Rooster 20 minuten, verlaag dan naar 170 °C en gaar nog zo’n 30–35 minuten voor medium-rare — een kernthermometer moet in het midden 52–54 °C aangeven. Leg het vlees op een plank, dek af met folie en laat minstens 30 minuten rusten.",
-    "Kook intussen de aardappels 8 minuten voor, giet ze af en schud ze flink in het vergiet om de randen ruw te maken. Rooster ze in gloeiend heet ganzenvet op 200 °C in 50–60 minuten diep goudbruin en knapperig; keer ze halverwege.",
-    "Zet de oven op 220 °C. Doe in elk vakje van een muffinvorm met 12 holtes een theelepel vet en verhit tot het rookt. Schenk het beslag erin — het moet sissen bij contact — en bak 20–25 minuten zonder de ovendeur te openen, tot de puddings hoog, krokant en gebruind zijn.",
+    "Verwarm de oven voor op 220°C. Wrijf het rundvlees in met mosterdpoeder, zout en peper. Braad het in het vet in een hete braadslee rondom bruin aan.",
+    "Rooster 20 minuten, verlaag dan naar 170°C en gaar nog zo’n 30–35 minuten voor medium-rare — een kernthermometer moet in het midden 52–54°C aangeven. Leg het vlees op een plank, dek af met folie en laat minstens 30 minuten rusten.",
+    "Kook intussen de aardappels 8 minuten voor, giet ze af en schud ze flink in het vergiet om de randen ruw te maken. Rooster ze in gloeiend heet ganzenvet op 200°C in 50–60 minuten diep goudbruin en knapperig; keer ze halverwege.",
+    "Zet de oven op 220°C. Doe in elk vakje van een muffinvorm met 12 holtes een theelepel vet en verhit tot het rookt. Schenk het beslag erin — het moet sissen bij contact — en bak 20–25 minuten zonder de ovendeur te openen, tot de puddings hoog, krokant en gebruind zijn.",
     "Giet voor de jus al het vet op een eetlepel na uit de braadslee, roer de bloem erdoor op middelhoog vuur en klop er dan de wijn en bouillon door, terwijl je elk aanbaksel losschraapt. Laat sudderen tot een glanzende jus en voeg het rustvocht van de plank toe.",
     "Snijd het vlees dun, dwars op de draad, en serveer met de puddings, aardappels, jus en mierikswortel."
   ],
@@ -437,7 +438,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Giet de geweekte bonen af, zet ze onder met vers, ongezouten water en laat ze in 45–60 minuten gaar maar heel sudderen — in de zure saus worden ze niet zachter meer. Bewaar 300 ml van het kookvocht en giet af.",
-    "Verwarm de oven voor op 180 °C. Verwarm in een ruime pan de helft van de olijfolie en laat de ui, peen en knoflook op laag tot middelhoog vuur in 10 minuten zacht worden zonder te kleuren.",
+    "Verwarm de oven voor op 180°C. Verwarm in een ruime pan de helft van de olijfolie en laat de ui, peen en knoflook op laag tot middelhoog vuur in 10 minuten zacht worden zonder te kleuren.",
     "Voeg de tomatenpuree toe en bak een minuutje mee, dan de tomaten, oregano, kaneel, suiker en het bewaarde bonenvocht. Laat 10 minuten sudderen en breng goed op smaak.",
     "Schep de bonen en het grootste deel van de kruiden erdoor en stort alles in een ruime ovenschaal, zodat de bonen hooguit twee lagen dik liggen. Schenk de resterende olijfolie erover.",
     "Bak 60–75 minuten zonder deksel, tot de saus rond de bonen is ingedikt en het oppervlak geblakerd en gekaramelliseerd is aan de randen. Voeg tijdens het bakken een scheutje water toe als de schaal dreigt droog te vallen.",

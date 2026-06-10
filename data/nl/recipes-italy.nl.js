@@ -22,7 +22,7 @@ Object.assign(window.NL.recipes, {
     { item: "zeezout en zwarte peper" }
   ],
   steps: [
-    "Leg het kalfsvlees in een krappe pan met de wortel, ui, bleekselderij, laurier, wijn en een royale snuf zout. Zet onder koud water, breng het net tegen de kook aan en pocheer zachtjes in 60–75 minuten, tot een thermometer in de kern 62–65 °C aangeeft.",
+    "Leg het kalfsvlees in een krappe pan met de wortel, ui, bleekselderij, laurier, wijn en een royale snuf zout. Zet onder koud water, breng het net tegen de kook aan en pocheer zachtjes in 60–75 minuten, tot een thermometer in de kern 62–65°C aangeeft.",
     "Haal het kalfsvlees uit de pan en laat het afkoelen, wikkel het dan strak in en zet het minstens 2 uur in de koelkast (een nacht is beter) — koud vlees snijd je veel dunner. Houd 100 ml van het gezeefde pocheervocht apart.",
     "Maak een mayonaisebasis: klop de eidooiers met het citroensap en een snufje zout, en voeg dan druppel voor druppel de olijfolie toe terwijl je blijft kloppen tot het dik en glanzend is.",
     "Maal de tonijn, ansjovis en kappertjes tot een fijne pasta en spatel die door de mayonaise. Verdun met lepels van het afgekoelde pocheervocht tot de saus als dikke room van een lepel loopt.",
@@ -31,7 +31,7 @@ Object.assign(window.NL.recipes, {
     "Schep de saus gelijkmatig over het vlees, bestrooi met hele kappertjes en wat zwarte peper, en laat het 20 minuten op koele kamertemperatuur rusten voor het serveren."
   ],
   wines: [
-    "De frisse Cortese uit Piemonte snijdt door de romige tonijnsaus en respecteert tegelijk de fijnheid van het kalfsvlees — de lokale match.",
+    "Gegroeid aan de overkant van de Tanaro, tegenover de Langhe, is Arneis de geboren partner van dit gerecht — frisheid van peer en amandel tegen de romige tonijnsaus.",
     "Bleke, droge rosé slaat een brug tussen het koude vlees en de zilte saus zonder een van beide te overstemmen."
   ],
   tip: "Ben je huiverig voor rauwe dooiers, spatel de tonijnpasta dan door 150 g goede kant-en-klare mayonaise — heiligschennis in Turijn, maar gegarandeerd lekker."
@@ -65,7 +65,7 @@ Object.assign(window.NL.recipes, {
     "Maak de ragù: fruit de ui in olijfolie tot hij glazig is, braad het gehakt goed bruin aan, bak de tomatenpuree een minuutje mee en voeg dan de wijn en 100 ml water toe. Laat 40 minuten zachtjes sudderen tot de saus dik en glanzend is, en voeg de laatste 5 minuten de doperwten toe. Laat afkoelen.",
     "Druk met natte handen ongeveer 80 g rijst plat tot een kommetje in je handpalm. Vul met een lepel ragù en een blokje mozzarella, vouw de rijst eromheen dicht en vorm een stevige bol of de klassieke Catanese kegel.",
     "Zet drie kommen klaar: bloem, losgeklopt ei, paneermeel. Rol elke arancino door de bloem, haal hem door het ei en wentel hem grondig door het paneermeel, aandrukkend zodat de korst goed hecht.",
-    "Verhit de olie tot 170 °C. Frituur de arancini in porties van drie of vier in 4–5 minuten, af en toe kerend, tot ze rondom diep goudbruin zijn.",
+    "Verhit de olie tot 170°C. Frituur de arancini in porties van drie of vier in 4–5 minuten, af en toe kerend, tot ze rondom diep goudbruin zijn.",
     "Laat uitlekken op keukenpapier, bestrooi licht met zout en laat 5 minuten rusten — de kernen zijn gloeiend heet — voor je ze warm serveert."
   ],
   wines: [
@@ -117,13 +117,13 @@ Object.assign(window.NL.recipes, {
     "Vul een kom met koud water en het sap van één citroen. Werk de artisjokken een voor een af: breek de donkere buitenste bladeren eraf tot je bij de bleke, zachte bladeren komt.",
     "Snijd met een scherp schilmesje het bovenste derde deel van de bladeren in een spiraal weg, schil de steel en de bodem, en wrijf alle snijvlakken in met citroen. Leg elke afgewerkte artisjok in het citroenwater.",
     "Laat de artisjokken uitlekken en dep ze grondig droog, met de kop naar beneden, op een doek — water en hete olie zijn vijanden.",
-    "Verhit de olie in een diepe pan tot 140 °C. Frituur de artisjokken met de steel omhoog in 12–15 minuten, tot een satéprikker gemakkelijk in het hart glijdt. Haal ze eruit en laat ze met de steel omhoog uitlekken.",
+    "Verhit de olie in een diepe pan tot 140°C. Frituur de artisjokken met de steel omhoog in 12–15 minuten, tot een satéprikker gemakkelijk in het hart glijdt. Haal ze eruit en laat ze met de steel omhoog uitlekken.",
     "Druk elke artisjok, zodra je hem kunt vastpakken, voorzichtig met de kop naar beneden plat op een plank zodat de bladeren openwaaieren als een bloem. Sprenkel er een paar druppels water over (voorzichtig — ze gaan spetteren) om het knapperig worden te bevorderen.",
-    "Verhoog de olietemperatuur naar 180 °C en frituur de geopende artisjokken met de kop naar beneden in 2–3 minuten tot de blaadjes diep bronskleurig en hoorbaar krokant zijn.",
+    "Verhoog de olietemperatuur naar 180°C en frituur de geopende artisjokken met de kop naar beneden in 2–3 minuten tot de blaadjes diep bronskleurig en hoorbaar krokant zijn.",
     "Laat kort uitlekken, bestrooi meteen met grof zout en peper en serveer ze warm met citroenpartjes."
   ],
   wines: [
-    "Artisjokken zijn wijnmoordenaars, maar geroosterde brut-bubbels gedijen bij gefrituurd eten en halen hun schouders op voor het cynarine.",
+    "Artisjokken zijn wijnmoordenaars, maar geroosterde brut-bubbels gedijen bij gefrituurd eten en halen hun schouders op over de cynarine.",
     "Zijn kruidige, licht bittere kant loopt parallel aan de artisjok in plaats van ertegen te vechten, met genoeg frisheid om de olie te doorbreken."
   ],
   tip: "De dubbele frituurgang is niet onderhandelbaar: de eerste gaart het hart op lage temperatuur, de tweede maakt de blaadjes krokant. De eerste frituurbeurt kun je uren van tevoren doen en vlak voor het serveren maak je het af."
@@ -206,6 +206,7 @@ Object.assign(window.NL.recipes, {
     { item: "kalfsschenkelschijven (ossobuco)", note: "elk circa 300 g, 4 cm dik" },
     { item: "tarwebloem", note: "om te bestuiven" },
     { item: "olijfolie" },
+    { item: "boter" },
     { item: "ui", note: "fijngesneden" },
     { item: "wortel", note: "fijngesneden" },
     { item: "bleekselderijstengel", note: "fijngesneden" },
@@ -218,10 +219,10 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Knip het vlies rond elke schenkel op drie plaatsen in zodat ze plat blijven, breng goed op smaak en bestuif licht met bloem.",
-    "Verhit de olie in een wijde braadpan en braad de schenkels stevig aan, 3–4 minuten per kant, tot ze diep goudbruin zijn. Zet ze apart.",
+    "Verhit de olie en de boter in een wijde braadpan en braad de schenkels stevig aan, 3–4 minuten per kant, tot ze diep goudbruin zijn. Zet ze apart.",
     "Zet het vuur lager, voeg de ui, wortel en bleekselderij toe aan dezelfde pan en fruit ze 10 minuten, terwijl je de aanbaksels losschraapt, tot ze zacht zijn.",
     "Leg de schenkels in één laag terug, schenk de wijn erbij en laat hem tot de helft inkoken.",
-    "Voeg de bouillon en de reepjes citroenschil toe — het vocht moet tot twee derde van het vlees komen. Dek af en smoor op het zachtste suddervuur (of in de oven op 160 °C) ongeveer 2 uur, halverwege één keer kerend, tot het vlees wijkt voor een lepel maar nog aan het bot hangt.",
+    "Voeg de bouillon en de reepjes citroenschil toe — het vocht moet tot twee derde van het vlees komen. Dek af en smoor op het zachtste suddervuur (of in de oven op 160°C) ongeveer 2 uur, halverwege één keer kerend, tot het vlees wijkt voor een lepel maar nog aan het bot hangt.",
     "Is de saus te dun, haal dan de schenkels eruit en kook hem op hoog vuur in tot hij aan een lepel blijft hangen. Proef en breng op smaak.",
     "Meng vlak voor het serveren de geraspte citroenschil, knoflook en peterselie tot een gremolada. Strooi die over de schenkels in hun saus en serveer, het liefst op risotto alla milanese, met lepeltjes voor het merg."
   ],
@@ -248,7 +249,7 @@ Object.assign(window.NL.recipes, {
     "Doe intussen de geraspte pecorino in een wijde kom en werk er met een spatel 3–4 eetlepels van het hete (niet kokende) pastawater door, tot je een dikke, gladde crème hebt met de textuur van yoghurt.",
     "Doe de gekneusde peper in een grote pan met een schep pastawater en laat het zachtjes pruttelen om te trekken.",
     "Schep de pasta 2 minuten voordat hij al dente is uit de pan in de peperpan en gaar hem daar verder, terwijl je omschept en pastawater toevoegt naarmate het wordt opgenomen.",
-    "Haal de pan van het vuur en wacht 30 seconden — boven ongeveer 65 °C klontert de kaas. Voeg de pecorinocrème toe en schep krachtig om, verdun met druppels pastawater tot er een glanzende saus aan elke sliert kleeft.",
+    "Haal de pan van het vuur en wacht 30 seconden — boven ongeveer 65°C klontert de kaas. Voeg de pecorinocrème toe en schep krachtig om, verdun met druppels pastawater tot er een glanzende saus aan elke sliert kleeft.",
     "Serveer onmiddellijk op voorverwarmde borden met een laatste laagje pecorino en gekneusde peper."
   ],
   wines: [
@@ -308,7 +309,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Los de gist op in het water, meng de bloem erdoor tot een ruwe massa, laat 20 minuten rusten, voeg dan het zout toe en kneed 10–12 minuten tot het deeg glad en elastisch is en de vliesjestest doorstaat.",
     "Laat het deeg afgedekt 2 uur op kamertemperatuur rijzen en verdeel het dan in vier bollen van 250 g. Laat de bollen in een afgedekte bak nog 6 uur narijzen op kamertemperatuur, tot ze ontspannen en verdubbeld zijn.",
-    "Leg een uur voor het bakken een pizzasteen of -staal op de bovenste richel en verhit de oven tot zijn absolute maximum — 275–300 °C — met de grill aan als dat kan.",
+    "Leg een uur voor het bakken een pizzasteen of -staal op de bovenste richel en verhit de oven tot zijn absolute maximum — 275–300°C — met de grill aan als dat kan.",
     "Vorm elke bol op een met griesmeel bestoven werkblad: druk met platte vingers van het midden naar buiten, duw de lucht naar de rand, en rek het deeg dan over je knokkels uit tot een schijf van 28–30 cm. Gebruik nooit een deegroller — die vermoordt de cornicione.",
     "Verdeel een dun scheplepeltje geplette tomaat tot 2 cm van de rand, strooi er een kwart van de mozzarella over en voeg 4 basilicumblaadjes en een sliertje olijfolie toe.",
     "Schuif de pizza op de gloeiende steen en bak hem 4–7 minuten (afhankelijk van de felheid van je oven), tot de rand gerezen en hier en daar geblakerd is en de kaas net gesmolten is, niet gebruind.",
@@ -318,7 +319,7 @@ Object.assign(window.NL.recipes, {
     "Het zure-kersenzuur van Sangiovese is een geboren match voor tomatensaus en geblakerde randjes.",
     "Knapperige, licht gekoelde Gamay kan het tomatenzuur en de zachte kaas aan zonder tanninegeruzie."
   ],
-  tip: "Een huisoven haalt nooit de 450 °C van een houtoven; compenseer met een staal of steen die een vol uur is voorverwarmd en zet de laatste minuut de grill aan om de rand te laten blakeren."
+  tip: "Een huisoven haalt nooit de 450°C van een houtoven; compenseer met een staal of steen die een vol uur is voorverwarmd en zet de laatste minuut de grill aan om de rand te laten blakeren."
 },
 "it-pasta-alla-norma": {
   name: "Pasta alla Norma",
@@ -338,7 +339,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Meng de aubergine met de theelepel zout in een vergiet en laat 30 minuten staan om vocht te onttrekken; dep daarna grondig droog.",
-    "Verhit de frituurolie tot 175 °C en frituur de aubergine in porties tot hij diep goudbruin en vanbinnen smeuïg is, 4–5 minuten per portie. Laat uitlekken op keukenpapier.",
+    "Verhit de frituurolie tot 175°C en frituur de aubergine in porties tot hij diep goudbruin en vanbinnen smeuïg is, 4–5 minuten per portie. Laat uitlekken op keukenpapier.",
     "Verwarm voor de saus 3 eetlepels olijfolie met de gekneusde knoflook op middelhoog vuur tot hij geurt en net goudkleurig is; voeg dan de tomaten toe en plet ze met een lepel.",
     "Laat de saus 20 minuten sudderen tot hij dik en zoet is, vis dan de knoflook eruit, breng op smaak en scheur de helft van de basilicum erboven.",
     "Kook de pasta in goed gezouten water tot één minuut vóór al dente en houd een kop van het water apart.",
@@ -478,7 +479,7 @@ Object.assign(window.NL.recipes, {
     { item: "reuzel", note: "of koude boter" },
     { item: "ongezoete cacaopoeder" },
     { item: "droge marsala" },
-    { item: "witte wijnazijn" },
+    { item: "wittewijnazijn" },
     { item: "ei", note: "eiwit apart gehouden om te plakken" },
     { item: "schapenricotta", note: "een nacht uitgelekt in een zeef" },
     { item: "poedersuiker", note: "plus extra om te bestuiven" },
@@ -492,7 +493,7 @@ Object.assign(window.NL.recipes, {
     "Klop intussen de uitgelekte ricotta met de poedersuiker tot hij zijdezacht is, wrijf hem door een zeef voor een fijnere crème en spatel de chocoladedruppels en gekonfijte sinaasappel erdoor. Zet koud weg.",
     "Rol het deeg uit tot 1–2 mm — dun genoeg om doorheen te lezen — en steek er cirkels of ovalen van 10–12 cm uit.",
     "Vouw elke cirkel om een metalen cannolibuisje en plak de overlap dicht met een drupje eiwit dat je stevig aandrukt.",
-    "Verhit de olie tot 180 °C en frituur de rolletjes op hun buisjes, twee tegelijk, in 1–2 minuten tot ze vol blaasjes en bruin zijn. De marsala en de azijn zorgen voor de kenmerkende bubbels.",
+    "Verhit de olie tot 180°C en frituur de rolletjes op hun buisjes, twee tegelijk, in 1–2 minuten tot ze vol blaasjes en bruin zijn. De marsala en de azijn zorgen voor de kenmerkende bubbels.",
     "Laat uitlekken en schuif de rolletjes van de buisjes zodra je ze kunt vastpakken. Laat volledig afkoelen; in een trommel blijven ze meerdere dagen krokant.",
     "Spuit pas op het moment van serveren de ricottacrème royaal in beide uiteinden van elk rolletje, druk de uiteinden in de pistache of garneer met gekonfijte schil, en bestuif met poedersuiker."
   ],
