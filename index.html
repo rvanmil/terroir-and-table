@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Terroir &amp; Table — Een kookatlas van de wereld</title>
+<meta name="description" content="Een interactieve kookatlas: authentieke recepten van over de hele wereld, menusamenstelling en wijnsuggesties uit een zorgvuldig samengestelde wereldkelder.">
+<meta name="theme-color" content="#f3ebda">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Terroir &amp; Table">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+</head>
+<body>
+
+<header class="masthead" id="masthead">
+  <a class="masthead__brand" href="#/">
+    <span class="masthead__ornament">❦</span>
+    <span class="masthead__title">Terroir <em>&amp;</em> Table</span>
+    <span class="masthead__sub">Een kookatlas van de wereld</span>
+  </a>
+  <nav class="masthead__nav" aria-label="Hoofdnavigatie">
+    <a href="#/atlas" data-nav="atlas">De Atlas</a>
+    <a href="#/cellar" data-nav="cellar">De Kelder</a>
+    <a href="#/menu" data-nav="menu" class="nav-menu"><span class="nav-menu__label">Jouw Menu</span> <span class="nav-menu__count" id="menuCount" hidden>0</span></a>
+    <a href="#/prefs" data-nav="prefs" class="nav-prefs" title="Voorkeuren">⚙</a>
+  </nav>
+</header>
+
+<main id="view" class="view"></main>
+
+<footer class="colophon">
+  <div class="colophon__rule">───────&nbsp;&nbsp;❧&nbsp;&nbsp;───────</div>
+  <p id="colophonText"><strong>Terroir &amp; Table</strong> — gezet uit de Fraunces &amp; Newsreader. De recepten zijn traditionele gerechten, onderzocht in hun streek van herkomst; de wijnen zijn echte appellaties en stijlen. De hoeveelheden zijn een betrouwbare gids voor de serieuze thuiskok.</p>
+</footer>
+
+<script src="data/wines.js"></script>
+<script src="data/recipes-italy.js"></script>
+<script src="data/recipes-france.js"></script>
+<script src="data/recipes-iberia.js"></script>
+<script src="data/recipes-levant.js"></script>
+<script src="data/recipes-maghreb.js"></script>
+<script src="data/recipes-southasia.js"></script>
+<script src="data/recipes-eastasia.js"></script>
+<script src="data/recipes-seasia.js"></script>
+<script src="data/recipes-latam.js"></script>
+<script src="data/recipes-northern.js"></script>
+<script src="data/recipes-italy2.js"></script>
+<script src="data/recipes-france2.js"></script>
+<script src="data/recipes-iberia2.js"></script>
+<script src="data/recipes-easteurope.js"></script>
+<script src="data/recipes-silkroad.js"></script>
+<script src="data/recipes-eastasia2.js"></script>
+<script src="data/recipes-seasia2.js"></script>
+<script src="data/recipes-southasia2.js"></script>
+<script src="data/recipes-mena2.js"></script>
+<script src="data/recipes-africa.js"></script>
+<script src="data/recipes-americas2.js"></script>
+<script src="data/recipes-bistro.js"></script>
+<script src="data/recipes-trattoria.js"></script>
+<script src="data/recipes-asiantable.js"></script>
+<script src="data/recipes-spicetrail.js"></script>
+<script src="data/recipes-diner.js"></script>
+<script src="data/recipes-eurotable.js"></script>
+<script src="data/nl/wines.nl.js"></script>
+<script src="data/nl/recipes-italy.nl.js"></script>
+<script src="data/nl/recipes-france.nl.js"></script>
+<script src="data/nl/recipes-iberia.nl.js"></script>
+<script src="data/nl/recipes-levant.nl.js"></script>
+<script src="data/nl/recipes-maghreb.nl.js"></script>
+<script src="data/nl/recipes-southasia.nl.js"></script>
+<script src="data/nl/recipes-eastasia.nl.js"></script>
+<script src="data/nl/recipes-seasia.nl.js"></script>
+<script src="data/nl/recipes-latam.nl.js"></script>
+<script src="data/nl/recipes-northern.nl.js"></script>
+<script src="data/nl/recipes-italy2.nl.js"></script>
+<script src="data/nl/recipes-france2.nl.js"></script>
+<script src="data/nl/recipes-iberia2.nl.js"></script>
+<script src="data/nl/recipes-easteurope.nl.js"></script>
+<script src="data/nl/recipes-silkroad.nl.js"></script>
+<script src="data/nl/recipes-eastasia2.nl.js"></script>
+<script src="data/nl/recipes-seasia2.nl.js"></script>
+<script src="data/nl/recipes-southasia2.nl.js"></script>
+<script src="data/nl/recipes-mena2.nl.js"></script>
+<script src="data/nl/recipes-africa.nl.js"></script>
+<script src="data/nl/recipes-americas2.nl.js"></script>
+<script src="data/nl/recipes-bistro.nl.js"></script>
+<script src="data/nl/recipes-trattoria.nl.js"></script>
+<script src="data/nl/recipes-asiantable.nl.js"></script>
+<script src="data/nl/recipes-spicetrail.nl.js"></script>
+<script src="data/nl/recipes-diner.nl.js"></script>
+<script src="data/nl/recipes-eurotable.nl.js"></script>
+<script src="data/enrich/recipes-italy.enrich.js"></script>
+<script src="data/enrich/recipes-france.enrich.js"></script>
+<script src="data/enrich/recipes-iberia.enrich.js"></script>
+<script src="data/enrich/recipes-levant.enrich.js"></script>
+<script src="data/enrich/recipes-maghreb.enrich.js"></script>
+<script src="data/enrich/recipes-southasia.enrich.js"></script>
+<script src="data/enrich/recipes-eastasia.enrich.js"></script>
+<script src="data/enrich/recipes-seasia.enrich.js"></script>
+<script src="data/enrich/recipes-latam.enrich.js"></script>
+<script src="data/enrich/recipes-northern.enrich.js"></script>
+<script src="data/enrich/recipes-italy2.enrich.js"></script>
+<script src="data/enrich/recipes-france2.enrich.js"></script>
+<script src="data/enrich/recipes-iberia2.enrich.js"></script>
+<script src="data/enrich/recipes-easteurope.enrich.js"></script>
+<script src="data/enrich/recipes-silkroad.enrich.js"></script>
+<script src="data/enrich/recipes-eastasia2.enrich.js"></script>
+<script src="data/enrich/recipes-seasia2.enrich.js"></script>
+<script src="data/enrich/recipes-southasia2.enrich.js"></script>
+<script src="data/enrich/recipes-mena2.enrich.js"></script>
+<script src="data/enrich/recipes-africa.enrich.js"></script>
+<script src="data/enrich/recipes-americas2.enrich.js"></script>
+<script src="data/enrich/recipes-bistro.enrich.js"></script>
+<script src="data/enrich/recipes-trattoria.enrich.js"></script>
+<script src="data/enrich/recipes-asiantable.enrich.js"></script>
+<script src="data/enrich/recipes-spicetrail.enrich.js"></script>
+<script src="data/enrich/recipes-diner.enrich.js"></script>
+<script src="data/enrich/recipes-eurotable.enrich.js"></script>
+<script src="js/app.js"></script>
+<script>
+if ("serviceWorker" in navigator && location.protocol !== "file:") {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js"));
+}
+</script>
+</body>
+</html>
