@@ -469,7 +469,7 @@ Object.assign(window.NL.recipes, {
     "Snijd ze desgewenst diagonaal doormidden en serveer heet met bananenketchup of zoete chilisaus en de gekruide azijn om te dippen."
   ],
   wines: [
-    "Brut-bubbels en geroosterde autolysetonen vormen dé klassieke match voor knisperende gefrituurde varkensrolletjes.",
+    "Brut-bubbels en geroosterde autolysetonen vormen dé klassieke combinatie met knisperende gefrituurde varkensrolletjes.",
     "Gekoelde, granietfrisse gamay heeft het sappige fruit om de zoete dip te ontmoeten en de lichtheid om door de frituurolie te snijden."
   ],
   tip: "Rol een grote lading en vries ze rauw in één laag in; frituur ze rechtstreeks vanuit de vriezer en tel er 2 minuten bij op — elk Filipijns huishouden houdt een voorraad aan voor onverwacht bezoek."

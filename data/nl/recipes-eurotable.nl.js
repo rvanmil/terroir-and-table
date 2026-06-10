@@ -270,7 +270,7 @@ Object.assign(window.NL.recipes, {
   ingredients: [
     { item: "pimientos de Padrón", note: "heel, met steeltje" },
     { item: "olijfolie", note: "om in te bakken" },
-    { item: "extra vergine olijfolie", note: "je beste fles, voor de finishing touch" },
+    { item: "extra vergine olijfolie", note: "je beste fles, om mee af te maken" },
     { item: "zeezoutvlokken" },
     { item: "citroen", note: "in parten, optioneel" },
     { item: "knapperig brood, om de olie mee op te deppen" }
@@ -284,7 +284,7 @@ Object.assign(window.NL.recipes, {
     "Serveer meteen; eet ze met de vingers aan het steeltje — en laat iedereen zijn kans wagen op de hete exemplaren."
   ],
   wines: [
-    "Galiciës eigen perzikachtige, Atlantisch-frisse witte wijn is de lokale match — zijn ziltigheid is dol op de schroei en de zoutvlokken.",
+    "Galiciës eigen perzikachtige, Atlantisch-frisse witte wijn is de lokale partner — zijn ziltigheid is dol op de schroei en de zoutvlokken.",
     "Hartige, geroosterde bubbels verfrissen tussen de olieachtige, geblakerde happen door — de tapasschenk voor alle gelegenheden."
   ],
   tip: "Buiten het seizoen of buiten Spanje gedragen Japanse shishitopepers zich vrijwel identiek en zijn ze een eerlijke vervanger."
@@ -299,7 +299,7 @@ Object.assign(window.NL.recipes, {
     { item: "ontpitte manzanilla-olijven" },
     { item: "ingelegde guindilla-pepers (piparras)", note: "uitgelekt, vocht bewaard" },
     { item: "extra vergine olijfolie" },
-    { item: "inlegvocht van de guindillas", note: "een paar druppels als finishing touch, optioneel" },
+    { item: "inlegvocht van de guindillas", note: "een paar druppels om mee af te maken, optioneel" },
     { item: "houten cocktailprikkers" }
   ],
   steps: [

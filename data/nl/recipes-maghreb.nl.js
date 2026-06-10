@@ -145,7 +145,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Pittige, kruidige Verdejo speelt in op de koriander en het selderijblad en verfrist tussen de lepels door.",
-    "Een knisperende, licht gekoelde Gamay matcht de tomatenzuren zonder een bouillonachtig voorgerecht te overstemmen."
+    "Een knisperende, licht gekoelde Gamay evenaart de tomatenzuren zonder een bouillonachtig voorgerecht te overstemmen."
   ],
   tip: "De tedouira (bloembinding) moet er in een dun straaltje bij onder voortdurend roeren, en daarna minstens 10 minuten sudderen — haast je, en de soep smaakt naar rauwe bloem."
 },
@@ -276,7 +276,7 @@ Object.assign(window.NL.recipes, {
     "Serveer direct met citroenparten — de dooier moet nog vloeibaar zijn, dus brik wacht op niemand."
   ],
   wines: [
-    "Geroosterde brut champagne en gefrituurd deeg zijn een beroemde match, en de mousse schrobt de rijkdom van de dooier weg.",
+    "Geroosterde brut champagne en gefrituurd deeg zijn een beroemd duo, en de mousse schrobt de rijkdom van de dooier weg.",
     "Kurkdroge, zilte fino is briljant bij gefrituurd eten, tonijn en kappertjes tegelijk."
   ],
   tip: "Vouw elke brik pas seconden voordat hij de olie ingaat — zodra het rauwe ei op het deeg ligt, begint het erdoorheen te trekken en scheurt het pakketje."

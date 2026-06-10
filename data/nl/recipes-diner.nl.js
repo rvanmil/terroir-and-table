@@ -171,7 +171,7 @@ Object.assign(window.NL.recipes, {
     "Til de eieren eruit met een schuimspaan, laat ze kort uitlekken op keukenpapier en snijd rafelige randjes eiwit bij.",
     "Leg twee muffinhelften per bord, beleg elk met bacon en een gepocheerd ei, schep er royaal hollandaise over, bestrooi met bieslook en serveer meteen."
   ],
-  wines: ["Rijke Italiaanse bubbels hebben de romige mousse om de hollandaise te evenaren en de zuren om het gehemelte te resetten — brunch in een glas.", "Nootachtige, ronde meursault beantwoordt botersaus met eigen boter, opgetild door Bourgondische zuren."],
+  wines: ["Rijke Italiaanse bubbels hebben de romige mousse om de hollandaise te evenaren en de zuren om het gehemelte te verfrissen — brunch in een glas.", "Nootachtige, ronde meursault beantwoordt botersaus met eigen boter, opgetild door Bourgondische zuren."],
   tip: "Als de hollandaise schift, klop dan een theelepel warm water in een schone kom en druppel de geschifte saus er langzaam bij — hij bindt zich opnieuw."
 },
 "rd-mac-and-cheese": {

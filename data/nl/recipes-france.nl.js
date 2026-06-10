@@ -90,7 +90,7 @@ Object.assign(window.NL.recipes, {
     "Schep in warme kommen, schenk elke druppel bouillon erover, bestrooi met de rest van de peterselie en serveer met stokbrood om te dippen."
   ],
   wines: [
-    "De klassieke match van de Atlantische monding van de Loire — zilt, licht en kurkdroog, alsof de wijn deel uitmaakt van de bouillon.",
+    "De klassieke keuze van de Atlantische monding van de Loire — zilt, licht en kurkdroog, alsof de wijn deel uitmaakt van de bouillon.",
     "Aan de Normandische kust is dit wat er werkelijk bij de pan komt: droog boomgaardfruit en fijne bubbels die dol zijn op zilt, room en brood."
   ],
   tip: "Bewaar de mosselen in de koelkast onder een vochtige doek, nooit in water of in een gesloten zak — ze leven en moeten kunnen ademen tot het moment dat ze de pan ingaan."
@@ -360,7 +360,7 @@ Object.assign(window.NL.recipes, {
     "Serveer direct met citroenpartjes en gestoomde aardappelen, en niets dat van de boter afleidt."
   ],
   wines: [
-    "Staalachtige chardonnay met oesterschelptonen is de klassieke match — pure zuren tegenover pure boter.",
+    "Staalachtige chardonnay met oesterschelptonen is dé klassieker — pure zuren tegenover pure boter.",
     "Vuursteenachtige sauvignon echoot de citroen en zorgt dat elke boterige hap smaakt als de eerste."
   ],
   tip: "Zorg dat je borden heet zijn en je tafelgasten zitten voordat de beurre noisette erop gaat — dit gerecht wacht op niemand, en de boter is op zijn best gedurende zo’n negentig seconden."

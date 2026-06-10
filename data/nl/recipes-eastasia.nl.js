@@ -322,7 +322,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Droge rode bubbels maaien door spekvet en mayonaise, terwijl het donkere fruit het goed kan vinden met de zoete saus.",
-    "Chenin met textuur en tonen van gebakken appel heeft het lijf voor de rijke pannenkoek en de zuren om je smaakpapillen te resetten."
+    "Chenin met textuur en tonen van gebakken appel heeft het lijf voor de rijke pannenkoek en de zuren om je smaakpapillen te verfrissen."
   ],
   tip: "Hak de kool in kleine, vierkante vlokjes in plaats van lange slierten en druk de pannenkoek in de pan niet aan — luchtbellen maken een goede okonomiyaki luchtig in plaats van compact."
 },
@@ -459,7 +459,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Pruimig, peperig en met zachte tannine omarmt hij de gochujang en het rundvlees zonder met de hitte op de vuist te gaan.",
-    "Stevig gebouwde rosé kan chili, knoflook en sesam tegelijk aan — een bewezen match voor grote gemengde kommen."
+    "Stevig gebouwde rosé kan chili, knoflook en sesam tegelijk aan — een bewezen partner voor grote gemengde kommen."
   ],
   tip: "Bijna alles kun je uren van tevoren voorbereiden en op kamertemperatuur serveren, zoals in Korea; alleen de rijst en het ei moeten heet zijn. Voor de beroemde dolsot-versie verhit je geoliede stenen of gietijzeren kommen tot ze roken en laat je de rijst tot een korstje knetteren."
 },

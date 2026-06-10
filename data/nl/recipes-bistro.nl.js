@@ -27,7 +27,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Staalachtige, ongehoute chardonnay van even verderop snijdt door de knoflookboter zonder ermee te wedijveren.",
-    "Een lichte, zijdezachte bourgogne-pinot is de klassieke regionale match; het rode fruit tilt de aardse slakken op."
+    "Een lichte, zijdezachte bourgogne-pinot is de klassieke regionale keuze; het rode fruit tilt de aardse slakken op."
   ],
   tip: "Koop goede Bourgondische slakken uit blik (Helix pomatia) met losse huisjes; levende slakken bereiden vergt dagen ontslijmen en is werk voor professionals."
 },
@@ -265,7 +265,7 @@ Object.assign(window.NL.recipes, {
     "Laat volle 15 minuten rusten — de kern loopt op tot circa 55°C — snijd dan met een kartelmes in dikke plakken en serveer met de rustjus of een rodewijnjus."
   ],
   wines: [
-    "Weelderige claret met merlot voorop is de klassieke match voor een Londens pronkstuk in een jas van deeg en champignons.",
+    "Weelderige claret met merlot voorop is de klassieke begeleider van een Londens pronkstuk in een jas van deeg en champignons.",
     "Krachtig cassisfruit en rijpe tannine staan schouder aan schouder met rosé gebakken runderhaas."
   ],
   tip: "Een kernthermometer is hier niet onderhandelbaar; haal de Wellington uit de oven bij 48–50°C in de kern en vertrouw op het rusten — te vroeg aansnijden laat de sappen weglopen en vlekt het deeg."
@@ -329,7 +329,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Warmte met grenache voorop en garrigue-kruidigheid gaan de peperkorst recht tegemoet.",
-    "Syrah uit de noordelijke Rhône is de thuismatch: aroma’s van gekraakte peper bij de korst, terwijl granietfrisheid door de room snijdt."
+    "Syrah uit de noordelijke Rhône is hier op eigen grond: aroma’s van gekraakte peper bij de korst, terwijl granietfrisheid door de room snijdt."
   ],
   tip: "Neem liever een goed gerijpte entrecote dan haas als je smaak boven malsheid verkiest, en maal de peper nooit fijn — dan verbrandt hij en wordt de saus scherp en bitter."
 },

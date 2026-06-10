@@ -4,7 +4,7 @@
    works offline once installed. Bump CACHE_VERSION whenever
    any file changes to push an update to installed clients.
    ============================================================ */
-const CACHE_VERSION = "tt-v8";
+const CACHE_VERSION = "tt-v9";
 
 const PRECACHE = [
   "./",

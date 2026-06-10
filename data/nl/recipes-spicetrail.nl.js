@@ -389,7 +389,7 @@ Object.assign(window.NL.recipes, {
     "Klop de resterende olijfolie met 2 eetlepels azijn, de oregano en een snufje zout; lepel er royaal overheen en serveer met partjes citroen en Kalamata-olijven."
   ],
   wines: [
-    "Kurkdroog, vulkanisch en met een citroenrandje — gegroeid op precies de eilanden waar dit gerecht thuishoort; dé definitieve match.",
+    "Kurkdroog, vulkanisch en met een citroenrandje — gegroeid op precies de eilanden waar dit gerecht thuishoort; dé definitieve keuze.",
     "Een lichte, vulkanische rode wijn met zachte tannine die de geblakerde randjes vleit zonder de octopus te overdonderen."
   ],
   tip: "Koop zonder schuldgevoel diepgevroren octopus — een vries-dooicyclus breekt de spiervezels af, precies zoals het oude vissersgebruik om hem tegen de rotsen te slaan dat ooit deed."

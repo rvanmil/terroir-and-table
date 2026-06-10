@@ -222,7 +222,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Diep, droog en gastronomisch — Tavel is een van de weinige wijnen die oprecht houdt van rauwe knoflookpit en peper.",
-    "De zilte lippenprikkelaar uit de Languedoc snijdt door de olie en reset het gehemelte tussen vurige happen door."
+    "De zilte lippenprikkelaar uit de Languedoc snijdt door de olie en verfrist het gehemelte tussen vurige happen door."
   ],
   tip: "Snijd de knoflook gelijkmatig en begin in koude olie — de langzame temperatuurstijging geeft je zoete, goudgele plakjes in plaats van scherpe bruine spikkels."
 },

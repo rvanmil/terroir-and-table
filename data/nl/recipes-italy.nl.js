@@ -70,7 +70,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Rijke Italiaanse bubbels zijn dol op gefrituurd eten en frissen het gehemelte op tussen de knapperige, naar saffraan geurende happen.",
-    "Kurkdroog en nootachtig: fino is een stille topmatch voor alles wat goudbruin en gefrituurd is, en echoot de geroosterde korst."
+    "Kurkdroog en nootachtig: fino is een stille topkeuze voor alles wat goudbruin en gefrituurd is, en echoot de geroosterde korst."
   ],
   tip: "Laat de mozzarellablokjes eerst 30 minuten uitlekken op keukenpapier; natte kaas stoomt vanbinnen en kan de korst in de frituur laten openbarsten."
 },
@@ -316,7 +316,7 @@ Object.assign(window.NL.recipes, {
     "Herhaal met het resterende deeg en serveer elke pizza op het moment dat hij uit de oven komt."
   ],
   wines: [
-    "Het zure-kersenzuur van Sangiovese is een geboren match voor tomatensaus en geblakerde randjes.",
+    "Het zure-kersenzuur van Sangiovese is een geboren bondgenoot van tomatensaus en geblakerde randjes.",
     "Knapperige, licht gekoelde Gamay kan het tomatenzuur en de zachte kaas aan zonder tanninegeruzie."
   ],
   tip: "Een huisoven haalt nooit de 450°C van een houtoven; compenseer met een staal of steen die een vol uur is voorverwarmd en zet de laatste minuut de grill aan om de rand te laten blakeren."

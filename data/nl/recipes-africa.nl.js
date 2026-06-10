@@ -33,7 +33,7 @@ Object.assign(window.NL.recipes, {
     "Laat 10 minuten rusten en serveer met geelgekleurde kurkumarijst en chutney."
   ],
   wines: [
-    "De rijke smaak van gebakken appel en frisse zuren van Kaapse chenin weerspiegelen de fruitige zoetheid van het gerecht en snijden door het rijke royaal — de klassieke lokale match.",
+    "De rijke smaak van gebakken appel en frisse zuren van Kaapse chenin weerspiegelen de fruitige zoetheid van het gerecht en snijden door het rijke royaal — de klassieke streekcombinatie.",
     "Het lycheeparfum en het vleugje restzoet omarmen de kerriekruiden en abrikozenjam zonder ermee te botsen."
   ],
   tip: "Mrs Ball's chutney is de traditionele begeleider; kun je die niet vinden, dan voldoet elke milde abrikozenchutney. De vleesbasis kan een dag van tevoren gemaakt worden — voeg het royaal pas vlak voor het bakken toe."
@@ -474,7 +474,7 @@ Object.assign(window.NL.recipes, {
     "Roer de olijven erdoor, laat nog 5 minuten sudderen en breng op smaak. Serveer met witte rijst, zwarte bonen en gebakken zoete bakbanaan (maduros)."
   ],
   wines: [
-    "Zachte tempranillo met vanilletoets vlijt zich om het naar komijn geurende rundvlees — een Spaanse match voor Cuba's meest Spaanse gerecht.",
+    "Zachte tempranillo met vanilletoets vlijt zich om het naar komijn geurende rundvlees — een Spaanse partner voor Cuba's meest Spaanse gerecht.",
     "Fluweelzacht donker fruit en soepele tannines flatteren het langzaam gegaarde rundvlees en houden stand tegen de olijven en paprika."
   ],
   tip: "Sla het garen van de hele stukken vóór het draden niet over — vooraf gedraad rundvlees smoren wordt draderig en droog. Het gerecht is een dag later, zachtjes opgewarmd, zelfs nog beter."

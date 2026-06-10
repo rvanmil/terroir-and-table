@@ -467,7 +467,7 @@ Object.assign(window.NL.recipes, {
     { item: "sjalotten", note: "fijngesnipperd" },
     { item: "teentjes knoflook", note: "fijngehakt" },
     { item: "grof gemalen zwarte peper" },
-    { item: "bosuien", note: "in ringetjes, voor de finishing touch" },
+    { item: "bosuien", note: "in ringetjes, voor de garnering" },
     { item: "gestoomde jasmijnrijst en ingelegde taugé (dưa giá), voor erbij" }
   ],
   steps: [

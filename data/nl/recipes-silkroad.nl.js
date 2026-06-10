@@ -327,7 +327,7 @@ Object.assign(window.NL.recipes, {
     "Strijk 2 cm dik uit op een bord of ondiepe schaal, maak de bovenkant glad en bestrooi met walnoten. Serveer lauwwarm of op kamertemperatuur, in kleine lepeltjes bij groene thee — het is intens machtig."
   ],
   wines: [
-    "Rozijnige, espressodonkere zoetheid treft de geroosterde karameltonen van de bloem frontaal — een griezelig goede match.",
+    "Rozijnige, espressodonkere zoetheid treft de geroosterde karameltonen van de bloem frontaal — een griezelig goede combinatie.",
     "Walnoot en karamel in het glas weerspiegelen walnoot en karamel op het bord."
   ],
   tip: "Beoordeel de gaarheid op geur en kleur, niet op de klok: te kort geroosterde bloem smaakt rauw en melig, terwijl één tint voorbij koffie verkeerd al bitter wordt."

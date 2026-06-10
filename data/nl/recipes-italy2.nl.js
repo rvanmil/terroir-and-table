@@ -148,7 +148,7 @@ Object.assign(window.NL.recipes, {
     "Serveer direct op voorverwarmde borden met extra Pecorino en de rest van de peper."
   ],
   wines: [
-    "Hazelnootgetinte, stevige Fiano evenaart de rijkdom van ei en kaas, terwijl zijn vulkanische frisheid het gehemelte reset.",
+    "Hazelnootgetinte, stevige Fiano evenaart de rijkdom van ei en kaas, terwijl zijn vulkanische frisheid het gehemelte verfrist.",
     "Een diepe, gastronomische rosé met genoeg spierkracht voor guancialevet en gekneusde peper."
   ],
   tip: "Kun je geen guanciale vinden, dan kan pancetta, maar nooit bacon — rook verstoort de balans. Houd een kop pastawater achter; de saus dikt snel in en je zult het nodig hebben."

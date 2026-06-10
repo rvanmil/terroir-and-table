@@ -66,7 +66,7 @@ Object.assign(window.NL.recipes, {
     "Bestuif ze heet met chaat masala en serveer meteen met munt-korianderchutney en hete chai."
   ],
   wines: [
-    "Toastige brut champagne bij gefrituurd eten is een klassieker — de schurende mousse reset het gehemelte na elke krokante uienhap.",
+    "Toastige brut champagne bij gefrituurd eten is een klassieker — de schurende mousse verfrist het gehemelte na elke krokante uienhap.",
     "Kurkdroge, zilte fino is gemaakt voor gefrituurde snacks; zijn amandeltoets spiegelt de nootachtige besankorst."
   ],
   tip: "Weersta de verleiding om vrijelijk water toe te voegen — de gezouten uien geven genoeg vocht af. Een nauwelijks gebonden, rafelig mengsel geeft kantachtige, krokante pakora’s; een nat beslag geeft zware, deegachtige."
@@ -123,7 +123,7 @@ Object.assign(window.NL.recipes, {
     { item: "amchur (gedroogd mangopoeder)" },
     { item: "anardanapoeder (gedroogde granaatappelpitten)", note: "of extra amchur" },
     { item: "garam masala" },
-    { item: "duim gember", note: "in fijne luciferreepjes, voor de finishing touch" },
+    { item: "duim gember", note: "in fijne luciferreepjes, voor de garnering" },
     { item: "zout" }
   ],
   steps: [
@@ -309,7 +309,7 @@ Object.assign(window.NL.recipes, {
     { item: "gemalen kurkuma" },
     { item: "doperwten", note: "vers of diepvries" },
     { item: "garam masala" },
-    { item: "zout, verse koriander en gemberreepjes, voor de finishing touch" }
+    { item: "zout, verse koriander en gemberreepjes, voor de garnering" }
   ],
   steps: [
     "Verhit de ghee in een zware pan op middelhoog vuur en laat de laurier, kardemom, kaneel en kruidnagels 30 seconden knetteren tot ze geuren.",
@@ -416,7 +416,7 @@ Object.assign(window.NL.recipes, {
     { item: "groene pepers", note: "heel" },
     { item: "heet water" },
     { item: "zout" },
-    { item: "extra ghee, voor de finishing touch" }
+    { item: "extra ghee, om mee af te maken" }
   ],
   steps: [
     "Rooster de moong dal zonder vet in een zware pan op middelhoog vuur 5–6 minuten, voortdurend roerend, tot hij goudbruin is en nootachtig ruikt — dit roosteren maakt het gerecht tot bhuna khichuri. Spoel kort af en laat uitlekken.",
@@ -428,7 +428,7 @@ Object.assign(window.NL.recipes, {
     "Schep voorzichtig los met een vork, maak af met de extra ghee en serveer heet met gefrituurde aubergine (beguni), een gebakken ei of een rijke vleescurry, met chutney en salade."
   ],
   wines: [
-    "Chenin met textuur en zijn warme appelgebaktonen matcht de in ghee geroosterde korrels en blijft fris genoeg voor de groene peper.",
+    "Chenin met textuur en zijn warme appelgebaktonen past bij de in ghee geroosterde korrels en blijft fris genoeg voor de groene peper.",
     "Een zijdezachte, lichte pinot flatteert de zachte aroma’s van hele specerijen zonder de nootachtige subtiliteit van het gerecht te begraven."
   ],
   tip: "Kalijira — Bangladeshs piepkleine aromatische ‘prins onder de rijst’ — is het zoeken waard bij Bengaalse toko’s; gebruik anders de beste basmati die je kunt vinden en verminder het water met een scheutje."

@@ -435,7 +435,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Schuimig, zacht en maar 5,5% — zijn druivige frisheid speelt met citroen en kaneel zonder de delicate pap te verstikken.",
-    "Een Portugese match: toffee en gebrande sinaasappel met elektrische zuren die door de romige rijst snijden."
+    "Een Portugese combinatie: toffee en gebrande sinaasappel met elektrische zuren die door de romige rijst snijden."
   ],
   tip: "Arroz doce moet uit de pan kunnen stromen — hij wordt aanzienlijk steviger tijdens het afkoelen, dus stop met koken terwijl hij nog nét iets te vloeibaar oogt. Carolinorijst is het zoeken waard om zijn bijzondere romigheid."
 }

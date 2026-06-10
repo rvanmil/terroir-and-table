@@ -122,7 +122,7 @@ Object.assign(window.NL.recipes, {
     "Serveer meteen met moutazijn, citroen en naar wens mushy peas of tartaarsaus — laat het nooit staan, het beslag wacht op niemand."
   ],
   wines: [
-    "Engelse bubbels van de krijtbodem naast Engelands eigen frituurmaal — de schurende bubbels en zuren resetten het gehemelte na elke knapperige, zoute hap.",
+    "Engelse bubbels van de krijtbodem naast Engelands eigen frituurmaal — de schurende bubbels en zuren verfrissen het gehemelte na elke knapperige, zoute hap.",
     "Deze zilte zuurmaker uit de Languedoc doet het werk van de moutazijn zelf: puur, mondwaterend zuur tegenover de rijkdom van het beslag."
   ],
   tip: "Rundvet is het traditionele noordelijke frituurvet en geeft de friet een onvergelijkbaar hartig korstje — de moeite waard als je eraan kunt komen. Waar je ook in frituurt: maak de pan nooit te vol, want temperatuurval is de vijand van knapperigheid."
@@ -318,7 +318,7 @@ Object.assign(window.NL.recipes, {
     { item: "gedroogde tijm" },
     { item: "cayennepeper", note: "of naar smaak" },
     { item: "okra", note: "in plakjes (optioneel, maar traditioneel)" },
-    { item: "bosuitjes", note: "in ringetjes, voor de finishing touch" },
+    { item: "bosuitjes", note: "in ringetjes, voor de garnering" },
     { item: "langkorrelrijst", note: "voor erbij" },
     { item: "zout, zwarte peper en filépoeder (optioneel)" }
   ],
@@ -462,7 +462,7 @@ Object.assign(window.NL.recipes, {
     { item: "emmentaler", note: "grof geraspt" },
     { item: "uien", note: "gehalveerd en in dunne plakjes" },
     { item: "boter" },
-    { item: "bieslook", note: "fijngeknipt, voor de finishing touch" }
+    { item: "bieslook", note: "fijngeknipt, voor de garnering" }
   ],
   steps: [
     "Klop de bloem, eieren, het zout, een raspje nootmuskaat en genoeg bruisend water tot een dik, elastisch beslag. Sla het enkele minuten flink door met een houten lepel tot het blaren trekt en in slierten van de lepel valt — Zwaben zeggen dat het ‘bellen moet gooien’. Laat 10 minuten rusten.",
@@ -509,7 +509,7 @@ Object.assign(window.NL.recipes, {
     "Serveer vierkante stukken warme pudding, overspoeld met de rest van de hete saus, met een kannetje koude room of een bol vanille-ijs — het contrast tussen heet en koud is precies de bedoeling."
   ],
   wines: [
-    "Australiës rozijnige likeur-muscat met zijn espressorandje is misschien wel ’s werelds allerbeste match bij sticky toffee — toffee op toffee, met rancio-diepte.",
+    "Australiës rozijnige likeur-muscat met zijn espressorandje is misschien wel ’s werelds allerbeste keuze bij sticky toffee — toffee op toffee, met rancio-diepte.",
     "De karamel-, vijgen- en walnoottonen van gerijpte tawny spiegelen de dadelcake, terwijl zijn frisheid voorkomt dat de combinatie machtig wordt."
   ],
   tip: "Donkere muscovado is niet onderhandelbaar voor de stroperige diepte — lichtbruine basterdsuiker geeft een blekere, flauwere pudding. Het hele dessert kan een dag van tevoren worden gemaakt en met saus onder folie worden opgewarmd; het wordt er misschien zelfs beter van."
