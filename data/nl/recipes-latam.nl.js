@@ -116,6 +116,9 @@ Object.assign(window.NL.recipes, {
     { item: "tenen knoflook", note: "ongepeld" },
     { item: "sesamzaad" },
     { item: "amandelen" },
+    { item: "stokje Mexicaanse kaneel (canela)", note: "circa 5 cm" },
+    { item: "hele kruidnagels" },
+    { item: "pimentbessen" },
     { item: "rozijnen" },
     { item: "rijpe bakbanaan", note: "geschild en in plakken" },
     { item: "maïstortilla", note: "geblakerd tot hij zwart is, om te binden" },
@@ -126,8 +129,8 @@ Object.assign(window.NL.recipes, {
     "Pocheer de kip in 2 liter licht gezouten water met een kwart van de ui, circa 35 minuten, tot hij net gaar is. Houd de kip warm en bewaar de bouillon.",
     "Verwijder de steeltjes en zaadjes van alle pepers en bewaar 2 el zaadjes. Rooster de pepers op een droge comal op middelhoog vuur tot ze geuren en donkerder kleuren, circa 30 seconden per kant, en week ze daarna 30 minuten in heet water. Rooster de bewaarde zaadjes apart tot ze zeer donker zijn — traditioneel bijna zwart — voor de kenmerkende bitterheid van de mole; zet een raam open.",
     "Blaker op dezelfde comal de tomaten, tomatillo’s, de rest van de ui en de knoflook tot ze geblakerd en zacht zijn. Pel de knoflook.",
-    "Rooster het sesamzaad en de amandelen in een droge pan goudbruin en bak daarna de rozijnen en bakbanaan in 1 el van de reuzel tot ze gekarameliseerd zijn.",
-    "Pureer in porties de uitgelekte pepers, geblakerde zaadjes, groenten, noten en het fruit met de zwartgeblakerde tortilla en genoeg kippenbouillon tot een volledig gladde, dikke puree. Wrijf hem door een fijne zeef — deze stap onderscheidt een echte mole van een grove chilisaus.",
+    "Rooster het sesamzaad en de amandelen in een droge pan goudbruin en laat de kaneel, kruidnagels en piment de laatste minuut meeroosteren tot ze geuren; bak daarna de rozijnen en bakbanaan in 1 el van de reuzel tot ze gekarameliseerd zijn.",
+    "Pureer in porties de uitgelekte pepers, geblakerde zaadjes, geroosterde specerijen, groenten, noten en het fruit met de zwartgeblakerde tortilla en genoeg kippenbouillon tot een volledig gladde, dikke puree. Wrijf hem door een fijne zeef — deze stap onderscheidt een echte mole van een grove chilisaus.",
     "Verhit de rest van de reuzel in een zware pan tot hij glanst en schenk de puree erin; het hoort heftig te sissen. Bak de mole 10 minuten onder voortdurend roeren, draai dan het vuur laag en laat 60–90 minuten sudderen, vaak roerend en met bouillon verdunnend, tot hij donkerder kleurt en het vet in kleine plasjes komt bovendrijven.",
     "Roer de chocolade erdoor tot hij gesmolten is en breng op smaak met zout; de afgewerkte mole moet een lepel dik bedekken en gelaagd smaken — afwisselend bitter, zoet, rokerig en fruitig.",
     "Leg de kip 10 minuten in de mole om door te warmen. Serveer met rijst en warme maïstortilla’s, bestrooid met sesamzaad."
@@ -188,6 +191,7 @@ Object.assign(window.NL.recipes, {
     { item: "gedroogde Mexicaanse oregano", note: "plus extra voor op tafel" },
     { item: "witte kool", note: "fijngesneden, om te garneren" },
     { item: "radijsjes", note: "in dunne plakjes, om te garneren" },
+    { item: "witte ui", note: "fijngesnipperd, om te garneren" },
     { item: "limoenen", note: "in partjes" },
     { item: "fijn zeezout" },
     { item: "tostadas", note: "om erbij te serveren" }
@@ -199,7 +203,7 @@ Object.assign(window.NL.recipes, {
     "Bak de chilipuree in een laagje olie in een kleine pan op middelhoog vuur 5 minuten al roerend tot hij indikt en zoetgeroosterd ruikt.",
     "Haal het varkensvlees eruit, verwijder de ui en laurier en trek het vlees in grote happen uit elkaar; verwijder de botten. Doe het vlees terug in de bouillon met de gebakken chilipuree en de uitgelekte hominy.",
     "Laat alles samen zonder deksel 30 minuten sudderen, zodat de hominy licht openbloeit en de bouillon steenrood en licht gebonden wordt. Breng stevig op smaak met zout.",
-    "Serveer in diepe kommen en laat iedereen zelf garneren: kool, radijs, rauwe ui, een snufje tussen de handpalmen gewreven oregano en volop limoen, met tostadas ernaast."
+    "Serveer in diepe kommen en laat iedereen zelf garneren: kool, radijs, de gesnipperde rauwe ui, een snufje tussen de handpalmen gewreven oregano en volop limoen, met tostadas ernaast."
   ],
   wines: [
     "Zijn lycheeparfum en zachte zoetheid dempen de guajillohitte en passen bij de feestelijke rijkdom van pozole.",
@@ -287,6 +291,7 @@ Object.assign(window.NL.recipes, {
     { item: "Roma-tomaten", note: "in parten, zaadjes eruit gewipt" },
     { item: "ají amarillo", note: "ontpit, in reepjes; of pasta, 1 el" },
     { item: "tenen knoflook", note: "fijngehakt" },
+    { item: "gemalen komijn" },
     { item: "sojasaus" },
     { item: "rodewijnazijn" },
     { item: "runderbouillon" },
@@ -296,7 +301,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Frituur de frieten in olie van 180 °C in 8–10 minuten goudbruin en krokant; laat uitlekken en bestrooi met zout. (Goede ovenfrieten zijn doordeweeks een vergeeflijke afsteek.)",
-    "Dep het rundvlees kurkdroog en bestrooi met zout en peper. Verhit een wok of je breedste koekenpan op het hoogste vuur tot hij rookt.",
+    "Dep het rundvlees kurkdroog en bestrooi met zout, peper en de komijn. Verhit een wok of je breedste koekenpan op het hoogste vuur tot hij rookt.",
     "Schroei het rundvlees in twee porties dicht in een beetje olie en schep pas om als één kant geblakerd is, circa 90 seconden per portie — vanbinnen moet het rosé blijven. Schep op een bord.",
     "Zet de wok terug op vol vuur, voeg de ui toe en roerbak 1 minuut, zodat de randen blakeren maar hij knapperig blijft; voeg dan de knoflook en ají amarillo 30 seconden toe.",
     "Voeg de tomaten toe en schep 30 seconden om — ze moeten warm worden en blakeren, niet uiteenvallen.",

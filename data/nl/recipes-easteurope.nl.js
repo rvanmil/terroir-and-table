@@ -17,6 +17,7 @@ Object.assign(window.NL.recipes, {
     { item: "tomatenpuree" },
     { item: "witte azijn of citroensap" },
     { item: "teentjes knoflook", note: "tot een pasta geplet" },
+    { item: "salo (gezouten spekvet)", note: "of vet ongerookt spek, fijngehakt" },
     { item: "laurierblad" },
     { item: "suiker" },
     { item: "klein bosje dille", note: "gehakt" },
@@ -29,7 +30,7 @@ Object.assign(window.NL.recipes, {
     "Stoof in een aparte pan de geraspte bieten zachtjes in olie met de azijn en de suiker, zo’n 15 minuten — het zuur legt de kleur vast, zodat de soep robijnrood blijft en niet oranje wordt.",
     "Breng de bouillon weer tegen de kook aan, voeg de aardappelen toe en kook ze 10 minuten; voeg dan de kool toe en kook nog 7–8 minuten tot beide net gaar zijn.",
     "Roer het bietenmengsel, het ui-wortelmengsel en het uitgetrokken rundvlees erdoor. Laat 10 minuten zachtjes sudderen — niet hard laten koken, anders verflauwt de kleur.",
-    "Breng op smaak met zout en peper, roer de geplette knoflook erdoor, leg het deksel erop en laat de borsjtsj van het vuur af 15 minuten rusten zodat de smaken zich verbinden.",
+    "Breng op smaak met zout en peper. Wrijf de salo met de geplette knoflook tot een grove pasta en roer die erdoor; leg dan het deksel erop en laat de borsjtsj van het vuur af 15 minuten rusten zodat de smaken zich verbinden.",
     "Serveer in diepe kommen met een lepel zure room en een flinke regen van dille."
   ],
   wines: [
@@ -221,12 +222,13 @@ Object.assign(window.NL.recipes, {
     { item: "slagroom of smetana" },
     { item: "eieren", note: "8 minuten gekookt, gepeld en gehalveerd" },
     { item: "laurierblad" },
+    { item: "pimentbessen" },
     { item: "zeezout en zwarte peper" }
   ],
   steps: [
     "Maak vijf dagen van tevoren de żur: klop het roggemeel met het afgekoelde water in een schone pot, voeg 2 gekneusde teentjes knoflook toe, dek af met neteldoek en laat 4–5 dagen op kamertemperatuur staan; roer dagelijks, tot het aangenaam zuur is. (Żur uit een fles is een eerlijke sluiproute.)",
     "Bak het spek in een soeppan op middelhoog vuur goudbruin uit en fruit dan de ui 5 minuten in het vet.",
-    "Voeg de bouillon, het laurierblad en de hele witte worsten toe en pocheer ze 20 minuten zachtjes; haal de worsten eruit en snijd ze in dikke plakken.",
+    "Voeg de bouillon, het laurierblad, de pimentbessen en de hele witte worsten toe en pocheer ze 20 minuten zachtjes; haal de worsten eruit en snijd ze in dikke plakken.",
     "Doe de aardappelen in de pan en laat 12–15 minuten zachtjes koken tot ze gaar zijn.",
     "Roer de żur goed door en giet er zo’n 300 ml van door een zeef bij; laat 5 minuten zachtjes koken — voeg naar smaak meer toe; de soep moet uitgesproken zuur maar in balans zijn.",
     "Breng op smaak met de geplette knoflook, de tussen je handpalmen gewreven marjolein, de mierikswortel, zout en peper; doe dan de gesneden worst terug en roer de room erdoor. Verwarm zonder te koken.",

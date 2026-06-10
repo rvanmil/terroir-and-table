@@ -383,6 +383,7 @@ Object.assign(window.NL.recipes, {
     { item: "zeer rijpe bakbananen", note: "schillen met zwarte vlekken" },
     { item: "uien", note: "1 gehalveerd, 1 fijngesnipperd" },
     { item: "rode paprika", note: "fijngesneden" },
+    { item: "ají dulce-pepertjes", note: "zonder zaadjes en fijngesneden; milde Caribische pepertjes, of een extra halve paprika als alternatief" },
     { item: "tenen knoflook", note: "fijngehakt" },
     { item: "rijpe tomaten", note: "geraspt, schillen weggegooid" },
     { item: "gemalen komijn" },
@@ -394,7 +395,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Laat het rundvlees met de gehalveerde ui en een theelepel zout circa 1½ uur in water dat het bedekt sudderen tot het makkelijk uiteenvalt. Laat afkoelen in de bouillon en trek het dan met je vingers in lange vezels. Bewaar de bouillon.",
     "Kook de geweekte bonen in vers water gaar, 60–90 minuten, en voeg pas tegen het einde zout toe. Houd ze soepachtig.",
-    "Maak een sofrito: laat de gesnipperde ui, paprika en de helft van de knoflook 8 minuten zweten in 2 eetlepels olie. Schep de helft bij de bonen met de suiker en laat 15 minuten sudderen tot ze dik en glanzend zijn.",
+    "Maak een sofrito: laat de gesnipperde ui, paprika, ají dulce en de helft van de knoflook 8 minuten zweten in 2 eetlepels olie. Schep de helft bij de bonen met de suiker en laat 15 minuten sudderen tot ze dik en glanzend zijn.",
     "Voeg aan de sofrito in de pan de rest van de knoflook, de geraspte tomaat, komijn en worcestersaus toe; bak 5 minuten en voeg dan het gepluksde rundvlees en een soeplepel van de bouillon toe. Laat 20 minuten sudderen tot het sappig en diep op smaak is — dit is de carne mechada.",
     "Kook de rijst: spoel hem af en laat hem afgedekt met 600 ml van de runderbouillon en een snufje zout 12 minuten zachtjes koken; laat 10 minuten van het vuur rusten en roer los met een vork.",
     "Schil de bakbananen, snijd ze schuin in plakken van 1 cm en bak ze in een laagje hete olie 2–3 minuten per kant tot ze karamelranden hebben (tajadas). Laat uitlekken en bestrooi licht met zout.",

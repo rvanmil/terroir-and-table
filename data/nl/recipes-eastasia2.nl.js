@@ -444,6 +444,7 @@ Object.assign(window.NL.recipes, {
     { item: "bosuitjes", note: "in stukken van 4 cm" },
     { item: "verse shiitakes of oesterzwammen", note: "in plakjes" },
     { item: "geroosterde sesamzaadjes" },
+    { item: "ssamjang", note: "Koreaanse dippasta, voor erbij" },
     { item: "zwarte peper, botersla en gestoomde rijst, voor erbij" }
   ],
   steps: [
@@ -452,7 +453,7 @@ Object.assign(window.NL.recipes, {
     "Laat het vlees 20 minuten op kamertemperatuur komen. Verhit een grote gietijzeren pan of grillpan tot hij echt rookt.",
     "Schroei het rundvlees dicht in drie of vier porties in één laag, 1–2 minuten per kant, tot de randen karamelliseren en plaatselijk blakeren. Een te volle pan laat het vlees stoven — weersta de verleiding.",
     "Voeg bij de laatste portie de gesneden ui, paddenstoelen en bosui toe en schep om tot ze net zacht zijn en glanzen in het braadvocht.",
-    "Doe alles kort terug in de pan om te mengen, bestrooi met sesamzaadjes en serveer sissend met slabladeren en rijst om te wikkelen."
+    "Doe alles kort terug in de pan om te mengen, bestrooi met sesamzaadjes en serveer sissend met slabladeren, rijst en een schaaltje ssamjang om te wikkelen."
   ],
   wines: [
     "Zijdezachte pinot met rood fruit houdt van de zoete sojakarameltonen en overheerst het dunne, malse rundvlees niet.",

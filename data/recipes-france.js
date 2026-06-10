@@ -338,6 +338,7 @@ window.RECIPES.push(
     { qty: 4, unit: "", item: "confit duck legs" },
     { qty: 4, unit: "", item: "Toulouse sausages" },
     { qty: 300, unit: "g", item: "pork belly", note: "cut into 4 thick pieces" },
+    { qty: 150, unit: "g", item: "fresh pork rind (couenne)", note: "cut into wide strips" },
     { qty: 1, unit: "", item: "onion", note: "chopped" },
     { qty: 2, unit: "", item: "carrots", note: "sliced" },
     { qty: 4, unit: "", item: "garlic cloves", note: "crushed" },
@@ -350,8 +351,8 @@ window.RECIPES.push(
   steps: [
     "Drain the soaked beans, cover with fresh water, boil for 5 minutes, then drain again.",
     "In a wide casserole, brown the pork belly in a spoonful of duck fat, then the sausages, until well coloured; set aside. Soften the onion, carrots and garlic in the same fat for 8 minutes.",
-    "Stir in the tomato purée, then add the beans, bouquet garni and enough stock to cover by 2 cm. Simmer gently for about 1 hour until the beans are tender but intact. Season generously — beans drink salt.",
-    "Heat the oven to 150°C. In a deep earthenware dish or the casserole, layer the beans with the pork belly, sausages and confit duck legs nestled in, skin up. Pour in cooking liquid to come just below the surface.",
+    "Stir in the tomato purée, then add the beans, pork rind, bouquet garni and enough stock to cover by 2 cm. Simmer gently for about 1 hour until the beans are tender but intact. Season generously — beans drink salt.",
+    "Heat the oven to 150°C. Line the base of a deep earthenware dish or the casserole with the softened pork rind, fat side down, then layer the beans with the pork belly, sausages and confit duck legs nestled in, skin up. Pour in cooking liquid to come just below the surface.",
     "Bake uncovered for 2½–3 hours. When a chestnut crust forms, break it gently and baste with the juices beneath — tradition demands this several times.",
     "If the cassoulet looks dry, trickle hot stock down the side; the beans should stay creamy under the crust.",
     "Rest for 15 minutes and serve straight from the pot with nothing more than a sharp green salad."

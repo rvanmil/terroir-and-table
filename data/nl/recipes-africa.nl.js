@@ -425,15 +425,16 @@ Object.assign(window.NL.recipes, {
     { item: "scotch bonnet-peper", note: "fijngehakt, plus pepersaus voor erbij" },
     { item: "plantaardige olie", note: "om te frituren" },
     { item: "tamarindesaus of -chutney", note: "voor erbij" },
+    { item: "komkommer", note: "grof geraspt, uitgeknepen en op smaak gebracht, voor erbij" },
     { item: "zeezout" }
   ],
   steps: [
     "Maak het baradeeg: meng de bloem, gist, kurkuma, suiker en 1 theelepel zout en werk er dan genoeg lauwwarm water door voor een zacht, licht plakkerig deeg. Kneed kort, dek af en laat 1 uur rijzen tot het luchtig is.",
     "Voor de channa: verhit 2 eetlepels olie en fruit de ui 5 minuten; voeg de knoflook, scotch bonnet, kerriepoeder en de met een scheutje water aangelengde komijn toe en bak 2 minuten tot de curry ’breekt’ en geroosterd ruikt.",
-    "Voeg de kikkererwten toe en net genoeg water om ze onder te zetten. Laat 20–25 minuten sudderen, terwijl je er een paar tegen de pan fijnprakt, tot de saus dik is en de kikkererwten heel zacht. Breng op smaak en houd warm.",
+    "Voeg de kikkererwten toe en net genoeg water om ze onder te zetten. Laat 20–25 minuten sudderen, terwijl je er een paar tegen de pan fijnprakt, tot de saus dik is en de kikkererwten heel zacht. Breng op smaak en houd warm. Rasp intussen de komkommer grof, knijp hem goed uit en breng op smaak met een snufje zout.",
     "Verhit de frituurolie tot 180 °C. Trek met geoliede handen stukjes deeg ter grootte van een golfbal af en druk elk plat tot een dunne schijf van 10 cm.",
     "Frituur de bara één of twee tegelijk, 30–40 seconden per kant — ze moeten opbollen en bleekgoud en zacht blijven, niet krokant worden. Laat uitlekken op keukenpapier.",
-    "Stel meteen samen: leg twee bara dakpansgewijs over elkaar, schep er hete channa op en maak af met tamarindesaus en pepersaus naar smaak.",
+    "Stel meteen samen: leg twee bara dakpansgewijs over elkaar, schep er hete channa op en maak af met de komkommer, tamarindesaus en pepersaus naar smaak.",
     "Serveer direct, gevouwen in papier als je de authentieke ervaring wilt — doubles wachten op niemand."
   ],
   wines: [

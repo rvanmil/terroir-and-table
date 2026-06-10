@@ -17,6 +17,7 @@ Object.assign(window.NL.recipes, {
     { item: "neutrale olie", note: "plus extra voor de vorm" },
     { item: "zwart mosterdzaad" },
     { item: "wit sesamzaad" },
+    { item: "asafoetida (hing)" },
     { item: "verse curryblaadjes" },
     { item: "groene pepers", note: "in de lengte ingesneden" },
     { item: "water gemengd met 2 el suiker", note: "voor de siroop" },
@@ -28,7 +29,7 @@ Object.assign(window.NL.recipes, {
     "Klop de besan met het water, het citroensap, de suiker, de gember-peperpasta, het zout en 1 el van de olie tot een glad, dik beslag dat als een lint van de garde loopt. Laat 10 minuten rusten.",
     "Strooi het fruitzout met 1 tl water over het beslag en klop 20 seconden stevig door — het moet schuimen en zichtbaar luchtig worden. Giet het meteen in de vorm.",
     "Stoom afgedekt 18–20 minuten tot een satéprikker er schoon uitkomt en de bovenkant terugveert als je erop drukt. Laat 10 minuten rusten, maak dan de randen los en stort de cake.",
-    "Maak de tempering: verhit de overige 2 el olie in een klein pannetje tot ze glanst, voeg het mosterdzaad toe en laat het volledig knetteren, voeg dan de sesam, curryblaadjes en groene pepers toe en bak 30 seconden tot de blaadjes glanzend en knapperig zijn.",
+    "Maak de tempering: verhit de overige 2 el olie in een klein pannetje tot ze glanst, voeg het mosterdzaad toe en laat het volledig knetteren, voeg dan de sesam, asafoetida, curryblaadjes en groene pepers toe en bak 30 seconden tot de blaadjes glanzend en knapperig zijn.",
     "Giet het suikerwater bij de tempering, laat het een paar seconden koken en lepel het geheel gelijkmatig over de dhokla zodat het erin trekt.",
     "Snijd in vierkantjes, bestrooi met koriander en kokos en serveer warm of op kamertemperatuur met groene chutney."
   ],
@@ -195,6 +196,7 @@ Object.assign(window.NL.recipes, {
     { item: "verse curryblaadjes" },
     { item: "uien", note: "in dunne plakken" },
     { item: "gember-knoflookpasta" },
+    { item: "gemalen kurkuma" },
     { item: "tomaten", note: "gehakt" },
     { item: "zout" }
   ],
@@ -202,7 +204,7 @@ Object.assign(window.NL.recipes, {
     "Rooster de koriander, venkel, peperkorrels, komijn, gedroogde pepers, steranijs, kaneel en kardemom zonder vet in een zware pan op middellaag vuur 3–4 minuten tot ze geuren en een tint donkerder zijn. Voeg de kokos toe en rooster nog 2 minuten tot hij goudbruin is.",
     "Laat afkoelen en maal de geroosterde specerijen en kokos met een scheutje water tot een dikke, donkere pasta. Deze verse masala — nooit uit een potje — is wat het gerecht Chettinad maakt.",
     "Verhit de olie in een zware braadpan op middelhoog vuur. Voeg de helft van de curryblaadjes toe en laat ze knetteren, voeg dan de uien met een snuf zout toe en bak ze 10–12 minuten goed bruin.",
-    "Voeg de gember-knoflookpasta toe, bak 2 minuten, voeg dan de tomaten toe en laat 6–8 minuten koken tot ze uiteenvallen en de olie uittreedt.",
+    "Voeg de gember-knoflookpasta en kurkuma toe, bak 2 minuten, voeg dan de tomaten toe en laat 6–8 minuten koken tot ze uiteenvallen en de olie uittreedt.",
     "Roer de gemalen masalapasta erdoor en bak 3–4 minuten, terwijl je de bodem losschraapt, tot hij diep geroosterd ruikt.",
     "Voeg de kip toe en schep om zodat alles bedekt is met de masala; braad 5 minuten aan. Schenk er 300 ml heet water bij, breng op smaak met zout, dek af en laat 25 minuten zachtjes sudderen tot de kip mals is en de saus dik en omhullend.",
     "Knetter de overige curryblaadjes in een theelepel hete olie en giet ze over de curry. Laat 5 minuten rusten en serveer met gestoomde rijst, parotta’s of dosai."
@@ -372,6 +374,7 @@ Object.assign(window.NL.recipes, {
     { item: "kokosolie" },
     { item: "zwart mosterdzaad" },
     { item: "rode ui", note: "de helft in plakjes voor de tempering, de helft fijngesnipperd voor de sambol" },
+    { item: "teentjes knoflook", note: "in dunne plakjes" },
     { item: "verse curryblaadjes" },
     { item: "gedroogde rode pepers", note: "gebroken" },
     { item: "versgeraspte of ontdooide diepvrieskokos", note: "voor de sambol" },
@@ -384,7 +387,7 @@ Object.assign(window.NL.recipes, {
     "Doe de linzen in een pan met 600 ml water, de kurkuma, pandan en kaneel. Breng aan de kook, schuim af en laat 15 minuten sudderen tot de linzen zacht zijn en beginnen uiteen te vallen.",
     "Roer de kokosmelk en 1 tl zout erdoor en laat nog 8–10 minuten zachtjes sudderen tot het romig en papperig is. Vis de pandan en kaneel eruit.",
     "Maak de pol sambol: stamp of pulseer de geraspte kokos met de gesnipperde rode ui, chilivlokken, het paprikapoeder en 1 tl zout tot het mengsel steenrood kleurt en licht klontert. Scherp aan met limoensap tot het in gelijke mate heet, zout en zuur is.",
-    "Maak de tempering: verhit de kokosolie in een klein pannetje tot ze glanst, voeg het mosterdzaad toe en laat het volledig poppen, voeg dan de uienringen, curryblaadjes en gedroogde pepers toe en bak 2–3 minuten tot de ui goudbruin is en de blaadjes krokant.",
+    "Maak de tempering: verhit de kokosolie in een klein pannetje tot ze glanst, voeg het mosterdzaad toe en laat het volledig poppen, voeg dan de uienringen, knoflook, curryblaadjes en gedroogde pepers toe en bak 2–3 minuten tot de ui en knoflook goudbruin zijn en de blaadjes krokant.",
     "Giet de sissende tempering over de parippu en roer de helft erdoor; laat de rest erbovenop liggen.",
     "Serveer heet met gestoomde rijst en de pol sambol ernaast, met extra limoen."
   ],

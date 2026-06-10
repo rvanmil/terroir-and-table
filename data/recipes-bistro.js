@@ -166,6 +166,7 @@ window.RECIPES.push(
     { qty: 4, unit: "", item: "thick slices of baguette or country bread" },
     { qty: 1, unit: "", item: "garlic clove", note: "halved" },
     { qty: 1, unit: "tbsp", item: "white wine vinegar", note: "for poaching" },
+    { qty: 2, unit: "tbsp", item: "flat-leaf parsley", note: "chopped, to finish" },
     { qty: null, unit: "", item: "sea salt and black pepper" }
   ],
   steps: [
@@ -175,7 +176,7 @@ window.RECIPES.push(
     "Toast the bread until golden, rub each slice with the cut garlic clove, and set one in each warm shallow bowl.",
     "Bring a wide pan of water with the vinegar to a bare shiver — no visible bubbles. Crack each egg into a cup and slide it gently into the water.",
     "Poach the eggs for about 3 minutes until the whites are set but the yolks still wobble like a soft cushion. Lift out with a slotted spoon and drain briefly on kitchen paper.",
-    "Sit two eggs on each crouton, spoon the hot sauce and garnish generously over and around, and finish with black pepper and chopped parsley. Serve at once, yolks ready to run into the sauce."
+    "Sit two eggs on each crouton, spoon the hot sauce and garnish generously over and around, and finish with black pepper and the chopped parsley. Serve at once, yolks ready to run into the sauce."
   ],
   wines: [
     { id: "morgon-gamay", note: "Crunchy, juicy Gamay has the acidity to meet the wine sauce while staying light enough for eggs." },
@@ -481,6 +482,7 @@ window.RECIPES.push(
     { qty: 1, unit: "tbsp", item: "tarragon", note: "chopped" },
     { qty: 80, unit: "g", item: "Gruyère", note: "finely grated" },
     { qty: 1, unit: "", item: "egg yolk" },
+    { qty: 1, unit: "", item: "lemon", note: "cut into wedges, to serve" },
     { qty: null, unit: "", item: "sea salt, white pepper and cayenne" }
   ],
   steps: [
@@ -490,7 +492,7 @@ window.RECIPES.push(
     "Stir in the cream, mustard and tarragon and simmer until the sauce thickly coats a spoon, 5–6 minutes. Season with salt, white pepper and a pinch of cayenne.",
     "Off the heat, beat in the egg yolk and half the Gruyère; the sauce should be glossy and assertively mustardy. Fold in the lobster meat gently.",
     "Heat the grill to high. Pile the mixture back into the shells, scatter with the remaining Gruyère.",
-    "Grill 4–5 minutes, until the surface is blistered gold-brown and bubbling at the edges. Serve at once with lemon, a green salad and bread — or, traditionally, slim frites."
+    "Grill 4–5 minutes, until the surface is blistered gold-brown and bubbling at the edges. Serve at once with the lemon wedges, a green salad and bread — or, traditionally, slim frites."
   ],
   wines: [
     { id: "meursault", note: "Opulent, hazelnut-edged Chardonnay matches the gratin's weight — white Burgundy was born for thermidor." },

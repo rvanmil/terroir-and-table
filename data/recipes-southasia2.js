@@ -29,6 +29,7 @@ window.RECIPES.push(
     { qty: 3, unit: "tbsp", item: "neutral oil", note: "plus more for the tin" },
     { qty: 1, unit: "tsp", item: "black mustard seeds" },
     { qty: 1, unit: "tbsp", item: "white sesame seeds" },
+    { qty: 1, unit: "pinch", item: "asafoetida (hing)" },
     { qty: 12, unit: "", item: "fresh curry leaves" },
     { qty: 3, unit: "", item: "green chilies", note: "slit lengthways" },
     { qty: 100, unit: "ml", item: "water mixed with 2 tbsp sugar", note: "for the syrup" },
@@ -40,7 +41,7 @@ window.RECIPES.push(
     "Whisk the besan with the water, lemon juice, sugar, ginger-chili paste, salt and 1 tbsp of the oil into a smooth, thick ribbon-stage batter. Rest 10 minutes.",
     "Sprinkle the fruit salt over the batter with 1 tsp of water and whisk briskly for 20 seconds — it should froth and turn visibly airy. Immediately pour into the tin.",
     "Steam, covered, for 18–20 minutes until a skewer comes out clean and the top springs back when pressed. Rest 10 minutes, then loosen the edges and turn out.",
-    "Make the tempering: heat the remaining 2 tbsp oil in a small pan until shimmering, add the mustard seeds and let them crackle fully, then add the sesame, curry leaves and green chilies and fry for 30 seconds until the leaves are glossy and crisp.",
+    "Make the tempering: heat the remaining 2 tbsp oil in a small pan until shimmering, add the mustard seeds and let them crackle fully, then add the sesame, asafoetida, curry leaves and green chilies and fry for 30 seconds until the leaves are glossy and crisp.",
     "Pour the sugar-water into the tempering, let it boil for a few seconds, then spoon the whole lot evenly over the dhokla so it seeps in.",
     "Cut into squares, scatter with coriander and coconut, and serve warm or at room temperature with green chutney."
   ],
@@ -267,6 +268,7 @@ window.RECIPES.push(
     { qty: 20, unit: "", item: "fresh curry leaves" },
     { qty: 3, unit: "", item: "onions", note: "finely sliced" },
     { qty: 2, unit: "tbsp", item: "ginger and garlic paste" },
+    { qty: 0.5, unit: "tsp", item: "ground turmeric" },
     { qty: 3, unit: "", item: "tomatoes", note: "chopped" },
     { qty: null, unit: "", item: "salt" }
   ],
@@ -274,7 +276,7 @@ window.RECIPES.push(
     "Dry-roast the coriander, fennel, peppercorns, cumin, dried chilies, star anise, cinnamon and cardamom in a heavy pan over medium-low heat for 3–4 minutes until fragrant and a shade darker. Add the coconut and roast 2 minutes more until golden.",
     "Cool, then grind the roasted spices and coconut with a splash of water to a thick, dark paste. This fresh masala — never from a jar — is what makes the dish Chettinad.",
     "Heat the oil in a heavy casserole over medium heat. Add half the curry leaves and let them crackle, then add the onions with a pinch of salt and fry for 10–12 minutes until well browned.",
-    "Add the ginger-garlic paste, fry 2 minutes, then add the tomatoes and cook for 6–8 minutes until they break down and the oil separates.",
+    "Add the ginger-garlic paste and turmeric, fry 2 minutes, then add the tomatoes and cook for 6–8 minutes until they break down and the oil separates.",
     "Stir in the ground masala paste and fry for 3–4 minutes, scraping the base, until it smells deeply roasted.",
     "Add the chicken and turn to coat in the masala, searing for 5 minutes. Pour in 300 ml of hot water, season with salt, cover and simmer gently for 25 minutes until the chicken is tender and the gravy thick and clinging.",
     "Crackle the remaining curry leaves in a teaspoon of hot oil and pour over the curry. Rest 5 minutes, then serve with steamed rice, parottas or dosai."
@@ -504,6 +506,7 @@ window.RECIPES.push(
     { qty: 2, unit: "tbsp", item: "coconut oil" },
     { qty: 1, unit: "tsp", item: "black mustard seeds" },
     { qty: 1, unit: "", item: "red onion", note: "half sliced for tempering, half finely chopped for sambol" },
+    { qty: 3, unit: "", item: "garlic cloves", note: "thinly sliced" },
     { qty: 15, unit: "", item: "fresh curry leaves" },
     { qty: 2, unit: "", item: "dried red chilies", note: "broken" },
     { qty: 200, unit: "g", item: "freshly grated or thawed frozen coconut", note: "for the sambol" },
@@ -516,7 +519,7 @@ window.RECIPES.push(
     "Put the lentils in a pan with 600 ml water, the turmeric, pandan and cinnamon. Bring to a boil, skim, then simmer for 15 minutes until the lentils are soft and beginning to break down.",
     "Stir in the coconut milk and 1 tsp salt and simmer gently for 8–10 minutes more until creamy and porridge-like. Fish out the pandan and cinnamon.",
     "Make the pol sambol: pound or pulse the grated coconut with the chopped red onion, chili flakes, paprika and 1 tsp salt until it turns brick-red and clumps slightly. Sharpen with lime juice until it is hot, salty and sour in equal measure.",
-    "Make the tempering: heat the coconut oil in a small pan until shimmering, add the mustard seeds and let them pop fully, then add the sliced onion, curry leaves and dried chilies and fry for 2–3 minutes until the onion is golden and the leaves crisp.",
+    "Make the tempering: heat the coconut oil in a small pan until shimmering, add the mustard seeds and let them pop fully, then add the sliced onion, garlic, curry leaves and dried chilies and fry for 2–3 minutes until the onion and garlic are golden and the leaves crisp.",
     "Pour the sizzling tempering over the parippu and stir half through, leaving the rest on top.",
     "Serve hot with steamed rice and the pol sambol alongside, with extra lime."
   ],

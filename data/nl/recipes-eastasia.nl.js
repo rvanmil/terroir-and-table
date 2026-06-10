@@ -16,6 +16,7 @@ Object.assign(window.NL.recipes, {
     { item: "verse gember", note: "fijngeraspt" },
     { item: "lichte sojasaus" },
     { item: "Shaoxing-rijstwijn" },
+    { item: "gemalen witte peper" },
     { item: "geroosterde sesamolie" },
     { item: "Chinkiang zwarte azijn", note: "om te dippen" },
     { item: "chiliolie", note: "om te dippen, optioneel" }
@@ -23,7 +24,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Meng de bloem en het water tot een ruwe massa en kneed 8–10 minuten tot een glad, stevig deeg. Dek af en laat 30 minuten rusten — het deeg moet bij het indrukken aanvoelen als een oorlel.",
     "Hussel de gehakte kool met het zout en laat 15 minuten staan; knijp de kool daarna per handvol stevig uit om zoveel mogelijk vocht eruit te wringen.",
-    "Klop het varkensgehakt los met de sojasaus, Shaoxing-rijstwijn, gember, bosui, sesamolie en 3 eetlepels koud water, steeds in dezelfde richting roerend, tot het mengsel plakkerig en veerkrachtig is. Spatel de uitgeknepen kool erdoor.",
+    "Klop het varkensgehakt los met de sojasaus, Shaoxing-rijstwijn, witte peper, gember, bosui, sesamolie en 3 eetlepels koud water, steeds in dezelfde richting roerend, tot het mengsel plakkerig en veerkrachtig is. Spatel de uitgeknepen kool erdoor.",
     "Rol het deeg tot twee strengen en snijd ze in zo’n 36 stukjes ter grootte van een walnoot. Rol elk stukje uit tot een schijf van 9 cm, dunner aan de rand dan in het midden, en bestuif tussendoor licht met bloem.",
     "Schep een flinke theelepel vulling op elk velletje, vouw het dubbel en plooi de ene rand tegen de andere; druk stevig aan om te sluiten. Leg de gevouwen dumplings op een met bloem bestoven plaat, zonder dat ze elkaar raken.",
     "Breng een grote pan water aan de kook. Voeg de helft van de dumplings toe, roer voorzichtig zodat ze niet plakken, en breng opnieuw aan de kook. Voeg een kopje koud water toe; zodra het weer kookt, nog een. Als de dumplings na de derde keer koken dik en glanzend bovendrijven, zijn ze gaar.",
@@ -298,6 +299,7 @@ Object.assign(window.NL.recipes, {
   ingredients: [
     { item: "tarwebloem" },
     { item: "dashi", note: "afgekoeld, of water met 1 tl dashipoeder" },
+    { item: "nagaimo (Japanse bergyam)", note: "geschild en fijngeraspt" },
     { item: "eieren" },
     { item: "witte of spitskool", note: "fijngehakt, niet in lange slierten" },
     { item: "bosuien", note: "in ringetjes" },
@@ -310,7 +312,7 @@ Object.assign(window.NL.recipes, {
     { item: "aonori (gedroogde groene zeewiervlokken)" }
   ],
   steps: [
-    "Klop de bloem en de afgekoelde dashi tot een glad beslag en laat het in de koelkast rusten terwijl je de rest voorbereidt — een korte rust geeft een malsere pannenkoek.",
+    "Klop de bloem, de afgekoelde dashi en de geraspte nagaimo tot een glad beslag en laat het in de koelkast rusten terwijl je de rest voorbereidt — de glibberige yam is het geheim van een luchtige okonomiyaki, en een korte rust geeft een malsere pannenkoek.",
     "Voeg vlak voor het bakken de eieren aan het beslag toe, meng licht en spatel dan de kool, bosui en beni shoga erdoor. Het mengsel moet eruitzien als aangemaakte kool die maar net bijeengehouden wordt, niet als pannenkoekbeslag met kool erin.",
     "Verhit de helft van de olie in een grote koekenpan op middelhoog vuur. Schep de helft van het mengsel erin en vorm het tot een ronde koek van zo’n 2,5 cm dik — druk hem niet aan.",
     "Leg de helft van de plakjes buikspek erbovenop. Bak 5 minuten tot de onderkant diep goudbruin is.",

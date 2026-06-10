@@ -146,6 +146,7 @@ Object.assign(window.NL.recipes, {
     { item: "wortels", note: "geschild, in hun geheel" },
     { item: "preien", note: "schoongemaakt en samengebonden tot een bundel" },
     { item: "kleine raapjes", note: "geschild en gehalveerd" },
+    { item: "bleekselderijstengels", note: "dwars gehalveerd" },
     { item: "vastkokende aardappels", note: "geschild" },
     { item: "bouquet garni", note: "tijm, laurier, peterseliestelen" },
     { item: "grof zeezout", note: "plus extra voor erbij" },
@@ -155,7 +156,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Doe de schenkel, ribs en ossenstaart in je grootste pan, zet onder koud water en breng langzaam tegen de kook aan. Schep het grijze schuim de eerste 15 minuten zorgvuldig af — een heldere bouillon hangt ervan af.",
     "Voeg de met kruidnagel bestoken ui, het bouquet garni, de peperkorrels en het grove zout toe. Laat onafgedekt en amper trillend 2½ uur trekken; schep af en toe het vet af. Het mag nooit koken.",
-    "Voeg de wortels, prei en raapjes toe en laat nog 40 minuten zachtjes trekken.",
+    "Voeg de wortels, prei, bleekselderij en raapjes toe en laat nog 40 minuten zachtjes trekken.",
     "Kook de aardappels apart in gezouten water (ze zouden de bouillon troebel maken) in circa 20 minuten gaar.",
     "Wikkel de mergpijpjes losjes in kaasdoek (zodat het merg op zijn plaats blijft) en laat ze de laatste 20 minuten in de pan zakken.",
     "Schep het vlees en de groenten op een warme schaal, bevochtig met een pollepel bouillon en dek af. Zeef de rest van de bouillon en proef — breng zo nodig op smaak.",
@@ -182,6 +183,7 @@ Object.assign(window.NL.recipes, {
     { item: "droge witte wijn" },
     { item: "sjalot", note: "fijngesnipperd" },
     { item: "takjes dragon", note: "blaadjes gehakt, stelen bewaard" },
+    { item: "kervel", note: "fijngehakt" },
     { item: "eidooiers" },
     { item: "boter", note: "geklaard, warm" },
     { item: "zeezout en zwarte peper" }
@@ -190,7 +192,7 @@ Object.assign(window.NL.recipes, {
     "Snijd de aardappels in staafjes van 1 cm, spoel ze tot het water helder blijft en dep ze goed droog. Frituur in porties op 140°C in 6–7 minuten gaar maar bleek; laat uitlekken en rusten op een rooster.",
     "Laat voor de béarnaisereductie de azijn, wijn, sjalot, dragonstelen en een paar geplette peperkorrels inkoken tot er 2 eetlepels over zijn. Zeef en laat iets afkoelen.",
     "Klop de dooiers met de reductie in een kom boven nauwelijks trillend water tot ze bleek, dik en lobbig zijn — de garde moet sporen achterlaten. Laat het nooit stollen; til de kom eraf als het te snel heet wordt.",
-    "Klop van het vuur af de warme geklaarde boter er in een dun straaltje door tot de saus dik en glanzend is. Roer de gehakte dragon erdoor, breng op smaak en houd warm (niet heet) naast het fornuis.",
+    "Klop van het vuur af de warme geklaarde boter er in een dun straaltje door tot de saus dik en glanzend is. Roer de gehakte dragon en kervel erdoor, breng op smaak en houd warm (niet heet) naast het fornuis.",
     "Bestrooi de steaks royaal met zout. Schroei ze in een gloeiend hete zware pan met de olie 2–3 minuten per kant voor medium-rare (52–54°C in de kern); voeg op het laatst de boter toe en arroseer. Laat 5 minuten rusten.",
     "Verhit intussen de olie tot 180°C en frituur de frieten een tweede keer 2–3 minuten tot ze diep goudbruin en knapperig zijn. Laat uitlekken en zout meteen.",
     "Snijd de steaks tegen de draad in, stapel de frites ernaast en serveer met een royale lepel béarnaise."
@@ -324,6 +326,7 @@ Object.assign(window.NL.recipes, {
     { item: "kleine nieuwe aardappeltjes" },
     { item: "kleine sjalotjes of zilveruitjes", note: "gepeld" },
     { item: "verse of diepvriesdoperwten" },
+    { item: "platte peterselie", note: "gehakt" },
     { item: "zeezout en zwarte peper" }
   ],
   steps: [

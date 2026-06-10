@@ -268,6 +268,7 @@ Object.assign(window.NL.recipes, {
     { item: "verse ananas", note: "in dunne parten gesneden" },
     { item: "tomaten", note: "in parten gesneden" },
     { item: "okra", note: "schuin in plakken gesneden" },
+    { item: "stengels bạc hà (olifantsoor)", note: "geschild en schuin in plakken gesneden; of bleekselderij" },
     { item: "taugé" },
     { item: "vissaus" },
     { item: "suiker" },
@@ -281,7 +282,7 @@ Object.assign(window.NL.recipes, {
     "Bak de plakjes knoflook in de olie op zacht vuur in 2–3 minuten lichtgoud en krokant; schep ze op keukenpapier en bewaar zowel de knoflook als de olie.",
     "Breng het water of de bouillon met het tamarindevocht, de suiker en de vissaus aan de kook.",
     "Voeg de vis toe en pocheer 5–6 minuten tegen de kook aan; zachte hitte houdt hem heel en zijdezacht.",
-    "Voeg de ananas, tomaten en okra toe en laat 4–5 minuten sudderen tot de okra knapperig-gaar is en de tomaten net inzakken.",
+    "Voeg de ananas, tomaten, okra en stengels bạc hà toe en laat 4–5 minuten sudderen tot de okra knapperig-gaar is, de stengels nog sponzig-fris zijn en de tomaten net inzakken.",
     "Proef en breng in balans: de bouillon moet eerst helder zuur zijn, dan zoet, dan hartig. Stel bij met tamarinde, suiker of vissaus.",
     "Roer de taugé erdoor en haal de pan direct van het vuur, zodat hij zijn knapperigheid behoudt.",
     "Serveer bestrooid met rijstveldkruid, plakjes rode peper, de krokante knoflook en een scheutje van de knoflookolie."
@@ -303,6 +304,8 @@ Object.assign(window.NL.recipes, {
     { item: "tenen knoflook" },
     { item: "lange rode pepers", note: "plus extra voor erbij" },
     { item: "garnalenpasta (terasi)", note: "geroosterd" },
+    { item: "gemalen ketoembar (korianderzaad)" },
+    { item: "laospoeder", note: "of 2 cm verse laos, fijngeraspt" },
     { item: "ketjap manis" },
     { item: "lichte sojasaus" },
     { item: "kippendij", note: "in kleine blokjes; optioneel maar traditioneel" },
@@ -314,7 +317,7 @@ Object.assign(window.NL.recipes, {
     { item: "bosuitjes", note: "in ringetjes" }
   ],
   steps: [
-    "Stamp of mix de sjalotten, knoflook, pepers en geroosterde garnalenpasta tot een grove kruidenpasta (boemboe).",
+    "Stamp of mix de sjalotten, knoflook, pepers, geroosterde garnalenpasta, ketoembar en laos tot een grove kruidenpasta (boemboe).",
     "Verhit 2 eetlepels olie in een wok tot hij rookt en bak de eieren één voor één; lepel hete olie over ze heen tot de randen bruin en knapperig zijn en de dooiers nog zacht. Houd warm.",
     "Voeg nog 2 eetlepels olie toe en bak de kruidenpasta op middelhoog vuur 2–3 minuten al roerend tot hij donkerder wordt en de rauwe sjalotgeur zoet wordt.",
     "Zet het vuur op de hoogste stand, voeg de kip toe en roerbak 2–3 minuten tot hij gaar is en aan de randen begint aan te zetten.",

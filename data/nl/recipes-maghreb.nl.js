@@ -459,6 +459,7 @@ Object.assign(window.NL.recipes, {
     { item: "rode bieten", note: "geboend" },
     { item: "halve walnoten" },
     { item: "teentjes knoflook" },
+    { item: "kleine ui", note: "grof gehakt" },
     { item: "gemalen koriander" },
     { item: "blauwe fenegriek (utskho suneli)", note: "of de helft van die hoeveelheid gemalen fenegriek" },
     { item: "cayennepeper" },
@@ -469,7 +470,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Kook of stoom de bieten 35–45 minuten tot een mes geen weerstand meer voelt; laat afkoelen en pel ze. Blancheer ondertussen de spinazie 1 minuut in kokend water, spoel koud af en knijp hem in een schone theedoek kurkdroog — natte groenten geven een lekkende pkhali.",
-    "Rooster de walnoten 4–5 minuten in een droge pan tot ze geuren en maal ze dan met de knoflook, gemalen koriander, blauwe fenegriek, cayennepeper en een theelepel zout tot een fijne, vette pasta.",
+    "Rooster de walnoten 4–5 minuten in een droge pan tot ze geuren en maal ze dan met de knoflook, ui, gemalen koriander, blauwe fenegriek, cayennepeper en een theelepel zout tot een fijne, vette pasta.",
     "Verdeel de walnootpasta in tweeën. Hak de uitgeknepen spinazie fijn en werk er de helft van de pasta door met de helft van de azijn en de helft van de verse koriander.",
     "Rasp of hak de bieten fijn, knijp het overtollige sap eruit en meng met de resterende pasta, azijn en koriander.",
     "Proef beide mengsels: elk moet nootachtig, knoflookrijk en duidelijk frisszuur zijn. Stel zout en azijn bij — de azijn draagt het gerecht.",

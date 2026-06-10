@@ -29,6 +29,7 @@ window.RECIPES.push(
     { qty: 2, unit: "tbsp", item: "tomato paste" },
     { qty: 1, unit: "tbsp", item: "white vinegar or lemon juice" },
     { qty: 3, unit: "", item: "garlic cloves", note: "crushed to a paste" },
+    { qty: 30, unit: "g", item: "salo (cured pork fat)", note: "or fatty unsmoked bacon, finely chopped" },
     { qty: 1, unit: "", item: "bay leaf" },
     { qty: 1, unit: "tsp", item: "sugar" },
     { qty: 1, unit: "", item: "small bunch dill", note: "chopped" },
@@ -41,7 +42,7 @@ window.RECIPES.push(
     "In a separate pan, cook the grated beets gently in oil with the vinegar and sugar for about 15 minutes — the acid fixes their colour so the soup stays ruby red rather than turning orange.",
     "Return the broth to a simmer, add the potatoes and cook 10 minutes, then add the cabbage and cook 7–8 minutes until both are just tender.",
     "Stir in the beet mixture, the onion-carrot base and the shredded beef. Simmer gently for 10 minutes — do not boil hard, or the colour dulls.",
-    "Season with salt and pepper, stir in the crushed garlic, cover and let the borshch rest off the heat for 15 minutes so the flavours marry.",
+    "Season with salt and pepper. Pound the salo with the crushed garlic to a coarse paste and stir it in, then cover and let the borshch rest off the heat for 15 minutes so the flavours marry.",
     "Serve in deep bowls with a spoonful of sour cream and a shower of dill."
   ],
   wines: [
@@ -305,12 +306,13 @@ window.RECIPES.push(
     { qty: 100, unit: "ml", item: "double cream or smetana" },
     { qty: 4, unit: "", item: "eggs", note: "boiled 8 minutes, peeled and halved" },
     { qty: 1, unit: "", item: "bay leaf" },
+    { qty: 3, unit: "", item: "allspice berries" },
     { qty: null, unit: "", item: "sea salt and black pepper" }
   ],
   steps: [
     "Five days ahead, make the żur: whisk the rye flour with the cooled water in a clean jar, add 2 bruised garlic cloves, cover with muslin and leave at room temperature 4–5 days, stirring daily, until pleasantly sour. (Bottled żur is an honest shortcut.)",
     "Render the bacon in a soup pot over medium heat until golden, then soften the onion in the fat for 5 minutes.",
-    "Add the stock, bay leaf and whole white sausages and poach gently for 20 minutes; lift out the sausages and slice them thickly.",
+    "Add the stock, bay leaf, allspice berries and whole white sausages and poach gently for 20 minutes; lift out the sausages and slice them thickly.",
     "Add the potatoes to the pot and simmer 12–15 minutes until tender.",
     "Stir the żur well and pour in about 300 ml through a sieve, simmering 5 minutes — add more to taste; the soup should be brightly sour but balanced.",
     "Season with the crushed garlic, marjoram rubbed between your palms, horseradish, salt and pepper, then return the sliced sausage and stir in the cream. Warm through without boiling.",

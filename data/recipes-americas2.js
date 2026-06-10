@@ -575,6 +575,7 @@ window.RECIPES.push(
     { qty: 2, unit: "", item: "very ripe plantains", note: "skins black-flecked" },
     { qty: 2, unit: "", item: "onions", note: "1 halved, 1 finely chopped" },
     { qty: 1, unit: "", item: "red bell pepper", note: "finely chopped" },
+    { qty: 4, unit: "", item: "ají dulce peppers", note: "seeded and finely chopped; mild Caribbean seasoning peppers, or an extra half bell pepper as a fallback" },
     { qty: 4, unit: "", item: "garlic cloves", note: "minced" },
     { qty: 400, unit: "g", item: "ripe tomatoes", note: "grated, skins discarded" },
     { qty: 1, unit: "tsp", item: "ground cumin" },
@@ -586,7 +587,7 @@ window.RECIPES.push(
   steps: [
     "Simmer the beef with the halved onion and a teaspoon of salt in water to cover for about 1½ hours until it shreds easily. Cool in the broth, then pull into long fibres with your fingers. Reserve the broth.",
     "Cook the soaked beans in fresh water until tender, 60–90 minutes, salting only near the end. Keep them brothy.",
-    "Make a sofrito: sweat the chopped onion, bell pepper and half the garlic in 2 tablespoons of oil for 8 minutes. Transfer half to the beans with the sugar and simmer 15 minutes until thick and glossy.",
+    "Make a sofrito: sweat the chopped onion, bell pepper, ají dulce and half the garlic in 2 tablespoons of oil for 8 minutes. Transfer half to the beans with the sugar and simmer 15 minutes until thick and glossy.",
     "To the sofrito left in the pan add the remaining garlic, the grated tomato, cumin and Worcestershire; fry 5 minutes, then add the shredded beef and a ladle of its broth. Simmer 20 minutes until juicy and deeply seasoned — this is the carne mechada.",
     "Cook the rice: rinse, then simmer with 600 ml of the beef broth and a pinch of salt, covered, 12 minutes; rest 10 minutes off the heat and fork through.",
     "Peel the plantains, slice on a long diagonal 1 cm thick and shallow-fry in hot oil 2–3 minutes per side until caramel-edged (tajadas). Drain and salt lightly.",

@@ -488,10 +488,11 @@ window.RECIPES.push(
     { qty: 2, unit: "tbsp", item: "neutral oil" },
     { qty: 0.5, unit: "tsp", item: "ground cinnamon" },
     { qty: 0.25, unit: "tsp", item: "grated nutmeg" },
+    { qty: 1, unit: "tsp", item: "black peppercorns", note: "coarsely ground" },
     { qty: 1, unit: "tsp", item: "salt" }
   ],
   steps: [
-    "Blitz everything except the chicken to a coarse, wet paste. Taste with caution — it should be aggressively seasoned, hot and aromatic, because it must flavour a lot of meat.",
+    "Blitz everything except the chicken to a coarse, wet paste. Taste with caution — it should be aggressively seasoned, hot from the scotch bonnet and black pepper, and aromatic, because it must flavour a lot of meat.",
     "Massage the marinade deep into the chicken and into the slashes. Cover and refrigerate overnight, or 24 hours for the real thing.",
     "Set up a grill for indirect heat at about 160°C, adding soaked allspice berries or wood chips to the coals for smoke. (Oven method: 160°C fan with a final blast under the grill.)",
     "Lay the chicken skin-side up away from the direct fire, cover, and cook low and slow for 50–60 minutes, turning and basting with leftover marinade halfway (stop basting in the last 15 minutes).",

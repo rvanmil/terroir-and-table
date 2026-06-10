@@ -86,6 +86,7 @@ Object.assign(window.NL.recipes, {
     { item: "tenen knoflook", note: "fijngehakt" },
     { item: "gemalen komijn" },
     { item: "szechuanpeper of timur", note: "gemalen" },
+    { item: "verse koriander", note: "fijngehakt" },
     { item: "neutrale olie" },
     { item: "rijpe tomaten", note: "voor de achar" },
     { item: "witte sesamzaadjes", note: "geroosterd" },
@@ -94,7 +95,7 @@ Object.assign(window.NL.recipes, {
   ],
   steps: [
     "Maak het deeg: meng de bloem, een snufje zout en ongeveer 150 ml water tot een stevig, glad deeg. Kneed 5 minuten en laat dan 30 minuten rusten onder een vochtige doek.",
-    "Meng het kippengehakt met de ui, bosui, gember, knoflook, komijn, timur, olie en 1 theelepel zout. Klop het mengsel een minuut met je hand tot het licht plakkerig wordt — zo bindt het en blijft de vulling sappig in het deegvelletje.",
+    "Meng het kippengehakt met de ui, bosui, gember, knoflook, komijn, timur, verse koriander, olie en 1 theelepel zout. Klop het mengsel een minuut met je hand tot het licht plakkerig wordt — zo bindt het en blijft de vulling sappig in het deegvelletje.",
     "Blaker voor de achar de tomaten en gedroogde pepers in een droge pan (of onder een grill van 250°C) tot ze plaatselijk zwartgeblakerd zijn. Mix ze met de geroosterde sesamzaadjes en zout tot een losse, rokerige saus.",
     "Verdeel het deeg in ongeveer 28 stukjes en rol elk stukje uit tot een rondje van 9 cm, dunner aan de randen dan in het midden, zodat de geplooide bovenkant niet deegachtig wordt.",
     "Schep een flinke theelepel vulling op elk rondje en plooi de rand met duim en wijsvinger terwijl je draait, en sluit de dumpling tot een rond buideltje met een draai bovenop.",
@@ -118,6 +119,7 @@ Object.assign(window.NL.recipes, {
     { item: "gember-knoflookpasta" },
     { item: "Kashmiri-chilipoeder" },
     { item: "citroensap" },
+    { item: "garam masala" },
     { item: "rijpe tomaten", note: "grof gehakt" },
     { item: "boter" },
     { item: "groene kardemompeulen" },
@@ -129,13 +131,13 @@ Object.assign(window.NL.recipes, {
     { item: "fijn zeezout" }
   ],
   steps: [
-    "Marineer de kip minstens 4 uur in de yoghurt, de helft van de gember-knoflookpasta, de helft van het chilipoeder, het citroensap en 1 theelepel zout.",
+    "Marineer de kip minstens 4 uur in de yoghurt, de helft van de gember-knoflookpasta, de helft van het chilipoeder, de helft van de garam masala, het citroensap en 1 theelepel zout.",
     "Maak de makhani-saus: smelt de helft van de boter in een zware pan, voeg de kardemom en kaneel toe en laat ze 30 seconden sissen; voeg dan de resterende gember-knoflookpasta toe en bak tot de rauwe geur verdwenen is.",
     "Voeg de tomaten, cashewnoten, het resterende chilipoeder en een theelepel zout toe. Laat 25–30 minuten onafgedekt sudderen tot de tomaten volledig zijn ingezakt en het vet aan de randen verschijnt.",
     "Vis het kaneelstokje eruit, mix de saus dan volledig glad en wrijf hem door een zeef terug in de pan — het zeven geeft makhani zijn kenmerkende zijdezachtheid.",
     "Verhit intussen de grill op de hoogste stand. Rijg de kip aan spiezen of spreid hem uit op een rooster en gril 10–12 minuten; keer halverwege, tot de kip gaar is met geblakerde randjes; bewaar het rustvocht.",
     "Breng de gezeefde saus zachtjes aan de kook, voeg de kip met het vocht, de suiker en de resterende boter toe en laat 5 minuten sudderen zodat de smaken zich verbinden.",
-    "Verkruimel de kasuri methi tussen je handpalmen boven de pan, roer het grootste deel van de room erdoor en proef de balans — eerst fris-zuur, dan pas zoet. Serveer met een sliert room, met naan of basmatirijst erbij."
+    "Verkruimel de kasuri methi tussen je handpalmen boven de pan, voeg de resterende garam masala toe, roer het grootste deel van de room erdoor en proef de balans — eerst fris-zuur, dan pas zoet. Serveer met een sliert room, met naan of basmatirijst erbij."
   ],
   wines: [
     "De rijkdom van gebakken appel en de heldere zuren van Zuid-Afrikaanse chenin evenaren de romige, frisse tomatensaus gewicht voor gewicht.",
@@ -414,6 +416,7 @@ Object.assign(window.NL.recipes, {
     { item: "takjes verse kerrieblaadjes" },
     { item: "pandanblad (rampe)", note: "optioneel maar traditioneel" },
     { item: "stengel citroengras", note: "gekneusd" },
+    { item: "kaneelstokje", note: "liefst Ceylonkaneel, stuk van 5 cm" },
     { item: "kokosmelk", note: "dikke room en dunne melk gescheiden indien uit blik" },
     { item: "limoensap", note: "of een stukje goraka" },
     { item: "fijn zeezout" }
@@ -421,7 +424,7 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Maak het geroosterde kerriepoeder: rooster het korianderzaad, de komijn, venkel en rijst 5–7 minuten droog in een zware pan op middelhoog vuur, onder voortdurend roeren, tot ze diepbruin zijn — donkerder dan je durft, maar niet zwart. Laat afkoelen en maal fijn.",
     "Hussel de kip met het geroosterde poeder, het chilipoeder en 1½ theelepel zout en laat 15 minuten staan.",
-    "Verhit de kokosolie in een zware pan en fruit de ui, knoflook, gember, kerrieblaadjes, pandan en het citroengras 5–6 minuten op middelhoog vuur tot de ui goudkleurig is en de keuken onmiskenbaar naar Sri Lanka ruikt.",
+    "Verhit de kokosolie in een zware pan en fruit de ui, knoflook, gember, kerrieblaadjes, pandan, het citroengras en de kaneel 5–6 minuten op middelhoog vuur tot de ui goudkleurig is en de keuken onmiskenbaar naar Sri Lanka ruikt.",
     "Voeg de gekruide kip toe en keer hem 5 minuten door het kruidenmengsel tot de specerijen pakken en roosteren op het vlees.",
     "Giet de dunne kokosmelk erbij (of een half blik plus 150 ml water), breng aan de kook, dek af en laat 35–40 minuten zachtjes garen tot de kip mals is bij het bot.",
     "Voeg de dikke kokosroom toe en laat onafgedekt 8–10 minuten sudderen tot de saus rijk en iets ingedikt is — laat hem nooit hard koken nadat de room erbij is, anders schift hij.",

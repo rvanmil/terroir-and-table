@@ -55,21 +55,21 @@ en: {
   "brand.sub": "A Cook's Atlas of the World",
   "nav.atlas": "The Atlas", "nav.cellar": "The Cellar", "nav.menu": "Your Menu", "nav.prefs": "Preferences",
   "cover.kicker": "Recipes · Wine · The World Entire",
-  "cover.tagline": "An atlas for the serious home cook — authentic dishes gathered from {n} food cultures, each with honest timings, real technique, and a pour chosen from a cellar of the world's benchmark wines.",
-  "cover.stat.recipes": "Recipes", "cover.stat.cultures": "Food cultures", "cover.stat.bins": "Cellar bins", "cover.stat.menus": "Menus",
+  "cover.tagline": "An atlas for the serious home cook — authentic dishes gathered from {n} countries, each with honest timings, real technique, and a pour chosen from a cellar of the world's benchmark wines.",
+  "cover.stat.recipes": "Recipes", "cover.stat.cultures": "Countries", "cover.stat.bins": "Cellar bins", "cover.stat.menus": "Menus",
   "cover.openAtlas": "Open the Atlas", "cover.cellar": "Descend to the Cellar",
   "cover.tonight": "Tonight, perhaps —", "cover.another": "Another",
-  "cover.toc": "Table of Contents — by food culture",
+  "cover.toc": "Table of Contents — by country",
   "cover.recipe": "recipe", "cover.recipes": "recipes",
   "atlas.find": "Find your dish", "atlas.search": "Search the atlas…",
-  "atlas.culture": "Food culture", "atlas.taste": "Taste", "atlas.ingredient": "Leading ingredient",
+  "atlas.culture": "Country", "atlas.taste": "Taste", "atlas.ingredient": "Leading ingredient",
   "atlas.courseDiet": "Course & diet", "atlas.fire": "Method & fire", "atlas.timeEffort": "Time & effort", "atlas.anyDiff": "Any difficulty",
   "atlas.kamadoChip": "▲ kamado-friendly",
   "kamado.title": "On the kamado",
   "kamado.fit.ideal": "born for live fire", "kamado.fit.good": "works beautifully over coals",
   "atlas.clear": "Clear all filters", "atlas.title": "The Atlas of Recipes",
   "atlas.count": "{a} of {b} dishes",
-  "atlas.sortAZ": "A — Z", "atlas.sortTime": "quickest first", "atlas.sortCulture": "by culture",
+  "atlas.sortAZ": "A — Z", "atlas.sortTime": "quickest first", "atlas.sortCulture": "by country",
   "atlas.empty": "Nothing in the atlas matches that combination — loosen a filter or two. ❦",
   "time.any": "Any amount of time", "time.45": "Under 45 min", "time.75": "Under 1¼ h", "time.120": "Under 2 h", "time.240": "Under 4 h",
   "recipe.back": "← Back to the Atlas",
@@ -123,21 +123,21 @@ nl: {
   "brand.sub": "Een kookatlas van de wereld",
   "nav.atlas": "De Atlas", "nav.cellar": "De Kelder", "nav.menu": "Jouw Menu", "nav.prefs": "Voorkeuren",
   "cover.kicker": "Recepten · Wijn · De Hele Wereld",
-  "cover.tagline": "Een atlas voor de serieuze thuiskok — authentieke gerechten uit {n} eetculturen, elk met eerlijke bereidingstijden, echte techniek en een wijn gekozen uit een kelder met klassiekers van over de hele wereld.",
-  "cover.stat.recipes": "Recepten", "cover.stat.cultures": "Eetculturen", "cover.stat.bins": "Keldervakken", "cover.stat.menus": "Menu's",
+  "cover.tagline": "Een atlas voor de serieuze thuiskok — authentieke gerechten uit {n} landen, elk met eerlijke bereidingstijden, echte techniek en een wijn gekozen uit een kelder met klassiekers van over de hele wereld.",
+  "cover.stat.recipes": "Recepten", "cover.stat.cultures": "Landen", "cover.stat.bins": "Keldervakken", "cover.stat.menus": "Menu's",
   "cover.openAtlas": "Open de Atlas", "cover.cellar": "Daal af naar de Kelder",
   "cover.tonight": "Vanavond, misschien —", "cover.another": "Een ander",
-  "cover.toc": "Inhoudsopgave — per eetcultuur",
+  "cover.toc": "Inhoudsopgave — per land",
   "cover.recipe": "recept", "cover.recipes": "recepten",
   "atlas.find": "Vind je gerecht", "atlas.search": "Doorzoek de atlas…",
-  "atlas.culture": "Eetcultuur", "atlas.taste": "Smaak", "atlas.ingredient": "Hoofdingrediënt",
+  "atlas.culture": "Land", "atlas.taste": "Smaak", "atlas.ingredient": "Hoofdingrediënt",
   "atlas.courseDiet": "Gang & dieet", "atlas.fire": "Bereiding & vuur", "atlas.timeEffort": "Tijd & moeite", "atlas.anyDiff": "Elke moeilijkheid",
   "atlas.kamadoChip": "▲ geschikt voor kamado",
   "kamado.title": "Op de kamado",
   "kamado.fit.ideal": "geboren voor open vuur", "kamado.fit.good": "werkt prachtig boven houtskool",
   "atlas.clear": "Wis alle filters", "atlas.title": "De Receptenatlas",
   "atlas.count": "{a} van {b} gerechten",
-  "atlas.sortAZ": "A — Z", "atlas.sortTime": "snelste eerst", "atlas.sortCulture": "per cultuur",
+  "atlas.sortAZ": "A — Z", "atlas.sortTime": "snelste eerst", "atlas.sortCulture": "per land",
   "atlas.empty": "Niets in de atlas past bij die combinatie — versoepel een filter of twee. ❦",
   "time.any": "Alle tijd van de wereld", "time.45": "Minder dan 45 min", "time.75": "Minder dan 1¼ u", "time.120": "Minder dan 2 u", "time.240": "Minder dan 4 u",
   "recipe.back": "← Terug naar de Atlas",
@@ -400,8 +400,10 @@ function renderCover() {
         <div class="cover__stat"><b>${WINES.length}</b><span>${t("cover.stat.bins")}</span></div>
         <div class="cover__stat"><b>∞</b><span>${t("cover.stat.menus")}</span></div>
       </div>
-      <a class="btn" href="#/atlas">${t("cover.openAtlas")}</a>
-      <a class="btn btn--wine" href="#/cellar" style="margin-left:.6rem">${t("cover.cellar")}</a>
+      <div class="cover__actions">
+        <a class="btn" href="#/atlas">${t("cover.openAtlas")}</a>
+        <a class="btn btn--wine" href="#/cellar">${t("cover.cellar")}</a>
+      </div>
     </div>
 
     ${tonight ? `<div class="cover__tonight rise" style="animation-delay:.15s">
@@ -463,16 +465,14 @@ function renderAtlas() {
   const results = sortResults(RECIPES.filter(matchesAtlas));
   const anyFilter = s.q || s.cuisines.length || s.tastes.length || s.ingredients.length || s.courses.length || s.diets.length || s.time || s.difficulty;
   const cuisinesSorted = CUISINES.slice().sort((a, b) => cuisineLabel(a).localeCompare(cuisineLabel(b)));
+  /* on narrow screens the rail sits above the results, so groups start closed */
+  const railWide = window.matchMedia("(min-width: 901px)").matches;
 
   view.innerHTML = `
   <div class="atlas">
     <aside class="rail rise">
       <h2>${t("atlas.find")}</h2>
       <input type="search" id="atlasSearch" placeholder="${t("atlas.search")}" value="${esc(s.q)}">
-      <details class="rail__group" open>
-        <summary>${t("atlas.culture")}</summary>
-        <div class="rail__chips">${cuisinesSorted.map(c => chip("cuisines", c, s.cuisines.includes(c), cuisineLabel(c))).join("")}</div>
-      </details>
       <details class="rail__group" ${s.tastes.length ? "open" : ""}>
         <summary>${t("atlas.taste")}</summary>
         <div class="rail__chips">${TASTES.map(x => chip("tastes", x, s.tastes.includes(x), tasteLabel(x), tasteDot(x))).join("")}</div>
@@ -500,6 +500,10 @@ function renderAtlas() {
           <option value="">${t("atlas.anyDiff")}</option>
           ${["approachable","intermediate","ambitious"].map(d => `<option value="${d}" ${s.difficulty === d ? "selected" : ""}>${diffLabel(d)}</option>`).join("")}
         </select>
+      </details>
+      <details class="rail__group" ${railWide || s.cuisines.length ? "open" : ""}>
+        <summary>${t("atlas.culture")}</summary>
+        <div class="rail__chips">${cuisinesSorted.map(c => chip("cuisines", c, s.cuisines.includes(c), cuisineLabel(c))).join("")}</div>
       </details>
       ${anyFilter ? `<button class="btn btn--ghost btn--small rail__clear" data-action="clear-atlas">${t("atlas.clear")}</button>` : ""}
     </aside>

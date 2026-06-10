@@ -164,6 +164,9 @@ window.RECIPES.push(
     { qty: 6, unit: "", item: "garlic cloves", note: "unpeeled" },
     { qty: 50, unit: "g", item: "sesame seeds" },
     { qty: 40, unit: "g", item: "almonds" },
+    { qty: 1, unit: "", item: "Mexican cinnamon stick (canela)", note: "about 5 cm" },
+    { qty: 3, unit: "", item: "whole cloves" },
+    { qty: 3, unit: "", item: "allspice berries" },
     { qty: 40, unit: "g", item: "raisins" },
     { qty: 1, unit: "", item: "ripe plantain", note: "peeled and sliced" },
     { qty: 0.5, unit: "", item: "corn tortilla", note: "charred until blackened, for thickening" },
@@ -174,8 +177,8 @@ window.RECIPES.push(
     "Poach the chicken in 2 litres of lightly salted water with a quarter of the onion for about 35 minutes until just cooked. Keep the chicken warm and reserve the broth.",
     "Stem and seed all the chiles, reserving 2 tbsp of seeds. Toast the chiles on a dry comal over medium heat until fragrant and darkened, about 30 seconds a side, then soak in hot water for 30 minutes. Separately toast the reserved seeds until very dark — traditionally almost black — for the mole’s signature bitterness; open a window.",
     "On the same comal, char the tomatoes, tomatillos, remaining onion and garlic until blistered and soft. Peel the garlic.",
-    "Toast the sesame seeds and almonds in a dry pan until golden, then fry the raisins and plantain in 1 tbsp of the lard until caramelised.",
-    "Working in batches, blend the drained chiles, charred seeds, vegetables, nuts, fruit and the blackened tortilla with enough chicken broth to make a completely smooth, thick purée. Pass through a fine sieve — this step separates a true mole from a rough chile sauce.",
+    "Toast the sesame seeds and almonds in a dry pan until golden, adding the cinnamon, cloves and allspice for the final minute until fragrant, then fry the raisins and plantain in 1 tbsp of the lard until caramelised.",
+    "Working in batches, blend the drained chiles, charred seeds, toasted spices, vegetables, nuts, fruit and the blackened tortilla with enough chicken broth to make a completely smooth, thick purée. Pass through a fine sieve — this step separates a true mole from a rough chile sauce.",
     "Heat the remaining lard in a heavy pot until shimmering and pour in the purée; it should sizzle violently. Fry the mole, stirring constantly, for 10 minutes, then lower the heat and simmer for 60–90 minutes, stirring often and thinning with broth, until it darkens and the fat rises to the surface in small pools.",
     "Stir in the chocolate until melted and season with salt; the finished mole should coat a spoon thickly and taste layered — bitter, sweet, smoky and fruity in turn.",
     "Nestle the chicken in the mole to warm through for 10 minutes. Serve with rice and warm corn tortillas, sprinkled with sesame seeds."
@@ -260,6 +263,7 @@ window.RECIPES.push(
     { qty: 1, unit: "tsp", item: "dried Mexican oregano", note: "plus more for the table" },
     { qty: 0.25, unit: "", item: "white cabbage", note: "finely shredded, to garnish" },
     { qty: 6, unit: "", item: "radishes", note: "thinly sliced, to garnish" },
+    { qty: 0.5, unit: "", item: "white onion", note: "finely chopped, to garnish" },
     { qty: 3, unit: "", item: "limes", note: "in wedges" },
     { qty: null, unit: "", item: "fine sea salt" },
     { qty: 8, unit: "", item: "tostadas", note: "for serving" }
@@ -271,7 +275,7 @@ window.RECIPES.push(
     "Fry the chile purée in a film of oil in a small pan over medium heat for 5 minutes, stirring, until it thickens and smells sweetly toasty.",
     "Lift out the pork, discard the onion and bay, and shred the meat into large bite-sized pieces, discarding bones. Return the meat to the broth with the fried chile purée and the drained hominy.",
     "Simmer everything together, uncovered, for 30 minutes so the hominy flowers open slightly and the broth turns brick red and lightly thickened. Season assertively with salt.",
-    "Serve in deep bowls and let everyone garnish their own: cabbage, radish, raw onion, a pinch of oregano crushed between the palms, and plenty of lime, with tostadas alongside."
+    "Serve in deep bowls and let everyone garnish their own: cabbage, radish, the chopped raw onion, a pinch of oregano crushed between the palms, and plenty of lime, with tostadas alongside."
   ],
   wines: [
     { id: "gewurztraminer-alsace", note: "Its lychee perfume and gentle sweetness cushion the guajillo heat while matching pozole’s festive richness." },
@@ -395,6 +399,7 @@ window.RECIPES.push(
     { qty: 3, unit: "", item: "Roma tomatoes", note: "cut into wedges, seeds flicked out" },
     { qty: 1, unit: "", item: "ají amarillo", note: "deseeded, in strips; or paste, 1 tbsp" },
     { qty: 2, unit: "", item: "garlic cloves", note: "minced" },
+    { qty: 1, unit: "tsp", item: "ground cumin" },
     { qty: 3, unit: "tbsp", item: "soy sauce" },
     { qty: 2, unit: "tbsp", item: "red wine vinegar" },
     { qty: 60, unit: "ml", item: "beef stock" },
@@ -404,7 +409,7 @@ window.RECIPES.push(
   ],
   steps: [
     "Fry the chips in 180°C oil until golden and crisp, about 8–10 minutes, then drain and salt. (Good oven chips are a forgivable shortcut on a weeknight.)",
-    "Pat the beef bone-dry and season with salt and pepper. Heat a wok or your widest skillet over the highest heat until it smokes.",
+    "Pat the beef bone-dry and season with salt, pepper and the cumin. Heat a wok or your widest skillet over the highest heat until it smokes.",
     "Sear the beef in two batches in a little oil, tossing only after it has charred on one side, about 90 seconds per batch — it should stay pink inside. Remove to a plate.",
     "Return the wok to full heat, add the onion and stir-fry 1 minute so it chars at the edges but keeps its crunch, then add the garlic and ají amarillo for 30 seconds.",
     "Add the tomatoes and toss for 30 seconds — they should warm and blister, not collapse.",

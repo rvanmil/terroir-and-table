@@ -74,6 +74,7 @@ Object.assign(window.NL.recipes, {
     { item: "sjalotten", note: "in plakjes" },
     { item: "stengels citroengras", note: "alleen het zachte hart, fijngesneden" },
     { item: "galanga", note: "gehakt" },
+    { item: "makrut-limoenschil", note: "fijn geraspt" },
     { item: "garnalenpasta (kapi)" },
     { item: "gemalen korianderzaad en witte peper", note: "geroosterd" },
     { item: "korianderwortels of -stelen", note: "gehakt" },
@@ -87,7 +88,7 @@ Object.assign(window.NL.recipes, {
     { item: "jasmijnrijst", note: "om erbij te serveren" }
   ],
   steps: [
-    "Maak de pasta: stamp de pepers met een snufje zout in een granieten vijzel tot moes, voeg dan citroengras, galanga en korianderwortel toe en stamp tot een vezelloze massa — dit kost 15–20 geduldige minuten.",
+    "Maak de pasta: stamp de pepers met een snufje zout in een granieten vijzel tot moes, voeg dan citroengras, galanga, makrut-limoenschil en korianderwortel toe en stamp tot een vezelloze massa — dit kost 15–20 geduldige minuten.",
     "Werk de knoflook, sjalotten, geroosterde specerijen en garnalenpasta erdoor en stamp tot je een gladde, intens geurige groene pasta hebt.",
     "Schep de dikke kokosroom van de bovenkant van het blik in een wok en laat op middelhoog vuur 5–8 minuten al roerend pruttelen tot de room splijt en de olie aan de randen glanst — dit ‘splijten’ is wat de pasta straks goed fruit.",
     "Voeg de currypasta toe en fruit hem 4–5 minuten in de gespleten room, onder voortdurend roeren, tot hij iets donkerder kleurt en de rauwe sjalotgeur plaatsmaakt voor een diep, rond aroma.",
@@ -439,6 +440,7 @@ Object.assign(window.NL.recipes, {
   ingredients: [
     { item: "verse platte rijstnoedels (kway teow)", note: "op kamertemperatuur, slierten losgemaakt" },
     { item: "grote rauwe garnalen", note: "gepeld" },
+    { item: "gepelde bloedkokkels (see hum)", note: "traditioneel in Penang; optioneel als ze niet te krijgen zijn" },
     { item: "lap cheong (Chinese worst)", note: "schuin in dunne plakjes" },
     { item: "eieren" },
     { item: "taugé" },
@@ -457,7 +459,7 @@ Object.assign(window.NL.recipes, {
     "Voeg de helft van de garnalen toe en wokkel 45 seconden tot ze net roze zijn.",
     "Voeg de helft van de noedels toe, spreid ze tegen de wanden van de wok en laat ze 20 seconden schroeien voor je omschept. Giet de helft van het sojamengsel en de sambal langs de rand zodat het sist, en schep om tot elke sliert gekleurd is.",
     "Schuif de noedels opzij, breek er 2 eieren in, prik de dooiers door en laat ze half stollen voor je ze in rafelige, kanten flarden door de noedels vouwt.",
-    "Gooi de helft van de taugé en bieslook erbij, breng op smaak met witte peper en schep nog 30 seconden om — de taugé moet knapperig blijven. Direct op het bord.",
+    "Gooi de helft van de kokkels (indien gebruikt), taugé en bieslook erbij, breng op smaak met witte peper en schep nog 30 seconden om — de kokkels moeten nét gaar worden en de taugé knapperig blijven. Direct op het bord.",
     "Veeg de wok schoon, verhit opnieuw tot hij rookt en herhaal met de tweede portie. Serveer elk bord op het moment dat het de wok verlaat."
   ],
   wines: ["Umamirijke sake haakt in op de soja, reuzel en zoete schaaldieren, en zonder tannine vecht niets met de schroei.", "Zachte, lichtjes zoete bubbels snijden door de met reuzel doortrokken noedels en koelen de sambal."],

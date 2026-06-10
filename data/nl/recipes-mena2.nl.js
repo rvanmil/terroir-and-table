@@ -283,6 +283,7 @@ Object.assign(window.NL.recipes, {
     { item: "platte peterselie", note: "gehakt" },
     { item: "koriander", note: "gehakt" },
     { item: "dille", note: "gehakt" },
+    { item: "Perzische bieslook of het groen van bosui", note: "tareh, gehakt" },
     { item: "uien", note: "2 in dunne plakjes om te bakken, 1 gesnipperd" },
     { item: "tenen knoflook", note: "4 in plakjes, 2 gehakt" },
     { item: "gemalen kurkuma" },
@@ -295,7 +296,7 @@ Object.assign(window.NL.recipes, {
     "Bak de gesnipperde ui in 3 el olie in een grote pan goudbruin, voeg de gehakte knoflook en kurkuma een minuut toe en doe er dan de uitgelekte kikkererwten en bonen bij met 2 liter water. Laat afgedekt 1 uur sudderen.",
     "Voeg de linzen toe en laat nog 25 minuten sudderen, tot alle peulvruchten gaar zijn. Breng pas nu op smaak met zout, zodat de bonen niet taai worden.",
     "Maak intussen de garnituren: bak de gesneden uien langzaam in de rest van de olie diep bruin en krokant en schep ze eruit om uit te lekken; bak de plakjes knoflook in dezelfde olie lichtgoud; laat tot slot de gedroogde munt 30 seconden naast het vuur opbloeien in 3 el van de hete olie — hij verbrandt snel.",
-    "Roer de spinazie en alle verse kruiden door de pan en laat 15 minuten sudderen, tot de soep diepgroen kleurt en indikt.",
+    "Roer de spinazie, tareh en alle verse kruiden door de pan en laat 15 minuten sudderen, tot de soep diepgroen kleurt en indikt.",
     "Voeg de reshteh toe en kook 8–10 minuten; hun zoute zetmeel bindt de ash tot een lepeldikke consistentie. Verdun met heet water als hij te veel aantrekt.",
     "Roer twee derde van de kashk erdoor (eerst verdund met een beetje hete soep) en controleer de smaak. Schep in kommen en versier met slierten van de resterende kashk, de gebakken uien, knoflook en muntolie."
   ],

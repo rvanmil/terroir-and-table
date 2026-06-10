@@ -206,6 +206,7 @@ window.RECIPES.push(
     { qty: 4, unit: "", item: "carrots", note: "peeled, left whole" },
     { qty: 3, unit: "", item: "leeks", note: "trimmed and tied in a bundle" },
     { qty: 3, unit: "", item: "small turnips", note: "peeled and halved" },
+    { qty: 2, unit: "", item: "celery stalks", note: "halved crosswise" },
     { qty: 4, unit: "", item: "waxy potatoes", note: "peeled" },
     { qty: 1, unit: "", item: "bouquet garni", note: "thyme, bay, parsley stalks" },
     { qty: 1, unit: "tbsp", item: "coarse sea salt", note: "plus more to serve" },
@@ -215,7 +216,7 @@ window.RECIPES.push(
   steps: [
     "Put the shin, ribs and oxtail in your largest pot, cover with cold water and bring slowly to a simmer. Skim the grey foam diligently for the first 15 minutes — a clear broth depends on it.",
     "Add the clove-studded onion, bouquet garni, peppercorns and coarse salt. Simmer, uncovered and barely trembling, for 2½ hours, skimming fat occasionally. It must never boil.",
-    "Add the carrots, leeks and turnips and simmer for 40 minutes more.",
+    "Add the carrots, leeks, celery and turnips and simmer for 40 minutes more.",
     "Cook the potatoes separately in salted water (they would cloud the broth) until tender, about 20 minutes.",
     "Wrap the marrow bones loosely in muslin (so the marrow stays put) and lower them into the pot for the final 20 minutes.",
     "Lift out the meats and vegetables onto a warm platter, moisten with a ladle of broth and cover. Strain the rest of the broth and taste — season if needed.",
@@ -254,6 +255,7 @@ window.RECIPES.push(
     { qty: 3, unit: "tbsp", item: "dry white wine" },
     { qty: 1, unit: "", item: "shallot", note: "finely chopped" },
     { qty: 3, unit: "", item: "tarragon sprigs", note: "leaves chopped, stalks reserved" },
+    { qty: 1, unit: "tbsp", item: "chervil", note: "finely chopped" },
     { qty: 3, unit: "", item: "egg yolks" },
     { qty: 200, unit: "g", item: "butter", note: "clarified, warm" },
     { qty: null, unit: "", item: "sea salt and black pepper" }
@@ -262,7 +264,7 @@ window.RECIPES.push(
     "Cut the potatoes into 1 cm batons, rinse until the water runs clear and dry thoroughly. Fry in batches at 140°C for 6–7 minutes until tender but pale; drain and rest on a rack.",
     "For the béarnaise reduction, simmer the vinegar, wine, shallot, tarragon stalks and a few crushed peppercorns until 2 tablespoons remain. Strain and cool slightly.",
     "Whisk the yolks with the reduction in a bowl set over barely simmering water until pale, thick and ribbony — the whisk should leave trails. Never let it scramble; lift the bowl off if it heats too fast.",
-    "Off the heat, whisk in the warm clarified butter in a slow stream until thick and glossy. Stir in the chopped tarragon, season, and keep warm (not hot) near the stove.",
+    "Off the heat, whisk in the warm clarified butter in a slow stream until thick and glossy. Stir in the chopped tarragon and chervil, season, and keep warm (not hot) near the stove.",
     "Season the steaks heavily with salt. Sear in a smoking-hot heavy pan with the oil for 2–3 minutes per side for medium-rare (52–54°C in the centre), adding the butter at the end and basting. Rest for 5 minutes.",
     "Meanwhile raise the oil to 180°C and fry the chips a second time for 2–3 minutes until deep gold and crisp. Drain and salt immediately.",
     "Slice the steaks against the grain, pile the frites alongside and serve with a generous spoonful of béarnaise."
@@ -444,6 +446,7 @@ window.RECIPES.push(
     { qty: 12, unit: "", item: "small new potatoes" },
     { qty: 8, unit: "", item: "small shallots or pearl onions", note: "peeled" },
     { qty: 150, unit: "g", item: "fresh or frozen peas" },
+    { qty: 2, unit: "tbsp", item: "flat-leaf parsley", note: "chopped" },
     { qty: null, unit: "", item: "sea salt and black pepper" }
   ],
   steps: [

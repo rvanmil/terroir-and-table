@@ -122,6 +122,7 @@ window.RECIPES.push(
     { qty: 4, unit: "", item: "garlic cloves", note: "minced" },
     { qty: 1, unit: "tsp", item: "ground cumin" },
     { qty: 0.5, unit: "tsp", item: "Sichuan pepper or timur", note: "ground" },
+    { qty: 3, unit: "tbsp", item: "fresh coriander", note: "finely chopped" },
     { qty: 2, unit: "tbsp", item: "neutral oil" },
     { qty: 4, unit: "", item: "ripe tomatoes", note: "for the achar" },
     { qty: 2, unit: "tbsp", item: "white sesame seeds", note: "toasted" },
@@ -130,7 +131,7 @@ window.RECIPES.push(
   ],
   steps: [
     "Make the dough: mix the flour, a pinch of salt and about 150 ml water into a firm, smooth dough. Knead for 5 minutes, then rest under a damp cloth for 30 minutes.",
-    "Mix the chicken mince with the onion, spring onions, ginger, garlic, cumin, timur, oil and 1 teaspoon of salt. Beat the mixture with your hand for a minute until slightly sticky — this binds it so the filling stays juicy inside the wrapper.",
+    "Mix the chicken mince with the onion, spring onions, ginger, garlic, cumin, timur, fresh coriander, oil and 1 teaspoon of salt. Beat the mixture with your hand for a minute until slightly sticky — this binds it so the filling stays juicy inside the wrapper.",
     "For the achar, char the tomatoes and dried chillies in a dry pan (or under a 250°C grill) until blackened in patches. Blend with the toasted sesame seeds and salt to a loose, smoky sauce.",
     "Divide the dough into about 28 pieces and roll each into a 9 cm round, thinner at the edges than the centre so the pleated top is not doughy.",
     "Place a heaped teaspoon of filling in each round and pleat the edge with your thumb and forefinger, rotating as you go, closing the dumpling into a round purse with a twist at the top.",
@@ -166,6 +167,7 @@ window.RECIPES.push(
     { qty: 2, unit: "tbsp", item: "ginger-garlic paste" },
     { qty: 2, unit: "tbsp", item: "Kashmiri chilli powder" },
     { qty: 1, unit: "tbsp", item: "lemon juice" },
+    { qty: 1, unit: "tsp", item: "garam masala" },
     { qty: 1, unit: "kg", item: "ripe tomatoes", note: "roughly chopped" },
     { qty: 80, unit: "g", item: "butter" },
     { qty: 4, unit: "", item: "green cardamom pods" },
@@ -177,13 +179,13 @@ window.RECIPES.push(
     { qty: null, unit: "", item: "fine sea salt" }
   ],
   steps: [
-    "Marinate the chicken in the yogurt, half the ginger-garlic paste, half the chilli powder, the lemon juice and 1 teaspoon of salt for at least 4 hours.",
+    "Marinate the chicken in the yogurt, half the ginger-garlic paste, half the chilli powder, half the garam masala, the lemon juice and 1 teaspoon of salt for at least 4 hours.",
     "Make the makhani gravy: melt half the butter in a heavy pan, add the cardamom and cinnamon and let them sizzle for 30 seconds, then add the remaining ginger-garlic paste and fry until its raw smell goes.",
     "Add the tomatoes, cashews, remaining chilli powder and a teaspoon of salt. Simmer uncovered for 25–30 minutes until the tomatoes have completely collapsed and the fat shows at the edges.",
     "Fish out the cinnamon, then blend the sauce until completely smooth and pass it through a sieve back into the pan — the sieving is what gives makhani its signature silkiness.",
     "Meanwhile, heat the grill to its highest setting. Thread the chicken onto skewers or spread on a rack and grill for 10–12 minutes, turning once, until cooked through with charred edges; keep any resting juices.",
     "Bring the sieved gravy to a gentle simmer, add the chicken and its juices, the sugar and the remaining butter, and simmer for 5 minutes so the flavours marry.",
-    "Crush the kasuri methi between your palms into the pan, stir in most of the cream and check the balance — it should be tangy first, sweet second. Serve with a swirl of cream, alongside naan or basmati rice."
+    "Crush the kasuri methi between your palms into the pan, add the remaining garam masala, stir in most of the cream and check the balance — it should be tangy first, sweet second. Serve with a swirl of cream, alongside naan or basmati rice."
   ],
   wines: [
     { id: "sa-chenin", note: "South African Chenin’s baked-apple richness and bright acid match the creamy, tangy tomato gravy weight for weight." },
@@ -558,6 +560,7 @@ window.RECIPES.push(
     { qty: 2, unit: "", item: "sprigs fresh curry leaves" },
     { qty: 5, unit: "cm", item: "pandan leaf (rampe)", note: "optional but traditional" },
     { qty: 1, unit: "", item: "lemongrass stalk", note: "bruised" },
+    { qty: 1, unit: "", item: "cinnamon stick", note: "preferably Ceylon, 5 cm piece" },
     { qty: 400, unit: "ml", item: "coconut milk", note: "thick cream and thin milk separated if canned" },
     { qty: 1, unit: "tbsp", item: "lime juice", note: "or a piece of goraka" },
     { qty: null, unit: "", item: "fine sea salt" }
@@ -565,7 +568,7 @@ window.RECIPES.push(
   steps: [
     "Make the roasted curry powder: dry-roast the coriander, cumin, fennel and rice in a heavy pan over medium heat, stirring constantly, for 5–7 minutes until deep brown — darker than you dare, but not black. Cool and grind finely.",
     "Toss the chicken with the roasted powder, chilli powder and 1½ teaspoons of salt and let it sit for 15 minutes.",
-    "Heat the coconut oil in a heavy pot and temper the onion, garlic, ginger, curry leaves, pandan and lemongrass over medium heat for 5–6 minutes until the onion is golden and the kitchen smells unmistakably Sri Lankan.",
+    "Heat the coconut oil in a heavy pot and temper the onion, garlic, ginger, curry leaves, pandan, lemongrass and cinnamon over medium heat for 5–6 minutes until the onion is golden and the kitchen smells unmistakably Sri Lankan.",
     "Add the spiced chicken and turn it in the tempering for 5 minutes until the spices catch and toast on the meat.",
     "Pour in the thin coconut milk (or half the can plus 150 ml water), bring to a simmer, cover and cook gently for 35–40 minutes until the chicken is tender at the bone.",
     "Add the thick coconut cream and simmer uncovered for 8–10 minutes until the gravy is rich and slightly reduced — never boil hard after the cream goes in or it will split.",

@@ -612,6 +612,7 @@ window.RECIPES.push(
     { qty: 4, unit: "", item: "spring onions", note: "cut into 4 cm lengths" },
     { qty: 100, unit: "g", item: "fresh shiitake or oyster mushrooms", note: "sliced" },
     { qty: 1, unit: "tbsp", item: "toasted sesame seeds" },
+    { qty: 4, unit: "tbsp", item: "ssamjang", note: "Korean dipping paste, to serve" },
     { qty: null, unit: "", item: "black pepper, butterhead lettuce and steamed rice, to serve" }
   ],
   steps: [
@@ -620,7 +621,7 @@ window.RECIPES.push(
     "Bring the meat to room temperature for 20 minutes. Heat a large cast-iron pan or grill pan until properly smoking.",
     "Sear the beef in three or four batches in a single layer, 1–2 minutes per side, until the edges caramelise and char in spots. Crowding the pan stews the meat — resist.",
     "In the last batch, add the sliced onion, mushrooms and spring onions and toss until just softened and glossed in the pan juices.",
-    "Return everything to the pan briefly to mingle, scatter with sesame seeds and serve sizzling with lettuce leaves and rice for wrapping."
+    "Return everything to the pan briefly to mingle, scatter with sesame seeds and serve sizzling with lettuce leaves, rice and a bowl of ssamjang for wrapping."
   ],
   wines: [
     { id: "willamette-pinot", note: "Silky, red-fruited Pinot loves the sweet-soy caramel notes and won’t overpower the thin, tender beef." },

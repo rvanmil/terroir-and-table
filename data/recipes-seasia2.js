@@ -364,6 +364,7 @@ window.RECIPES.push(
     { qty: 200, unit: "g", item: "fresh pineapple", note: "cut into thin wedges" },
     { qty: 3, unit: "", item: "tomatoes", note: "cut into wedges" },
     { qty: 150, unit: "g", item: "okra", note: "sliced on the diagonal" },
+    { qty: 150, unit: "g", item: "elephant ear stems (bạc hà)", note: "peeled and sliced on the diagonal; or celery" },
     { qty: 100, unit: "g", item: "bean sprouts" },
     { qty: 3, unit: "tbsp", item: "fish sauce" },
     { qty: 2, unit: "tbsp", item: "sugar" },
@@ -377,7 +378,7 @@ window.RECIPES.push(
     "Fry the sliced garlic gently in the oil until pale gold and crisp, 2–3 minutes; lift out onto paper and reserve both garlic and oil.",
     "Bring the water or stock to a simmer with the tamarind liquid, sugar and fish sauce.",
     "Add the fish and poach at a bare simmer for 5–6 minutes; gentle heat keeps it intact and silky.",
-    "Add the pineapple, tomatoes and okra and simmer 4–5 minutes until the okra is tender-crisp and the tomatoes just slumped.",
+    "Add the pineapple, tomatoes, okra and elephant ear stems and simmer 4–5 minutes until the okra is tender-crisp, the stems still spongy, and the tomatoes just slumped.",
     "Taste and balance: the broth should be brightly sour, then sweet, then savoury. Adjust with tamarind, sugar or fish sauce.",
     "Stir in the bean sprouts and immediately remove from the heat so they keep their snap.",
     "Serve scattered with rice paddy herb, sliced chili, the crispy garlic and a drizzle of its oil."
@@ -411,6 +412,8 @@ window.RECIPES.push(
     { qty: 4, unit: "", item: "garlic cloves" },
     { qty: 3, unit: "", item: "long red chilies", note: "plus extra to serve" },
     { qty: 1, unit: "tsp", item: "shrimp paste (terasi)", note: "toasted" },
+    { qty: 1, unit: "tsp", item: "ground coriander (ketumbar)" },
+    { qty: 1, unit: "tsp", item: "ground galangal (laos)", note: "or 2 cm fresh galangal, finely grated" },
     { qty: 4, unit: "tbsp", item: "kecap manis" },
     { qty: 1, unit: "tbsp", item: "light soy sauce" },
     { qty: 200, unit: "g", item: "chicken thigh", note: "diced small; optional but traditional" },
@@ -422,7 +425,7 @@ window.RECIPES.push(
     { qty: 3, unit: "", item: "spring onions", note: "sliced" }
   ],
   steps: [
-    "Pound or blitz the shallots, garlic, chilies and toasted shrimp paste into a rough spice paste (bumbu).",
+    "Pound or blitz the shallots, garlic, chilies, toasted shrimp paste, ground coriander and galangal into a rough spice paste (bumbu).",
     "Heat 2 tablespoons of oil in a wok until smoking and fry the eggs one at a time, spooning hot oil over them until the edges are brown and crackly and the yolks still soft. Keep warm.",
     "Add another 2 tablespoons of oil and fry the spice paste over medium-high heat for 2–3 minutes, stirring, until it darkens and the raw shallot smell turns sweet.",
     "Raise the heat to maximum, add the chicken and stir-fry 2–3 minutes until cooked through and catching at the edges.",

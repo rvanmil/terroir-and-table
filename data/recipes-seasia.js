@@ -116,6 +116,7 @@ window.RECIPES.push(
     { qty: 3, unit: "", item: "shallots", note: "sliced" },
     { qty: 2, unit: "", item: "lemongrass stalks", note: "tender core only, finely sliced" },
     { qty: 20, unit: "g", item: "galangal", note: "chopped" },
+    { qty: 1, unit: "tsp", item: "makrut lime zest", note: "finely grated" },
     { qty: 1, unit: "tsp", item: "shrimp paste (kapi)" },
     { qty: 1, unit: "tsp", item: "ground coriander seed and white pepper", note: "toasted" },
     { qty: 1, unit: "tbsp", item: "coriander roots or stems", note: "chopped" },
@@ -129,7 +130,7 @@ window.RECIPES.push(
     { qty: 400, unit: "g", item: "jasmine rice", note: "to serve" }
   ],
   steps: [
-    "Make the paste: pound the chilies with a pinch of salt in a granite mortar until pulpy, then add lemongrass, galangal and coriander root and pound to a fibreless mash — this takes 15–20 patient minutes.",
+    "Make the paste: pound the chilies with a pinch of salt in a granite mortar until pulpy, then add lemongrass, galangal, makrut lime zest and coriander root and pound to a fibreless mash — this takes 15–20 patient minutes.",
     "Work in the garlic, shallots, toasted spices and shrimp paste, pounding until you have a smooth, intensely fragrant green paste.",
     "Spoon the thick coconut cream from the top of the can into a wok and cook over medium heat, stirring, for 5–8 minutes until it splits and the oil glistens at the edges — this 'cracking' is what fries the paste properly.",
     "Add the curry paste and fry in the cracked cream for 4–5 minutes, stirring constantly, until it darkens slightly and the raw shallot smell gives way to a deep, rounded fragrance.",
@@ -646,6 +647,7 @@ window.RECIPES.push(
   ingredients: [
     { qty: 800, unit: "g", item: "fresh flat rice noodles (kway teow)", note: "at room temperature, strands separated" },
     { qty: 300, unit: "g", item: "large raw prawns", note: "peeled" },
+    { qty: 150, unit: "g", item: "shelled blood cockles (see hum)", note: "traditional in Penang; optional if unavailable" },
     { qty: 2, unit: "", item: "lap cheong (Chinese sausage)", note: "thinly sliced on the bias" },
     { qty: 4, unit: "", item: "eggs" },
     { qty: 200, unit: "g", item: "bean sprouts" },
@@ -664,7 +666,7 @@ window.RECIPES.push(
     "Add half the prawns and toss for 45 seconds until just pink.",
     "Add half the noodles, spread them up the wok's sides, and leave for 20 seconds to scorch before tossing. Pour half the soy mixture and the sambal around the rim so it sizzles, and toss to stain every strand.",
     "Push the noodles aside, crack in 2 eggs, break the yolks and let them set halfway before folding through the noodles in ragged, lacy pieces.",
-    "Throw in half the bean sprouts and chives, season with white pepper, and toss for a final 30 seconds — the sprouts should stay crunchy. Plate immediately.",
+    "Throw in half the cockles (if using), bean sprouts and chives, season with white pepper, and toss for a final 30 seconds — the cockles should barely cook through and the sprouts stay crunchy. Plate immediately.",
     "Wipe the wok, reheat to smoking and repeat with the second batch. Serve each plate the moment it leaves the wok."
   ],
   wines: [

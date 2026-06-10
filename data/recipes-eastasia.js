@@ -28,6 +28,7 @@ window.RECIPES.push(
     { qty: 20, unit: "g", item: "fresh ginger", note: "finely grated" },
     { qty: 2, unit: "tbsp", item: "light soy sauce" },
     { qty: 1, unit: "tbsp", item: "Shaoxing wine" },
+    { qty: 0.5, unit: "tsp", item: "ground white pepper" },
     { qty: 1, unit: "tbsp", item: "toasted sesame oil" },
     { qty: 4, unit: "tbsp", item: "Chinkiang black vinegar", note: "for dipping" },
     { qty: 2, unit: "tbsp", item: "chili oil", note: "for dipping, optional" }
@@ -35,7 +36,7 @@ window.RECIPES.push(
   steps: [
     "Mix the flour and water into a shaggy mass, then knead 8–10 minutes until smooth and firm. Cover and rest 30 minutes — the dough should feel like an earlobe when pressed.",
     "Toss the chopped cabbage with the salt and leave 15 minutes, then squeeze hard in handfuls to wring out as much water as possible.",
-    "Beat the pork with the soy sauce, Shaoxing wine, ginger, spring onions, sesame oil and 3 tablespoons of cold water, stirring in one direction until sticky and bouncy. Fold in the squeezed cabbage.",
+    "Beat the pork with the soy sauce, Shaoxing wine, white pepper, ginger, spring onions, sesame oil and 3 tablespoons of cold water, stirring in one direction until sticky and bouncy. Fold in the squeezed cabbage.",
     "Roll the dough into two ropes and cut into roughly 36 walnut-sized pieces. Roll each into a 9 cm disc, thinner at the edge than the centre, dusting lightly as you go.",
     "Place a heaped teaspoon of filling in each wrapper, fold in half and pleat one edge against the other, pressing firmly to seal. Keep finished dumplings on a floured tray, not touching.",
     "Boil a large pot of water. Add half the dumplings, stir gently so they do not stick, and return to the boil. Add a cup of cold water; when it boils again, add another. When the dumplings float fat and glossy after the third boil, they are done.",
@@ -418,6 +419,7 @@ window.RECIPES.push(
   ingredients: [
     { qty: 200, unit: "g", item: "plain flour" },
     { qty: 240, unit: "ml", item: "dashi", note: "cooled, or water with 1 tsp dashi powder" },
+    { qty: 100, unit: "g", item: "nagaimo (Japanese mountain yam)", note: "peeled and finely grated" },
     { qty: 4, unit: "", item: "eggs" },
     { qty: 450, unit: "g", item: "white or sweetheart cabbage", note: "finely chopped, not shredded long" },
     { qty: 4, unit: "", item: "spring onions", note: "sliced" },
@@ -430,7 +432,7 @@ window.RECIPES.push(
     { qty: 2, unit: "tbsp", item: "aonori (dried green seaweed flakes)" }
   ],
   steps: [
-    "Whisk the flour and cooled dashi into a smooth batter and rest it in the fridge while you prep — a brief rest makes a more tender pancake.",
+    "Whisk the flour, cooled dashi and grated nagaimo into a smooth batter and rest it in the fridge while you prep — the slippery yam is the secret to a fluffy okonomiyaki, and a brief rest makes a more tender pancake.",
     "Just before cooking, add the eggs to the batter and mix lightly, then fold in the cabbage, spring onions and beni shoga. The mixture should look like dressed cabbage barely held together, not pancake batter with cabbage in it.",
     "Heat half the oil in a large frying pan over medium heat. Pile in half the mixture and shape into a round about 2.5 cm thick — do not press it down.",
     "Lay half the pork belly slices over the top. Cook 5 minutes until the underside is deeply golden.",

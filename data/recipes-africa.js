@@ -581,15 +581,16 @@ window.RECIPES.push(
     { qty: 1, unit: "", item: "scotch bonnet chili", note: "minced, plus pepper sauce to serve" },
     { qty: 500, unit: "ml", item: "vegetable oil", note: "for frying" },
     { qty: 2, unit: "tbsp", item: "tamarind sauce or chutney", note: "to serve" },
+    { qty: 0.5, unit: "", item: "cucumber", note: "coarsely grated, squeezed dry and seasoned, to serve" },
     { qty: null, unit: "", item: "sea salt" }
   ],
   steps: [
     "Make the bara dough: mix the flour, yeast, turmeric, sugar and 1 teaspoon salt, then work in enough warm water to form a soft, slightly sticky dough. Knead briefly, cover, and prove for 1 hour until puffy.",
     "For the channa, heat 2 tablespoons of oil and fry the onion for 5 minutes; add the garlic, scotch bonnet, curry powder and cumin slaked in a splash of water, and fry for 2 minutes until the curry 'breaks' and smells toasted.",
-    "Add the chickpeas and enough water to barely cover. Simmer for 20–25 minutes, mashing a few against the pot, until the sauce is thick and the chickpeas very tender. Season and keep warm.",
+    "Add the chickpeas and enough water to barely cover. Simmer for 20–25 minutes, mashing a few against the pot, until the sauce is thick and the chickpeas very tender. Season and keep warm. Meanwhile, coarsely grate the cucumber, squeeze it dry and season with a pinch of salt.",
     "Heat the frying oil to 180°C. With oiled hands, pinch off golf-ball pieces of dough and flatten each into a thin 10 cm disc.",
     "Fry the bara one or two at a time for 30–40 seconds per side — they should puff and stay pale gold and soft, not crisp. Drain on kitchen paper.",
-    "Assemble immediately: overlap two bara, spoon on hot channa, and top with tamarind sauce and pepper sauce to taste.",
+    "Assemble immediately: overlap two bara, spoon on hot channa, and top with the cucumber, tamarind sauce and pepper sauce to taste.",
     "Serve straight away, folded in paper if you want the authentic experience — doubles wait for no one."
   ],
   wines: [

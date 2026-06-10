@@ -118,6 +118,7 @@ Object.assign(window.NL.recipes, {
     { item: "dikke sneden stokbrood of landbrood" },
     { item: "teen knoflook", note: "gehalveerd" },
     { item: "wittewijnazijn", note: "om te pocheren" },
+    { item: "platte peterselie", note: "gehakt, om af te maken" },
     { item: "zeezout en zwarte peper" }
   ],
   steps: [
@@ -127,7 +128,7 @@ Object.assign(window.NL.recipes, {
     "Rooster het brood goudbruin, wrijf elke snee in met de gehalveerde knoflookteen en leg er een in elke warme diepe kom.",
     "Breng een ruime pan water met de azijn tot net tegen de kook aan — geen zichtbare bellen. Breek elk ei in een kopje en laat het voorzichtig in het water glijden.",
     "Pocheer de eieren circa 3 minuten, tot het eiwit gestold is maar de dooiers nog wiebelen als een zacht kussen. Schep ze eruit met een schuimspaan en laat even uitlekken op keukenpapier.",
-    "Leg twee eieren op elke crouton, schep de hete saus met het garnituur royaal erover en eromheen, en maak af met zwarte peper en gehakte peterselie. Serveer meteen, met dooiers die zo de saus in lopen."
+    "Leg twee eieren op elke crouton, schep de hete saus met het garnituur royaal erover en eromheen, en maak af met zwarte peper en de gehakte peterselie. Serveer meteen, met dooiers die zo de saus in lopen."
   ],
   wines: [
     "Knapperige, sappige gamay heeft de zuren om de wijnsaus aan te kunnen en blijft licht genoeg voor eieren.",
@@ -349,6 +350,7 @@ Object.assign(window.NL.recipes, {
     { item: "dragon", note: "gehakt" },
     { item: "gruyère", note: "fijngeraspt" },
     { item: "eidooier" },
+    { item: "citroen", note: "in partjes, om erbij te serveren" },
     { item: "zeezout, witte peper en cayennepeper" }
   ],
   steps: [
@@ -358,7 +360,7 @@ Object.assign(window.NL.recipes, {
     "Roer de room, mosterd en dragon erdoor en laat 5–6 minuten zachtjes koken tot de saus dik aan een lepel blijft hangen. Breng op smaak met zout, witte peper en een snufje cayennepeper.",
     "Klop van het vuur af de eidooier en de helft van de gruyère erdoor; de saus moet glanzen en uitgesproken mosterdig zijn. Schep het kreeftenvlees er voorzichtig door.",
     "Verwarm de grill op de hoogste stand. Schep het mengsel terug in de schalen en bestrooi met de resterende gruyère.",
-    "Gratineer 4–5 minuten, tot het oppervlak goudbruin geblakerd is en aan de randen borrelt. Serveer direct met citroen, een groene salade en brood — of, traditioneel, dunne frites."
+    "Gratineer 4–5 minuten, tot het oppervlak goudbruin geblakerd is en aan de randen borrelt. Serveer direct met de partjes citroen, een groene salade en brood — of, traditioneel, dunne frites."
   ],
   wines: [
     "Weelderige chardonnay met een randje hazelnoot evenaart het gewicht van de gratin — witte bourgogne is geboren voor thermidor.",

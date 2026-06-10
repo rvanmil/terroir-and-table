@@ -391,6 +391,7 @@ window.RECIPES.push(
     { qty: 60, unit: "g", item: "flat-leaf parsley", note: "chopped" },
     { qty: 60, unit: "g", item: "coriander", note: "chopped" },
     { qty: 30, unit: "g", item: "dill", note: "chopped" },
+    { qty: 60, unit: "g", item: "Persian chives or spring onion greens", note: "tareh, chopped" },
     { qty: 3, unit: "", item: "onions", note: "2 thinly sliced for frying, 1 diced" },
     { qty: 6, unit: "", item: "garlic cloves", note: "4 sliced, 2 chopped" },
     { qty: 1, unit: "tsp", item: "ground turmeric" },
@@ -403,7 +404,7 @@ window.RECIPES.push(
     "Fry the diced onion in 3 tbsp oil in a large pot until golden, add the chopped garlic and turmeric for a minute, then add the drained chickpeas and beans with 2 litres of water. Simmer, covered, for 1 hour.",
     "Add the lentils and simmer 25 minutes more, until all the pulses are tender. Season with salt only now, so the beans don’t toughen.",
     "Meanwhile make the garnishes: fry the sliced onions slowly in the remaining oil until deeply browned and crisp, lifting them out to drain; fry the sliced garlic in the same oil until pale gold; finally bloom the dried mint in 3 tbsp of the hot oil off the heat for 30 seconds — it burns fast.",
-    "Stir the spinach and all the fresh herbs into the pot and simmer for 15 minutes, until the soup turns deep green and thickens.",
+    "Stir the spinach, tareh and all the fresh herbs into the pot and simmer for 15 minutes, until the soup turns deep green and thickens.",
     "Add the reshteh and cook for 8–10 minutes; their salty starch will thicken the ash to a spoon-coating body. Loosen with hot water if it tightens too much.",
     "Stir in two-thirds of the kashk (thinned with a little hot soup first) and check the seasoning. Ladle into bowls and decorate with trails of the remaining kashk, the fried onions, garlic and mint oil."
   ],

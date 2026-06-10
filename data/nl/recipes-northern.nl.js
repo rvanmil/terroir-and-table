@@ -356,10 +356,11 @@ Object.assign(window.NL.recipes, {
     { item: "neutrale olie" },
     { item: "gemalen kaneel" },
     { item: "geraspte nootmuskaat" },
+    { item: "zwarte peperkorrels", note: "grof gemalen" },
     { item: "zout" }
   ],
   steps: [
-    "Blits alles behalve de kip tot een grove, natte pasta. Proef met beleid — hij hoort agressief gekruid, heet en aromatisch te zijn, want hij moet veel vlees op smaak brengen.",
+    "Blits alles behalve de kip tot een grove, natte pasta. Proef met beleid — hij hoort agressief gekruid te zijn, heet van de scotch bonnet en zwarte peper, en aromatisch, want hij moet veel vlees op smaak brengen.",
     "Masseer de marinade diep in de kip en in de insnijdingen. Dek af en zet een nacht in de koelkast, of 24 uur voor het echte werk.",
     "Maak een grill klaar voor indirecte hitte op zo’n 160°C en voeg geweekte pimentbessen of houtsnippers toe aan de kolen voor rook. (Ovenmethode: 160°C hetelucht met tot slot een vlaag onder de grill.)",
     "Leg de kip met het vel naar boven, weg van het directe vuur, dek af en gaar laag en langzaam in 50–60 minuten; keer halverwege en bestrijk met overgebleven marinade (stop met bestrijken in de laatste 15 minuten).",

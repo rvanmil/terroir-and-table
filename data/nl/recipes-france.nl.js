@@ -242,6 +242,7 @@ Object.assign(window.NL.recipes, {
     { item: "gekonfijte eendenbouten" },
     { item: "Toulouse-worstjes" },
     { item: "buikspek", note: "in 4 dikke stukken gesneden" },
+    { item: "vers varkenszwoerd (couenne)", note: "in brede repen gesneden" },
     { item: "ui", note: "gesnipperd" },
     { item: "wortels", note: "in plakjes" },
     { item: "tenen knoflook", note: "geplet" },
@@ -254,8 +255,8 @@ Object.assign(window.NL.recipes, {
   steps: [
     "Giet de geweekte bonen af, zet ze onder met vers water, kook 5 minuten en giet opnieuw af.",
     "Bak in een brede braadpan het buikspek bruin in een lepel eendenvet, daarna de worstjes, tot ze mooi gekleurd zijn; zet apart. Laat de ui, wortels en knoflook 8 minuten zacht worden in hetzelfde vet.",
-    "Roer de tomatenpuree erdoor en voeg dan de bonen, het bouquet garni en genoeg bouillon toe om alles 2 cm onder te zetten. Laat ongeveer 1 uur zachtjes sudderen tot de bonen gaar maar heel zijn. Breng royaal op smaak — bonen drinken zout.",
-    "Verwarm de oven voor op 150°C. Schik in een diepe aardewerken schaal of de braadpan de bonen in lagen met het buikspek, de worstjes en de gekonfijte eendenbouten ertussen genesteld, met het vel naar boven. Schenk kookvocht erbij tot net onder het oppervlak.",
+    "Roer de tomatenpuree erdoor en voeg dan de bonen, het zwoerd, het bouquet garni en genoeg bouillon toe om alles 2 cm onder te zetten. Laat ongeveer 1 uur zachtjes sudderen tot de bonen gaar maar heel zijn. Breng royaal op smaak — bonen drinken zout.",
+    "Verwarm de oven voor op 150°C. Bekleed de bodem van een diepe aardewerken schaal of de braadpan met het zacht geworden zwoerd, vetkant naar beneden, en schik daarop de bonen in lagen met het buikspek, de worstjes en de gekonfijte eendenbouten ertussen genesteld, met het vel naar boven. Schenk kookvocht erbij tot net onder het oppervlak.",
     "Bak onafgedekt 2½–3 uur. Zodra zich een kastanjebruine korst vormt, breek je die voorzichtig en bedruip je met het vocht eronder — de traditie eist dat je dit meerdere keren doet.",
     "Ziet de cassoulet er droog uit, laat dan hete bouillon langs de rand naar binnen lopen; de bonen moeten onder de korst romig blijven.",
     "Laat 15 minuten rusten en serveer rechtstreeks uit de pot met niets meer dan een frisse groene salade."

@@ -627,6 +627,7 @@ window.RECIPES.push(
     { qty: 400, unit: "g", item: "beetroot", note: "scrubbed" },
     { qty: 200, unit: "g", item: "walnut halves" },
     { qty: 3, unit: "", item: "garlic cloves" },
+    { qty: 1, unit: "", item: "small onion", note: "roughly chopped" },
     { qty: 1, unit: "tsp", item: "ground coriander" },
     { qty: 1, unit: "tsp", item: "blue fenugreek (utskho suneli)", note: "or half the amount of ground fenugreek" },
     { qty: 0.25, unit: "tsp", item: "cayenne pepper" },
@@ -637,7 +638,7 @@ window.RECIPES.push(
   ],
   steps: [
     "Boil or steam the beetroot for 35–45 minutes until a knife meets no resistance; cool and peel. Meanwhile, blanch the spinach in boiling water for 1 minute, refresh in cold water and squeeze absolutely dry in a clean towel — wet greens make weeping pkhali.",
-    "Toast the walnuts in a dry pan for 4–5 minutes until fragrant, then blitz with the garlic, ground coriander, blue fenugreek, cayenne and a teaspoon of salt to a fine, oily paste.",
+    "Toast the walnuts in a dry pan for 4–5 minutes until fragrant, then blitz with the garlic, onion, ground coriander, blue fenugreek, cayenne and a teaspoon of salt to a fine, oily paste.",
     "Divide the walnut paste in two. Finely chop the squeezed spinach and beat half the paste into it with half the vinegar and half the fresh coriander.",
     "Grate or finely chop the beetroot, squeeze out excess juice, and mix with the remaining paste, vinegar and coriander.",
     "Taste both mixtures: each should be nutty, garlicky and noticeably sharp. Adjust salt and vinegar — the vinegar carries the dish.",

@@ -209,6 +209,7 @@ window.RECIPES.push(
     { qty: 100, unit: "g", item: "kokutō (Japanese black sugar)", note: "or dark muscovado" },
     { qty: 50, unit: "ml", item: "water", note: "for the kuromitsu" },
     { qty: 200, unit: "g", item: "tsubuan (chunky sweet red bean paste)" },
+    { qty: 60, unit: "g", item: "cooked akaendō (red endō peas)", note: "lightly salted; from Japanese grocers" },
     { qty: 100, unit: "g", item: "shiratamako (glutinous rice flour)" },
     { qty: 90, unit: "ml", item: "water", note: "for the dumplings, approximately" },
     { qty: 1, unit: "", item: "orange or 2 satsumas", note: "in segments" },
@@ -221,7 +222,7 @@ window.RECIPES.push(
     "Make the shiratama: knead the glutinous rice flour with just enough water to form a dough the softness of an earlobe. Roll into 16 small balls and press a slight dimple in each.",
     "Boil the dumplings until they float, then 1 minute more; scoop into iced water to chill and firm.",
     "Cut the set kanten into 1.5 cm cubes — it should snap cleanly, with a delicate, brittle bite quite unlike gelatine.",
-    "Assemble in four glass bowls: a base of kanten cubes, then fruit, four shiratama each and a generous quenelle of tsubuan in the centre.",
+    "Assemble in four glass bowls: a base of kanten cubes, then fruit, a scattering of the salted akaendō peas, four shiratama each and a generous quenelle of tsubuan in the centre.",
     "Serve chilled, pouring the kuromitsu over at the table so every layer gets a smoky-sweet gloss."
   ],
   wines: [
@@ -684,16 +685,18 @@ window.RECIPES.push(
     { qty: 0.5, unit: "", item: "cucumber", note: "in matchsticks" },
     { qty: 1, unit: "", item: "large handful mixed herbs", note: "mint, coriander and Thai basil or perilla" },
     { qty: 4, unit: "", item: "lettuce leaves", note: "shredded" },
+    { qty: 2, unit: "", item: "scallions", note: "finely sliced, for the mỡ hành (scallion oil)" },
+    { qty: 3, unit: "tbsp", item: "neutral oil", note: "for the mỡ hành" },
     { qty: 3, unit: "tbsp", item: "roasted peanuts", note: "crushed" }
   ],
   steps: [
     "Marinate the pork with the lemongrass, garlic, shallot, 2 tablespoons fish sauce, 25 g sugar and the oil for at least 2 hours in the fridge.",
     "Quick-pickle the carrot and daikon in 3 tablespoons vinegar, 2 teaspoons sugar and a pinch of salt; set aside at least 30 minutes.",
     "Make the nước chấm: dissolve 20 g sugar in 60 ml warm water, then add 1 tablespoon fish sauce (more to taste), the lime juice, chopped chilli and minced garlic. It should hit sweet, sour, salty and hot in balance.",
-    "Cook the vermicelli per the packet, rinse well under cold water and drain thoroughly — the noodles are served at room temperature.",
+    "Cook the vermicelli per the packet, rinse well under cold water and drain thoroughly — the noodles are served at room temperature. While they drain, make the mỡ hành: heat 3 tablespoons of oil until shimmering and pour it over the sliced scallions with a pinch of salt.",
     "Grill the pork over hot charcoal or in a smoking-hot grill pan in a single layer, 2–3 minutes per side, until charred at the edges and caramelised from the sugar. Work in batches.",
     "Build the bowls: lettuce and herbs at the base, a nest of vermicelli, the grilled pork hot off the fire, then pickles and cucumber arranged around.",
-    "Shower with crushed peanuts, pour over a few spoonfuls of nước chấm and serve the rest alongside — everything gets tossed together before eating."
+    "Spoon the mỡ hành over the noodles and pork, shower with crushed peanuts, pour over a few spoonfuls of nước chấm and serve the rest alongside — everything gets tossed together before eating."
   ],
   wines: [
     { id: "provence-rose", note: "Pale, dry and cool, it bridges the smoky charred pork and the raw herbs without weighing the bowl down." },

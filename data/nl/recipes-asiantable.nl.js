@@ -149,6 +149,7 @@ Object.assign(window.NL.recipes, {
     { item: "kokutō (Japanse zwarte suiker)", note: "of donkere muscovadosuiker" },
     { item: "water", note: "voor de kuromitsu" },
     { item: "tsubuan (grove zoete rodebonenpasta)" },
+    { item: "gekookte akaendō (rode endō-erwten)", note: "licht gezouten; bij de Japanse toko" },
     { item: "shiratamako (kleefrijstmeel)" },
     { item: "water", note: "voor de balletjes, bij benadering" },
     { item: "sinaasappel of 2 mandarijnen", note: "in partjes" },
@@ -161,7 +162,7 @@ Object.assign(window.NL.recipes, {
     "Maak de shiratama: kneed het kleefrijstmeel met net genoeg water tot een deeg zo zacht als een oorlel. Rol er 16 kleine balletjes van en druk in elk een klein kuiltje.",
     "Kook de balletjes tot ze bovendrijven en dan nog 1 minuut; schep ze in ijswater om af te koelen en op te stijven.",
     "Snijd de opgesteven kanten in blokjes van 1,5 cm — hij hoort strak te breken, met een delicate, brosse beet die totaal anders is dan gelatine.",
-    "Bouw op in vier glazen kommen: een bodem van kantenblokjes, dan fruit, vier shiratama per kom en een royale quenelle tsubuan in het midden.",
+    "Bouw op in vier glazen kommen: een bodem van kantenblokjes, dan fruit, een strooisel van de gezouten akaendō-erwten, vier shiratama per kom en een royale quenelle tsubuan in het midden.",
     "Serveer gekoeld en schenk de kuromitsu aan tafel erover, zodat elke laag een rokerig-zoete glans krijgt."
   ],
   wines: [
@@ -504,16 +505,18 @@ Object.assign(window.NL.recipes, {
     { item: "komkommer", note: "in luciferreepjes" },
     { item: "grote handvol gemengde kruiden", note: "munt, koriander en Thaise basilicum of perilla" },
     { item: "slabladeren", note: "in reepjes" },
+    { item: "bosuien", note: "in dunne ringetjes, voor de mỡ hành (bosui-olie)" },
+    { item: "neutrale olie", note: "voor de mỡ hành" },
     { item: "geroosterde pinda’s", note: "gecrusht" }
   ],
   steps: [
     "Marineer het varkensvlees minimaal 2 uur in de koelkast met het citroengras, de knoflook, sjalot, 2 eetlepels vissaus, 25 g suiker en de olie.",
     "Leg de wortel en rettich snel in met 3 eetlepels azijn, 2 theelepels suiker en een snufje zout; zet minimaal 30 minuten apart.",
     "Maak de nước chấm: los 20 g suiker op in 60 ml warm water en voeg dan 1 eetlepel vissaus (meer naar smaak), het limoensap, de gehakte peper en de fijngehakte knoflook toe. Hij hoort zoet, zuur, zout en pittig in balans te raken.",
-    "Kook de vermicelli volgens de verpakking, spoel goed af onder koud water en laat grondig uitlekken — de noedels worden op kamertemperatuur geserveerd.",
+    "Kook de vermicelli volgens de verpakking, spoel goed af onder koud water en laat grondig uitlekken — de noedels worden op kamertemperatuur geserveerd. Maak intussen de mỡ hành: verhit 3 eetlepels olie tot hij glinstert en schenk hem met een snufje zout over de bosuiringetjes.",
     "Gril het vlees in één laag boven hete houtskool of in een gloeiendhete grillpan, 2–3 minuten per kant, tot het door de suiker gekaramelliseerd is en geblakerde randjes heeft. Werk in porties.",
     "Bouw de kommen op: sla en kruiden onderin, een nest vermicelli, het gegrilde vlees heet van het vuur, en daaromheen de pickles en komkommer.",
-    "Bestrooi rijkelijk met gecrushte pinda’s, schenk er een paar lepels nước chấm over en serveer de rest erbij — alles wordt vóór het eten door elkaar geschept."
+    "Lepel de mỡ hành over de noedels en het vlees, bestrooi rijkelijk met gecrushte pinda’s, schenk er een paar lepels nước chấm over en serveer de rest erbij — alles wordt vóór het eten door elkaar geschept."
   ],
   wines: [
     "Bleek, droog en koel slaat hij een brug tussen het rokerig geblakerde vlees en de rauwe kruiden zonder de kom te verzwaren.",
