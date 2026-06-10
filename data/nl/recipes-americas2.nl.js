@@ -28,7 +28,7 @@ Object.assign(window.NL.recipes, {
     "Bak de koekjes 4 tegelijk, circa 4 minuten per kant, en keer ze één keer met een dunne spatel, tot ze diep goudbruin zijn en heet vanbinnen.",
     "Laat ze kort uitlekken op keukenpapier, bestrooi licht met zout en serveer direct met citroenparten."
   ],
-  wines: ["Geroosterde bubbels houden van het gebakken korstje en tillen de zoete krab op zonder hem te overstemmen.", "Perzikachtige Atlantische Albariño is geboren voor zoet schaaldiervlees en een kneepje citroen."],
+  wines: ["Geroosterde bubbels houden van het gebakken korstje en tillen de zoete krab op zonder hem te overstemmen.", "Perzikachtige Atlantische albariño is geboren voor zoet schaaldiervlees en een kneepje citroen."],
   tip: "Koop gekoeld gepasteuriseerd jumbo lump krabvlees in plaats van houdbaar vlees uit blik — het verschil in textuur ís het gerecht. Het koelen is niet optioneel als je wilt dat de koekjes heel blijven."
 },
 "am-shrimp-and-grits": {
@@ -93,7 +93,7 @@ Object.assign(window.NL.recipes, {
     "Klop de masa harina los met een soeplepel kookvocht, roer het mengsel terug in de pan en laat 10 minuten sudderen tot de saus fluweelzacht bindt.",
     "Maak af met de azijn en zout naar smaak — het moet eerst naar rundvlees en chilipepers smaken, daarna pas naar pittigheid. Laat 15 minuten rusten en serveer met saltines, rauwe ui of warme tortilla’s."
   ],
-  wines: ["Braamachtige, peperige Zinfandel is het klassieke Amerikaanse antwoord op met chili ingewreven rundvlees — uitbundig fruit, zachte tannine.", "Een diepe, gastronomische rosé, koel geserveerd, die verfrist tegen de langzame gloed zonder ertegen te vechten."],
+  wines: ["Braamachtige, peperige zinfandel is het klassieke Amerikaanse antwoord op met chili ingewreven rundvlees — uitbundig fruit, zachte tannine.", "Een diepe, gastronomische rosé, koel geserveerd, die verfrist tegen de langzame gloed zonder ertegen te vechten."],
   tip: "Maak hem een dag van tevoren — zoals alle chilistoofpotten is hij na een nacht in de koelkast aantoonbaar beter. Weersta de drang om tomaten of bonen toe te voegen als je hem Texas-proof wilt houden."
 },
 "am-skillet-cornbread": {
@@ -120,7 +120,7 @@ Object.assign(window.NL.recipes, {
     "Bak 20–25 minuten tot de bovenkant goudbruin is, de randen loslaten en een satéprikker er schoon uitkomt.",
     "Stort het brood met de korst naar boven op een plank, laat 5 minuten rusten en serveer warm in punten met boter."
   ],
-  wines: ["Een Zuid-Afrikaanse Chenin met textuur en zijn rondeur van gebakken appel vleit geroosterde maïs en boter.", "Hartige, gistige bubbels snijden door de rijkdom van het boterige kruim en de knapperige korst."],
+  wines: ["Een Zuid-Afrikaanse chenin met textuur en zijn rondeur van gebakken appel vleit geroosterde maïs en boter.", "Hartige, gistige bubbels snijden door de rijkdom van het boterige kruim en de knapperige korst."],
   tip: "Kun je geen karnemelk vinden, verzuur dan 400 ml melk met een eetlepel citroensap en laat 10 minuten staan — het zuur is nodig om het zuiveringszout te activeren en het kruim mals te maken."
 },
 "am-tourtiere-quebec": {
@@ -152,7 +152,7 @@ Object.assign(window.NL.recipes, {
     "Bak 45–50 minuten tot het deeg diep goudbruin is en de vulling bij de gaatjes borrelt. Wordt de rand te snel donker, dek hem dan af met folie.",
     "Laat 15 minuten rusten voor het aansnijden; serveer traditioneel met ketchup aux fruits, chutney of ingelegde bietjes."
   ],
-  wines: ["Donkere, gestructureerde Malbec uit het oude Frankrijk weerspiegelt de bakspecerijen van de pastei en staat pal tegenover het rijke varkensvlees.", "De naar garrigue geurende warmte van Grenache is een natuurlijke metgezel van kruidnagel en piment."],
+  wines: ["Donkere, gestructureerde malbec uit het oude Frankrijk weerspiegelt de bakspecerijen van de pastei en staat pal tegenover het rijke varkensvlees.", "De naar garrigue geurende warmte van grenache is een natuurlijke metgezel van kruidnagel en piment."],
   tip: "De geraspte rauwe aardappel is het traditionele bindmiddel — hij verdwijnt in de vulling en houdt haar sappig zonder bloem. Laat de vulling volledig afkoelen voor het samenstellen, anders wordt de deegbodem klef."
 },
 "am-sopa-de-tortilla": {
@@ -183,7 +183,7 @@ Object.assign(window.NL.recipes, {
     "Verdeel het grootste deel van de tortillareepjes over warme kommen en schep de hete bouillon erover.",
     "Serveer direct en geef de avocado, verkruimelde kaas, crema, gefrituurde chiliringen, resterende reepjes en limoen door, zodat ieder zijn eigen kom opmaakt."
   ],
-  wines: ["Knapperige, licht gekoelde Gamay houdt van geblakerde tomaat en overstemt de rook van de pasilla niet.", "Fris en kruidig; hij verlevendigt de rijke bouillon en speelt mooi samen met limoen en avocado."],
+  wines: ["Knapperige, licht gekoelde gamay houdt van geblakerde tomaat en overstemt de rook van de pasilla niet.", "Fris en kruidig; hij verlevendigt de rijke bouillon en speelt mooi samen met limoen en avocado."],
   tip: "Pasilla is de ziel van deze soep — zijn rozijnachtige, tabaksachtige diepte is niet te vervangen door generiek chilipoeder. Koop zo nodig hele gedroogde pasilla’s online; ze blijven een jaar goed in een pot."
 },
 "am-enchiladas-verdes": {
@@ -214,7 +214,7 @@ Object.assign(window.NL.recipes, {
     "Werk snel: doop elke tortilla in de warme salsa, vul met kip, rol op en leg met de naad naar beneden op warme borden, drie per persoon.",
     "Schep er meer salsa over en maak af met crema, verkruimelde queso fresco en de uienringen. Serveer direct — enchilada’s wachten op niemand."
   ],
-  wines: ["Peperig en met een groen randje weerspiegelt hij de frisheid van de tomatillo en kan hij de beet van de serrano aan.", "Vuursteenachtige Sauvignon Blanc rijmt op de kruidige, citrusachtige salsa en snijdt tegelijk door de crema."],
+  wines: ["Peperig en met een groen randje weerspiegelt hij de frisheid van de tomatillo en kan hij de beet van de serrano aan.", "Vuursteenachtige sauvignon blanc rijmt op de kruidige, citrusachtige salsa en snijdt tegelijk door de crema."],
   tip: "Tomatillo’s moeten stevig zijn met strakke vliezen; vind je alleen blik, laat ze dan uitlekken en sla het sudderen over. Bord voor bord opmaken wint het van bakken in een ovenschaal, waarbij de tortilla’s tot pap vervallen."
 },
 "am-chiles-rellenos-poblanos": {
@@ -245,7 +245,7 @@ Object.assign(window.NL.recipes, {
     "Frituur ze 2 tegelijk, schep hete olie over de bovenkant, circa 2 minuten per kant tot ze opgezwollen en diep goudbruin zijn. Laat uitlekken op keukenpapier.",
     "Schep hete caldillo in diepe borden, leg de pepers erop en serveer direct met rijst en warme tortilla’s."
   ],
-  wines: ["Het groene-peperkorreltje van Carmenère is een griezelig nauwkeurige echo van geroosterde poblano; zijn pruimige fruit verzacht het frituren.", "Vederlichte, lichtzoete Riesling verfrist tussen rijke, eierige happen door en sust elke nagloeiende pit."],
+  wines: ["Het groene-peperkorreltje van carmenère is een griezelig nauwkeurige echo van geroosterde poblano; zijn pruimige fruit verzacht het frituren.", "Vederlichte, lichtzoete riesling verfrist tussen rijke, eierige happen door en sust elke nagloeiende pit."],
   tip: "Kies de platste, rechtste poblano’s die je kunt vinden — kromme exemplaren zijn een ellende om te pellen en te vullen. De pepers kunnen uren van tevoren geroosterd, gepeld en gevuld worden; pas op het laatste moment door het beslag halen en frituren."
 },
 "am-carnitas-michoacanas": {
@@ -277,7 +277,7 @@ Object.assign(window.NL.recipes, {
     "Schep het vlees op een plank, verwijder de sinaasappel en laurier, en hak en pluk het grof zodat elke portie krokante randjes en zachte stukken heeft. Proef op zout.",
     "Serveer opgestapeld op een warme schaal met hete tortilla’s, ui, koriander, limoen en een salsa naar keuze — laat iedereen zijn eigen taco’s bouwen."
   ],
-  wines: ["Droge rode bubbels maaien door de rijkdom van het konfijten, precies zoals bij Emiliaans varkensvlees.", "Milde Tempranillo met een vleugje vanille omarmt het gekaramelliseerde varkensvlees zonder de citrus te overstemmen."],
+  wines: ["Droge rode bubbels maaien door de rijkdom van het konfijten, precies zoals bij Emiliaans varkensvlees.", "Milde tempranillo met een vleugje vanille omarmt het gekaramelliseerde varkensvlees zonder de citrus te overstemmen."],
   tip: "Zeef de kookreuzel en bewaar hem in de koelkast — hij blijft maanden goed en levert de beste refried beans van je leven. Restjes carnitas worden de volgende dag prachtig krokant in een droge koekenpan."
 },
 "am-capirotada": {
@@ -306,7 +306,7 @@ Object.assign(window.NL.recipes, {
     "Dek af met folie en bak 25 minuten; verwijder dan de folie en bak nog 10 minuten tot de bovenkant plakkerig en licht gekaramelliseerd is en de siroop is opgenomen.",
     "Laat minstens 15 minuten rusten — capirotada wordt traditioneel lauwwarm of op kamertemperatuur geserveerd, nooit gloeiend heet."
   ],
-  wines: ["Karamel- en geroosterde-nootnoten in de port schudden de hand van piloncillo en pinda’s.", "Rozijnige, espressodonkere Muscat versterkt het gedroogde fruit en de specerijen van de pudding."],
+  wines: ["Karamel- en geroosterde-nootnoten in de port schudden de hand van piloncillo en pinda’s.", "Rozijnige, espressodonkere muscat versterkt het gedroogde fruit en de specerijen van de pudding."],
   tip: "Echte piloncillo-kegels (te koop bij Latijns-Amerikaanse winkels) geven een rokerige, minerale diepte die bruine suiker slechts benadert — hak de kegel met een kartelmes of los hem in zijn geheel op, met geduld."
 },
 "am-causa-limena": {
@@ -368,7 +368,7 @@ Object.assign(window.NL.recipes, {
     "Serveer in diepe kommen, met in elke kom een stuk maïs, bestrooid met bosuiringetjes.",
     "Geef de room, kappertjes en avocado aan tafel door — elke hap hoort op maat gemaakt te worden, het grote ritueel van ajiaco."
   ],
-  wines: ["Staalachtige, ongehoute Chardonnay houdt stand in de romige bouillon en weerspiegelt het zilte van de kappertjes.", "Met textuur en een vleugje bittere amandel heeft hij het gewicht voor de dikke soep en de snit voor de room."],
+  wines: ["Staalachtige, ongehoute chardonnay houdt stand in de romige bouillon en weerspiegelt het zilte van de kappertjes.", "Met textuur en een vleugje bittere amandel heeft hij het gewicht voor de dikke soep en de snit voor de room."],
   tip: "Guascas (Galinsoga parviflora) is de ziel van ajiaco — gedroogde zakjes zijn goedkoop online te bestellen en blijven lang goed. Zonder heb je een uitstekende kip-aardappelsoep, maar geen ajiaco."
 },
 "am-pabellon-criollo": {
@@ -401,7 +401,7 @@ Object.assign(window.NL.recipes, {
     "Schil de bakbananen, snijd ze schuin in plakken van 1 cm en bak ze in een laagje hete olie 2–3 minuten per kant tot ze karamelranden hebben (tajadas). Laat uitlekken en bestrooi licht met zout.",
     "Schik het rundvlees, de bonen, rijst en tajadas in nette kwadranten op elk bord en serveer heet."
   ],
-  wines: ["Krachtige Tempranillo heeft het donkere fruit en de grip voor langzaam gestoofd rundvlees en aardse bonen.", "Bladerige, frisse Cabernet Franc maakt het bord lichter en vleit de sofrito van paprika en tomaat."],
+  wines: ["Krachtige tempranillo heeft het donkere fruit en de grip voor langzaam gestoofd rundvlees en aardse bonen.", "Bladerige, frisse cabernet franc maakt het bord lichter en vleit de sofrito van paprika en tomaat."],
   tip: "Alles behalve de rijst en bakbananen wordt beter na een nacht — maak het vlees en de bonen een dag van tevoren. De bakbananen moeten echt rijp zijn (geel-zwart), anders zijn ze melig in plaats van zoet."
 },
 "am-feijoada-caseira": {

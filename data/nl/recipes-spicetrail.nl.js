@@ -101,8 +101,8 @@ Object.assign(window.NL.recipes, {
     "Giet de sissende tadka aan tafel over de dal, bestrooi met koriander en serveer met rijst of roti."
   ],
   wines: [
-    "De witte-peperbeet en groentevriendelijke zuren van Grüner kunnen de aardse linzen aan en snijden door de ghee.",
-    "Volle Chenin met zijn ronde toets van gebakken appel heeft het lichaam voor de romige dal en genoeg frisheid voor de peper."
+    "De witte-peperbeet en groentevriendelijke zuren van grüner kunnen de aardse linzen aan en snijden door de ghee.",
+    "Volle chenin met zijn ronde toets van gebakken appel heeft het lichaam voor de romige dal en genoeg frisheid voor de peper."
   ],
   tip: "Maak de tadka in de laatste 30 seconden voor het serveren — zijn dramatiek en aroma vervliegen snel, dus het pannetje moet nog sissen als hij de kom raakt."
 },
@@ -202,7 +202,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Kurkdroge, zilte fino is briljant bij alles wat gefrituurd is, en zijn amandeltoets knipoogt naar de pijnboompitvulling.",
-    "Bladerige, frisse Cabernet Franc heeft net genoeg grip voor het lamsvlees en blijft licht tegenover de krokante schil."
+    "Bladerige, frisse cabernet franc heeft net genoeg grip voor het lamsvlees en blijft licht tegenover de krokante schil."
   ],
   tip: "Houd het lamsvlees voor de schil bijna bevroren en werk met ijswater — warmte is de vijand van een gladde pasta die haar dunne wanden in de frituur intact houdt."
 },
@@ -237,7 +237,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Diepe, gastronomische Tavel is een van de weinige wijnen die echt overeind blijven tegenover toum van rauwe knoflook en warme specerijen.",
-    "Peperige Syrah met fris fruit past bij de geblakerde randjes en de baharat zonder de zware tannine die met de citroen zou botsen."
+    "Peperige syrah met fris fruit past bij de geblakerde randjes en de baharat zonder de zware tannine die met de citroen zou botsen."
   ],
   tip: "Als de toum schift, gooi hem dan niet weg — begin opnieuw met een lepel van de geschifte saus en een scheutje ijswater ter grootte van een eiwit, en emulgeer druppel voor druppel opnieuw."
 },
@@ -269,7 +269,7 @@ Object.assign(window.NL.recipes, {
     "Schik het gescheurde platbrood op een warme schaal, schep de balletjes en elke druppel saus erover zodat het brood zich volzuigt, en werk af met geroosterde pijnboompitten en peterselie."
   ],
   wines: [
-    "Knapperige, koelbare Gamay is pure rode kers in een glas — een directe, vrolijke echo van de saus.",
+    "Knapperige, koelbare gamay is pure rode kers in een glas — een directe, vrolijke echo van de saus.",
     "Zijn diepte van kers en rozijn schaduwt het zoetzure fruit, terwijl het vollere lichaam het gekruide lamsvlees draagt."
   ],
   tip: "Diepgevroren ontpitte morellen zijn de betrouwbaarste vervanger voor de wishna van Aleppo — vermijd zoete handkersen, die de essentiële zuurheid van het gerecht onderuithalen."
@@ -359,7 +359,7 @@ Object.assign(window.NL.recipes, {
     "Besmeer elke pita met tzatziki, schuif er een spies varkensvlees op, voeg tomaat en ui toe, een laatste snufje oregano, en vouw dicht. Serveer met de resterende tzatziki."
   ],
   wines: [
-    "De hartigheid van zongedroogde tomaat en de stevige grip van Xinomavro zijn dol op geblakerd varkensvlees met oregano.",
+    "De hartigheid van zongedroogde tomaat en de stevige grip van xinomavro zijn dol op geblakerd varkensvlees met oregano.",
     "Bleek en kurkdroog slaat hij moeiteloos de brug tussen het rokerige vlees en de koele knoflooktzatziki."
   ],
   tip: "Varkensschouder, nooit haas — de marmering bedruipt het vlees boven de kolen, en dáárom smaakt tavernasouvlaki sappiger dan de meeste thuispogingen."
@@ -451,7 +451,7 @@ Object.assign(window.NL.recipes, {
     "Giet de sissende boter aan tafel over het vlees, leg de gegrilde pepers en tomaten erbij en serveer met de yoghurt ernaast."
   ],
   wines: [
-    "Naar garrigue geurende Grenache heeft de warmte en het soepele fruit voor lamsvlees, tomaat en bruine boter tegelijk.",
+    "Naar garrigue geurende grenache heeft de warmte en het soepele fruit voor lamsvlees, tomaat en bruine boter tegelijk.",
     "Inktzwart en broeierig met levendige zuren houdt hij stand tegen de geblakerde randjes en snijdt hij door de boterige rijkdom."
   ],
   tip: "Leg het lamsvlees 45 minuten in de vriezer voor het snijden — stevig vlees laat je de flinterdunne linten schaven die de thuisversie laten eten als echte döner."

@@ -333,7 +333,7 @@ Object.assign(window.NL.recipes, {
     { item: "sojasaus" },
     { item: "rijstazijn" },
     { item: "teentjes knoflook", note: "fijngeraspt" },
-    { item: "geroosterde pinda’s", note: "gecrusht, plus geroosterd sesamzaad" },
+    { item: "geroosterde pinda’s", note: "grof gestampt, plus geroosterd sesamzaad" },
     { item: "neutrale olie, om te frituren" }
   ],
   steps: [
@@ -343,7 +343,7 @@ Object.assign(window.NL.recipes, {
     "Verhit de olie tot 165°C. Frituur de kip in drie porties in 6–7 minuten lichtgoud en gaar; laat uitlekken op een rooster en laat de olie op temperatuur komen.",
     "Verhoog de olie naar 190°C en frituur alles opnieuw in twee porties in 2–3 minuten diep goudbruin en keihard krokant — het dubbel frituren is niet onderhandelbaar voor een korst die de saus overleeft.",
     "Verwarm het glazuur opnieuw, voeg de hete kip toe en schep om tot elk stuk gelakt is maar de korst nog knispert.",
-    "Bestrooi rijkelijk met gecrushte pinda’s en sesamzaad en serveer direct, het liefst met blokjes ingelegde rettich en iets kouds te drinken."
+    "Bestrooi rijkelijk met grof gestampte pinda’s en sesamzaad en serveer direct, het liefst met blokjes ingelegde rettich en iets kouds te drinken."
   ],
   wines: [
     "Bubbels doen het werk van het bier bij chimaek, alleen beter — ze maaien door de korst en koelen de gochujang-hitte.",
@@ -435,7 +435,7 @@ Object.assign(window.NL.recipes, {
     { item: "rode peper", note: "in ringetjes, voor de ajat" },
     { item: "rijstazijn" },
     { item: "suiker", note: "voor de ajat" },
-    { item: "geroosterde pinda’s", note: "gecrusht" },
+    { item: "geroosterde pinda’s", note: "grof gestampt" },
     { item: "neutrale olie, om ondiep in te frituren" }
   ],
   steps: [
@@ -445,7 +445,7 @@ Object.assign(window.NL.recipes, {
     "Vouw de ringetjes kouseband en het limoenblad erdoor. Vorm met geoliede handen 12 koekjes van circa 1,5 cm dik.",
     "Verhit 1,5 cm olie tot 170°C in een brede pan. Bak de koekjes in twee porties, 2–3 minuten per kant, tot ze gerezen en diep goudbruin zijn.",
     "Laat een minuutje uitlekken op een rooster — ze horen terug te veren als je erop drukt.",
-    "Serveer heet, met de ajat bestrooid met gecrushte pinda’s om eroverheen te lepelen."
+    "Serveer heet, met de ajat bestrooid met grof gestampte pinda’s om eroverheen te lepelen."
   ],
   wines: [
     "Zijn vleugje spritz en lage alcohol verfrissen tegenover de hitte van de currypasta en de gefrituurde rijkdom.",
@@ -487,7 +487,7 @@ Object.assign(window.NL.recipes, {
 },
 "ra-bun-thit-nuong": {
   name: "Noedelkom met gegrild varkensvlees",
-  description: "Rokerig, met citroengras gegrild varkensvlees op koele rijstvermicelli met een weelde aan kruiden, ingelegde wortel en rettich, gecrushte pinda’s en een fris plasje nước chấm om erdoorheen te scheppen.",
+  description: "Rokerig, met citroengras gegrild varkensvlees op koele rijstvermicelli met een weelde aan kruiden, ingelegde wortel en rettich, grof gestampte pinda’s en een fris plasje nước chấm om erdoorheen te scheppen.",
   story: "Bún thịt nướng is een visitekaartje van het straatvoedsel van Saigon, waar houtskoolrook van varkensgrills rond lunchtijd hele steegjes parfumeert; de zuidelijke gewoonte om koele noedels, rauwe kruiden en gegrild vlees in één kom samen te brengen maakt het de favoriete maaltijd van de stad bij warm weer.",
   timeNote: "Plus 2 uur marineren",
   ingredients: [
@@ -507,7 +507,7 @@ Object.assign(window.NL.recipes, {
     { item: "slabladeren", note: "in reepjes" },
     { item: "bosuien", note: "in dunne ringetjes, voor de mỡ hành (bosui-olie)" },
     { item: "neutrale olie", note: "voor de mỡ hành" },
-    { item: "geroosterde pinda’s", note: "gecrusht" }
+    { item: "geroosterde pinda’s", note: "grof gestampt" }
   ],
   steps: [
     "Marineer het varkensvlees minimaal 2 uur in de koelkast met het citroengras, de knoflook, sjalot, 2 eetlepels vissaus, 25 g suiker en de olie.",
@@ -516,7 +516,7 @@ Object.assign(window.NL.recipes, {
     "Kook de vermicelli volgens de verpakking, spoel goed af onder koud water en laat grondig uitlekken — de noedels worden op kamertemperatuur geserveerd. Maak intussen de mỡ hành: verhit 3 eetlepels olie tot hij glinstert en schenk hem met een snufje zout over de bosuiringetjes.",
     "Gril het vlees in één laag boven hete houtskool of in een gloeiendhete grillpan, 2–3 minuten per kant, tot het door de suiker gekaramelliseerd is en geblakerde randjes heeft. Werk in porties.",
     "Bouw de kommen op: sla en kruiden onderin, een nest vermicelli, het gegrilde vlees heet van het vuur, en daaromheen de pickles en komkommer.",
-    "Lepel de mỡ hành over de noedels en het vlees, bestrooi rijkelijk met gecrushte pinda’s, schenk er een paar lepels nước chấm over en serveer de rest erbij — alles wordt vóór het eten door elkaar geschept."
+    "Lepel de mỡ hành over de noedels en het vlees, bestrooi rijkelijk met grof gestampte pinda’s, schenk er een paar lepels nước chấm over en serveer de rest erbij — alles wordt vóór het eten door elkaar geschept."
   ],
   wines: [
     "Bleek, droog en koel slaat hij een brug tussen het rokerig geblakerde vlees en de rauwe kruiden zonder de kom te verzwaren.",

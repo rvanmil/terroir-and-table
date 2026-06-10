@@ -120,7 +120,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Zijn witte-peperbeet en beroemde affiniteit met groene groenten flatteren zowel de spinazie als de komijn.",
-    "Een soepele Grenache-blend met garrigue-kruiden die zich om de rokerige pimentón en aardse kikkererwten vouwt."
+    "Een soepele grenache-blend met garrigue-kruiden die zich om de rokerige pimentón en aardse kikkererwten vouwt."
   ],
   tip: "Spaanse kikkererwten uit pot (garbanzos cocidos) zijn zachter en romiger dan uit blik; kook je gedroogde, laat ze dan sudderen tot ze bijna uit elkaar vallen — stevige kikkererwten bederven de textuur."
 },
@@ -214,7 +214,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Een zilte prikkelaar die door alioli en geroosterde noedels snijdt als een kneep citroen.",
-    "Staalachtige Chardonnay met oesterschelp, met de scherpte en mineraliteit die de geconcentreerde schaaldierenbouillon vraagt."
+    "Staalachtige chardonnay met oesterschelp, met de scherpte en mineraliteit die de geconcentreerde schaaldierenbouillon vraagt."
   ],
   tip: "Alles hangt af van de bouillon — trek hem van de garnalenkoppen en -pellen plus visgraten, 30 minuten zachtjes getrokken, en de fideuà smaakt naar de zee in plaats van naar noedels."
 },
@@ -249,8 +249,8 @@ Object.assign(window.NL.recipes, {
     "Doe het vlees terug in de saus en verwarm het zachtjes. Serveer met gebakken aardappels of een gladde aardappelpuree om de saus op te vangen."
   ],
   wines: [
-    "Geconcentreerde Garnacha en Cariñena met een randje leisteen, met de spierkracht en het donkere fruit om in wijn gestoofde ossenstaart frontaal te trotseren.",
-    "Milde Tempranillo met een vleugje vanille, waarvan de verzachte tannines wegsmelten in de gelatineuze saus."
+    "Geconcentreerde garnacha en cariñena met een randje leisteen, met de spierkracht en het donkere fruit om in wijn gestoofde ossenstaart frontaal te trotseren.",
+    "Milde tempranillo met een vleugje vanille, waarvan de verzachte tannines wegsmelten in de gelatineuze saus."
   ],
   tip: "Maak het een dag van tevoren: na een nacht in de koelkast til je het vet er in één plak af, en zowel de saus als het vlees worden bij het opwarmen aanzienlijk beter."
 },
@@ -343,7 +343,7 @@ Object.assign(window.NL.recipes, {
     "Laat 10 minuten rusten, verdeel in stukken en kwast nog één keer in met warme piri-pirisaus. Serveer met citroenpartjes, friet en een eenvoudige tomatensalade, op z’n Algarves."
   ],
   wines: [
-    "Vederlichte, zacht-zoete Riesling is de klassieke brandblusser — zijn zoetheid sust de chili terwijl de zuren door het geblakerde snijden.",
+    "Vederlichte, zacht-zoete riesling is de klassieke brandblusser — zijn zoetheid sust de chili terwijl de zuren door het geblakerde snijden.",
     "Peperig, fris en ongelagerd omarmt hij de rook en de pit zonder tannine op te stapelen."
   ],
   tip: "De pit is regelbaar: ontpit de helft van de pepers voor een mildere saus, en houd altijd wat marinade apart voordat hij met rauwe kip in aanraking komt, zodat je een schone saus voor aan tafel hebt."
@@ -403,7 +403,7 @@ Object.assign(window.NL.recipes, {
     "Schik de gepocheerde eieren erop met de achtergehouden korianderblaadjes en een draai peper. Serveer onmiddellijk en breek de dooiers aan tafel in de bouillon."
   ],
   wines: [
-    "Vuursteenachtige Sauvignon met een groene kruidige streep die parallel loopt aan de koriander en standhoudt tegen rauwe knoflook.",
+    "Vuursteenachtige sauvignon met een groene kruidige streep die parallel loopt aan de koriander en standhoudt tegen rauwe knoflook.",
     "Chenin met textuur en gebakken appel heeft het gewicht voor brood en eidooier en blijft toch nerveus en fris."
   ],
   tip: "Het brood moet minstens een dag oud en echt stevig zijn — vers luchtig brood zakt ineen tot pap. In de Alentejo is de bouillon soms het pocheervocht van zoutevis; een scheutje daarvan transformeert het gerecht als je kabeljauw in huis hebt."

@@ -29,8 +29,8 @@ Object.assign(window.NL.recipes, {
     "Dopen, eten, en doe aan het eind als de Piemontezen: breek een ei in de laatste lepels saus en roer het in de pan tot roerei."
   ],
   wines: [
-    "Het lokale antwoord: de heldere zuren en lage tannine van Barbera houden stand tegen knoflook en ansjovis zonder te botsen.",
-    "Peperige, groenteminnende Grüner kan zowel de rauwe venkel, selderij en paprika als de zoute dip prima aan."
+    "Het lokale antwoord: de heldere zuren en lage tannine van barbera houden stand tegen knoflook en ansjovis zonder te botsen.",
+    "Peperige, groenteminnende grüner kan zowel de rauwe venkel, selderij en paprika als de zoute dip prima aan."
   ],
   tip: "Het pocheren in melk is wat een milde, betoverende bagna cauda onderscheidt van een knoflookaanval — sla die stap niet over, en houd het vuur zo laag dat de saus amper trilt."
 },
@@ -59,7 +59,7 @@ Object.assign(window.NL.recipes, {
     "Laat 30 minuten rusten op koele kamertemperatuur voor het serveren, zodat het brood de dressing opdrinkt; zet hem nooit in de koelkast, dat doodt de tomaten."
   ],
   wines: [
-    "Ziltige, kruidige Vermentino echoot de basilicum en tilt de azijnfrisse tomaten op.",
+    "Ziltige, kruidige vermentino echoot de basilicum en tilt de azijnfrisse tomaten op.",
     "Knisperdroge rosé is gemaakt voor precies dit register van rauwe tomaat, ui en olijfolie."
   ],
   tip: "Echt Toscaans brood is ongezouten en compact, en zuigt daarom vocht op zonder in te storten — gebruik je een gezouten zuurdesem, droog de stukken dan eerst in een lage oven en wees zuinig met extra zout."
@@ -148,7 +148,7 @@ Object.assign(window.NL.recipes, {
     "Serveer direct op voorverwarmde borden met extra Pecorino en de rest van de peper."
   ],
   wines: [
-    "Hazelnootgetinte, stevige Fiano evenaart de rijkdom van ei en kaas, terwijl zijn vulkanische frisheid het gehemelte verfrist.",
+    "Hazelnootgetinte, stevige fiano evenaart de rijkdom van ei en kaas, terwijl zijn vulkanische frisheid het gehemelte verfrist.",
     "Een diepe, gastronomische rosé met genoeg spierkracht voor guancialevet en gekneusde peper."
   ],
   tip: "Kun je geen guanciale vinden, dan kan pancetta, maar nooit bacon — rook verstoort de balans. Houd een kop pastawater achter; de saus dikt snel in en je zult het nodig hebben."
@@ -178,7 +178,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Rijp, weelderig zuidelijk fruit omarmt de zoete tomaat en houdt stand tegen guanciale en peper.",
-    "Naar garrigue geurende Grenache heeft de warmte en kruidigheid om mee te deinen met de pittige peper."
+    "Naar garrigue geurende grenache heeft de warmte en kruidigheid om mee te deinen met de pittige peper."
   ],
   tip: "Knijp de tomaten met de hand fijn in plaats van ze te pureren — amatriciana vraagt om een rustieke, licht grove saus, geen gladde passata."
 },
@@ -245,7 +245,7 @@ Object.assign(window.NL.recipes, {
     "Doe alle schelpen terug met de resterende rauwe olie en de gehakte peterselie, schep dertig seconden om van het vuur af en serveer meteen."
   ],
   wines: [
-    "Frisse, mineralige Cortese houdt alles zuiver en laat het schelpenvocht de ster blijven.",
+    "Frisse, mineralige cortese houdt alles zuiver en laat het schelpenvocht de ster blijven.",
     "Zilte Melon de Bourgogne met zijn textuur van de lies is praktisch schelpdiervocht in wijnvorm."
   ],
   tip: "Gaar de pasta af in het schelpenvocht in plaats van hem er alleen mee te overgieten — in die laatste twee minuten in de pan ontstaat de zijdezachte emulsie die het gerecht maakt."
@@ -253,11 +253,11 @@ Object.assign(window.NL.recipes, {
 "it2-brasato-al-barolo": {
   name: "Brasato al Barolo",
   description: "Een heel stuk rundvlees, urenlang gestoofd in Barolo met groenten, kruiden en specerijen tot het snijdt als fluweel, overgoten met een donkere, wijndiepe saus. Alleen het aroma al is een Piemontese winter.",
-  story: "Het grote zondagse stoofstuk van de heuvels van de Langhe, waar de wijn van de adel de geduldige pan van de boeren ontmoette. Taaie runderdelen smoren in Nebbiolo is sinds minstens de 19e eeuw de manier van de streek om zowel het vee als de wijnkelders te eren, en het is nog altijd het klassieke middelpunt van winterse feestdagen.",
+  story: "Het grote zondagse stoofstuk van de heuvels van de Langhe, waar de wijn van de adel de geduldige pan van de boeren ontmoette. Taaie runderdelen smoren in nebbiolo is sinds minstens de 19e eeuw de manier van de streek om zowel het vee als de wijnkelders te eren, en het is nog altijd het klassieke middelpunt van winterse feestdagen.",
   timeNote: "Plus een nacht marineren in de wijn",
   ingredients: [
     { item: "runderschouder of sukadestuk (cappello del prete)", note: "in één stuk, opgebonden" },
-    { item: "Barolo of een andere goede Nebbiolo", note: "één hele fles" },
+    { item: "Barolo of een andere goede nebbiolo", note: "één hele fles" },
     { item: "wortels", note: "grof gesneden" },
     { item: "grote ui", note: "grof gesneden" },
     { item: "bleekselderijstengels", note: "grof gesneden" },
@@ -283,7 +283,7 @@ Object.assign(window.NL.recipes, {
     "Wat samen groeit, hoort samen — de wijn uit de pan, met zijn teer-en-rozen-strengheid, is de enige eerste keus.",
     "Verona’s reus van gedroogde druiven beantwoordt de concentratie van het stoofvocht met die van zichzelf — gedroogde kers en donkere specerijen rond het fluweelzachte rundvlees."
   ],
-  tip: "Je hebt geen fles van 60 euro nodig voor in de pan: elke eerlijke, stevige Nebbiolo (Langhe of Gattinara) smoort prachtig — bewaar de echte Barolo voor in de glazen."
+  tip: "Je hebt geen fles van 60 euro nodig voor in de pan: elke eerlijke, stevige nebbiolo (Langhe of Gattinara) smoort prachtig — bewaar de echte Barolo voor in de glazen."
 },
 "it2-saltimbocca-romana": {
   name: "Saltimbocca alla romana",
@@ -310,7 +310,7 @@ Object.assign(window.NL.recipes, {
     "Leg de saltimbocca dertig seconden terug in de pan om te bedekken met saus en serveer direct, met de saus erover gelepeld en de prikkers verwijderd of niet, al naargelang je trattoria-geweten."
   ],
   wines: [
-    "Bladerige, frisse Cabernet Franc echoot de salie en gaat met weinig tannine gracieus om met het zout van de prosciutto.",
+    "Bladerige, frisse cabernet franc echoot de salie en gaat met weinig tannine gracieus om met het zout van de prosciutto.",
     "Vol van textuur maar snijdend fris; hij verfrist tussen de boterige happen door zonder het tere kalfsvlees te overstemmen."
   ],
   tip: "Sla de lapjes plat tussen vellen huishoudfolie met een vlakke vleeshamer en zet alles klaar vóór de pan heet wordt — het hele gerecht is in vier minuten klaar zodra de boter schuimt."
@@ -345,7 +345,7 @@ Object.assign(window.NL.recipes, {
     "Laat de soep idealiter afkoelen en een nacht rusten, en kook hem dan opnieuw — vandaar de naam — terwijl je roert zodat de bodem nét even aanzet. Serveer in diepe kommen met een dikke zwier rauwe olijfolie en zwarte peper."
   ],
   wines: [
-    "De zure kers en gedroogde kruiden van Sangiovese zijn de geboren metgezel van bonen, zwarte kool en Toscaanse olie.",
+    "De zure kers en gedroogde kruiden van sangiovese zijn de geboren metgezel van bonen, zwarte kool en Toscaanse olie.",
     "Milde, door vanille aangeraakte rijpheid vouwt zich om de aardse diepte van de soep zonder enige harde kant."
   ],
   tip: "De rauwe olijfolie over elke kom is een dragend ingrediënt, geen garnering — gebruik de beste, groenste olie die je hebt, het liefst een Toscaanse van de nieuwe oogst."
@@ -378,7 +378,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Lichte, vulkanische Nerello heeft de zuren voor tomaat en een rokerig randje dat dol is op gebakken aubergine.",
-    "De hartige tomaat-en-olijftonen van Xinomavro spiegelen het register van het gerecht, met stevige structuur voor de kaas."
+    "De hartige tomaat-en-olijftonen van xinomavro spiegelen het register van het gerecht, met stevige structuur voor de kaas."
   ],
   tip: "Laat de mozzarella een vol uur uitlekken (of gebruik fior di latte van een dag oud) — natte kaas is de oorzaak van elke soeperige parmigiana."
 },
@@ -465,7 +465,7 @@ Object.assign(window.NL.recipes, {
     "Laat volledig afkoelen in de vorm — de taart wordt steviger naarmate hij afkoelt — stort hem dan, bestuif dik met poedersuiker en serveer in smalle punten."
   ],
   wines: [
-    "Dé chocoladewijn uit het boekje: het geroosterde rode fruit en de zoetheid van Grenache haken vast aan de donkere cacao.",
+    "Dé chocoladewijn uit het boekje: het geroosterde rode fruit en de zoetheid van grenache haken vast aan de donkere cacao.",
     "Tonen van rozijn, toffee en espresso omarmen zowel de chocolade als de geroosterde amandelen."
   ],
   tip: "Een paar minuten te kort bakken is het geheim — de taart moet in het midden nét gestold zijn, en een nacht rust maakt hem nog smeuïger."

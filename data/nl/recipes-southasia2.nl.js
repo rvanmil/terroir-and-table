@@ -172,7 +172,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Lichte vulkanische Nerello heeft zijn eigen rokerig-minerale streep die zich vastklikt aan de geblakerde aubergine.",
-    "Het pruimige fruit en peperige, tomatenbladachtige randje van Carmenère voegen zich vanzelf naar de jamachtige tomaten-pepermasala."
+    "Het pruimige fruit en peperige, tomatenbladachtige randje van carmenère voegen zich vanzelf naar de jamachtige tomaten-pepermasala."
   ],
   tip: "Geen gasvlam? Blaker de ingeprikte aubergines in een droge gietijzeren pan en maak ze af onder de grill; leg daarna 2 minuten een stukje smeulende houtskool in een aluminium bakje midden in de puree, afgedekt, voor echte rokerigheid."
 },
@@ -211,7 +211,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Lychee-rijke, off-dry Gewurztraminer is de klassieke tegenhanger voor zwarte-peperhitte en grote geroosterde specerijen.",
-    "Licht gekoeld geserveerd draagt knapperige Gamay genoeg fruit voor de donkere masala, met nauwelijks tannine die met de peper kan botsen."
+    "Licht gekoeld geserveerd draagt knapperige gamay genoeg fruit voor de donkere masala, met nauwelijks tannine die met de peper kan botsen."
   ],
   tip: "Zwarte peper, niet alleen chilipeper, hoort de hitte aan te voeren — maal hem mee met de masala in plaats van hem laat toe te voegen, en verminder eerder de gedroogde pepers dan de peper."
 },
@@ -355,7 +355,7 @@ Object.assign(window.NL.recipes, {
     "Serveer borrelend, rechtstreeks uit de karahi, met hete naan of roti’s om mee te scheppen."
   ],
   wines: [
-    "De hoge zuren en zachte tannine van Barbera zijn gemaakt voor sauzen op tomatenbasis en wakkeren de groene peper niet aan.",
+    "De hoge zuren en zachte tannine van barbera zijn gemaakt voor sauzen op tomatenbasis en wakkeren de groene peper niet aan.",
     "Bleek, droog en koel verfrist hij tegen de peperhitte zonder de heldere tomaat-gembersmaken in de weg te zitten."
   ],
   tip: "Gebruik de rijpste tomaten die je kunt vinden en weersta de verleiding om water toe te voegen — de hele saus van dit gerecht is ingekookte tomaat, en waterig fruit betekent lang, smaakverdunnend koken."
@@ -462,8 +462,8 @@ Object.assign(window.NL.recipes, {
     "Voeg het citroensap toe van het vuur af (meekoken maakt het bitter), schep om, proef — het moet uitgesproken zuur en hartig zijn — en maak af met koriander. Serveer warm of op kamertemperatuur."
   ],
   wines: [
-    "Kurkdroge Assyrtiko vol citroen versterkt het citrus, en zijn minerale ruggengraat kan peper en curryblad aan.",
-    "Kruidige, zilte Vermentino echoot de hartigheid van het curryblad en houdt het gehemelte fris tegenover de kurkumawarmte."
+    "Kurkdroge assyrtiko vol citroen versterkt het citrus, en zijn minerale ruggengraat kan peper en curryblad aan.",
+    "Kruidige, zilte vermentino echoot de hartigheid van het curryblad en houdt het gehemelte fris tegenover de kurkumawarmte."
   ],
   tip: "Maak het met gekoelde rijst van een dag oud en het wordt alleen maar beter — de stevige korrels nemen de citroen-kurkumaolie op zonder papperig te worden, en precies daarom is het zo’n favoriet voor de tiffinbox."
 },

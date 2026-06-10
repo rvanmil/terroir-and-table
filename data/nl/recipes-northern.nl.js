@@ -27,7 +27,7 @@ Object.assign(window.NL.recipes, {
     "Proef — de vis brengt al zout mee, dus breng voorzichtig op smaak met witte peper. Serveer in warme kommen, bestrooid met bieslook, met oatcakes of knapperig brood."
   ],
   wines: [
-    "Stalige, ongelagerde Chardonnay met zijn oesterschelp-ziltheid snijdt door de melkachtige rijkdom en echoot de maritieme rook.",
+    "Stalige, ongelagerde chardonnay met zijn oesterschelp-ziltheid snijdt door de melkachtige rijkdom en echoot de maritieme rook.",
     "Kurkdroge, zilte fino is een klassieker bij gerookte vis — zijn gistige frisheid houdt stand tegen de schelvis zonder hem te overstemmen."
   ],
   tip: "Zoek ongekleurde, natuurlijk gerookte schelvis; de felgele gekleurde filets smaken scherper. Vind je echte finnan haddie aan de graat, pocheer die dan in zijn geheel voor een nog diepere bouillon."
@@ -152,7 +152,7 @@ Object.assign(window.NL.recipes, {
     "Serveer direct met partjes citroen en, traditioneel, een aardappelsalade met peterselieboter of komkommersalade — nooit saus, die zou de korst ruïneren."
   ],
   wines: [
-    "Wenens eigen combinatie: peperige, citrusachtige Grüner snijdt door het boterige paneerkorstje en is dol op het kneepje citroen erover.",
+    "Wenens eigen combinatie: peperige, citrusachtige grüner snijdt door het boterige paneerkorstje en is dol op het kneepje citroen erover.",
     "Verdicchio heeft textuur maar blijft fris, met genoeg body voor de gefrituurde korst en een bitteramandelbeet die delicaat kalfsvlees flatteert."
   ],
   tip: "De techniek van zwemmen in vet en walsen met de pan is niet onderhandelbaar voor de golvende korst — ondiep bakken in een laagje olie geeft juist een platte, vette coating. Geklaarde boter levert de authentieke notige smaak zonder te verbranden."
@@ -190,7 +190,7 @@ Object.assign(window.NL.recipes, {
     "Breng op smaak met zout en, als je van pit houdt, een snufje scherp paprikapoeder of verse pepersnippers aan tafel, zoals Hongaren doen. Serveer in diepe kommen met knapperig witbrood."
   ],
   wines: [
-    "Hongarijes grote droge witte: rokerige Furmint met felle zuren snijdt door het paprikavet en evenaart de aardse intensiteit van het gerecht, streek bij streek.",
+    "Hongarijes grote droge witte: rokerige furmint met felle zuren snijdt door het paprikavet en evenaart de aardse intensiteit van het gerecht, streek bij streek.",
     "Kékfrankos, zoals de Hongaren hem noemen, is dé goulashdruif — donkere kers en witte peper, gemaakt voor de warmte van paprika."
   ],
   tip: "Hongaars zoet paprikapoeder verliest binnen maanden zijn parfum — koop een vers foliepakje bij een Hongaarse of Oost-Europese winkel in plaats van het stoffige potje achter in de kast te gebruiken. Het gerecht is een dag van tevoren gemaakt zelfs nog beter."
@@ -261,7 +261,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Zijdezachte rode bourgogne slaat de brug tussen de roomjus en de frisse vossenbessen — licht genoeg voor het delicate vlees, hartig genoeg voor de gebruinde boter.",
-    "Bladerige, frisse Cabernet Franc met zijn rodebessenbeet speelt dezelfde rol als de vossenbes en snijdt de rijkdom schoon door."
+    "Bladerige, frisse cabernet franc met zijn rodebessenbeet speelt dezelfde rol als de vossenbes en snijdt de rijkdom schoon door."
   ],
   tip: "Rasp de ui in plaats van hem te snipperen — hij smelt onzichtbaar in het mengsel en houdt de balletjes mals. Vossenbessencompote ligt bij elke IKEA en Scandinavische winkel; in nood komt nauwelijks gezoete cranberrysaus dichtbij."
 },
@@ -294,8 +294,8 @@ Object.assign(window.NL.recipes, {
     "Laat 15 minuten van het vuur rusten en serveer, op echt Belgische wijze, met krokante friet of gekookte aardappels en een lik extra mosterd."
   ],
   wines: [
-    "Weelderige, pruimige Merlot vlijt zich om de moutig-zoete uien en het rundvlees, zonder de agressieve tannine die met de bitterheid van het bier zou botsen.",
-    "Donkere, gestructureerde Malbec heeft de diepte voor langgestoofd rundvlees en een aardse rand die past bij de bitterzoete jus van de stoofpot."
+    "Weelderige, pruimige merlot vlijt zich om de moutig-zoete uien en het rundvlees, zonder de agressieve tannine die met de bitterheid van het bier zou botsen.",
+    "Donkere, gestructureerde malbec heeft de diepte voor langgestoofd rundvlees en een aardse rand die past bij de bitterzoete jus van de stoofpot."
   ],
   tip: "Het bier doet ertoe: een zurige oud bruin (zoals Liefmans Goudenband) geeft de authentieke zoetzure ruggengraat. Vermijd hoppige IPA’s en droge stouts, die de lange stoof bitter maken. De volgende dag nog beter."
 },
@@ -332,7 +332,7 @@ Object.assign(window.NL.recipes, {
     "Kook intussen de rijst. Serveer de gumbo over een berg rijst geschept, bestrooid met bosui, met filépoeder en hete saus op tafel."
   ],
   wines: [
-    "Braamachtige, peperige Zinfandel is gemaakt voor rokerig varkensvlees en donkere roux — rijp fruit om de cayenne te dempen, kruidigheid die de andouille echoot.",
+    "Braamachtige, peperige zinfandel is gemaakt voor rokerig varkensvlees en donkere roux — rijp fruit om de cayenne te dempen, kruidigheid die de andouille echoot.",
     "Diepe, gastronomische Tavel pakt knoflook, kruiden en rook aan als een rode wijn, maar biedt gekoelde verfrissing tegen de hitte."
   ],
   tip: "Warme bouillon in hete roux voorkomt schiften en klontjes. Is echte andouille onvindbaar, dan is Poolse gerookte kiełbasa de geaccepteerde vervanger. Zoals de meeste pannen uit Louisiana is gumbo op dag twee beter."
@@ -370,7 +370,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Halfdroge, vederlichte riesling is de grote brandblusser: zijn zoetheid sust de scotch bonnet-hitte terwijl rassige zuren verfrissen tussen de happen.",
-    "Wil je rood bij de schroei, dan heeft weelderige Shiraz het rijpe, donkere fruit en de zwartepeperkruidigheid om rook en piment frontaal te ontmoeten."
+    "Wil je rood bij de schroei, dan heeft weelderige shiraz het rijpe, donkere fruit en de zwartepeperkruidigheid om rook en piment frontaal te ontmoeten."
   ],
   tip: "Piment (allspice) is de niet-onderhandelbare ziel van jerk — gebruik zo mogelijk versgemalen hele bessen en gooi een handvol op de kolen voor authentieke pimenthoutrook. Draag handschoenen bij het verwerken van scotch bonnets."
 },
@@ -408,8 +408,8 @@ Object.assign(window.NL.recipes, {
     "Schep de rode rijst op een grote schaal, schik de vis en groenten erbovenop en serveer gezamenlijk, met partjes limoen en de peper ernaast."
   ],
   wines: [
-    "Kaapse Chenin met textuur, zijn gepofte-appelfruit en heldere zuren houdt van in tomaat gestoofde vis en heeft de body voor de rijke, hartige rijst.",
-    "Kurkdroge, vulkanische Assyrtiko brengt zeevlaag-ziltheid en citroen die de vis optillen en door de vette, tomatendiepe bouillon snijden."
+    "Kaapse chenin met textuur, zijn gepofte-appelfruit en heldere zuren houdt van in tomaat gestoofde vis en heeft de body voor de rijke, hartige rijst.",
+    "Kurkdroge, vulkanische assyrtiko brengt zeevlaag-ziltheid en citroen die de vis optillen en door de vette, tomatendiepe bouillon snijden."
   ],
   tip: "Breukrijst is traditioneel — hij neemt de saus beter op en geeft de juiste, licht klevende textuur; zoek naar ‘riz brisé’ in Afrikaanse winkels. Een stuk guedj (gefermenteerde gedroogde vis) in de bouillon is het geheim van authentieke diepte; Aziatische vissaus is de dichtstbijzijnde sluiproute."
 },
@@ -442,7 +442,7 @@ Object.assign(window.NL.recipes, {
     "Serveer heet op een uitgespreide injera en scheur stukken van het zure platbrood af om de kip te pakken en de saus op te deppen — bestek is niet nodig."
   ],
   wines: [
-    "Peperige Zuid-Afrikaanse Syrah met fris fruit beantwoordt de diepe kruidigheid van berbere met bijpassende gekraakte-pepertonen en soepele tannines die de hitte niet aanwakkeren.",
+    "Peperige Zuid-Afrikaanse syrah met fris fruit beantwoordt de diepe kruidigheid van berbere met bijpassende gekraakte-pepertonen en soepele tannines die de hitte niet aanwakkeren.",
     "Naar lychee geurende, licht halfdroge Gewurztraminer is gebouwd voor felle aroma’s — hij dempt de pepergloed en danst met de gekruide boter."
   ],
   tip: "Haast je niet door de droge uienfase — die is het fundament van elke Ethiopische wat en valt niet te faken. Koop berbere en injera als het kan bij een Ethiopische of Eritrese winkel; injera’s zure teff-smaak is de halve ervaring en lastig te maken zonder gefermenteerde starter."
@@ -540,7 +540,7 @@ Object.assign(window.NL.recipes, {
     "Werk af met een raspje limoenschil en serveer koud, ter ere van de Keys, met sterke koffie. Weersta elke neiging tot groene kleurstof — echte key lime-vulling is romig geel."
   ],
   wines: [
-    "Schuimig, druivig en met maar 5,5% alcohol tilt Moscato’s zachte zoetheid en mousse de zuren van de limoen op in plaats van ertegen te vechten.",
+    "Schuimig, druivig en met maar 5,5% alcohol tilt moscato’s zachte zoetheid en mousse de zuren van de limoen op in plaats van ertegen te vechten.",
     "Tokaji’s elektrische zuren zijn een van de weinige zoete wijnen die schouder aan schouder met limoen kunnen staan, terwijl zijn abrikoos-honingtonen de gecondenseerde melk afronden."
   ],
   tip: "Echte key limes zijn pittiger, zuurder en bloemiger dan Perzische limoenen uit de supermarkt, maar vers Perzisch limoensap maakt een uitstekende taart — gebruik alleen nooit sap uit een flesje, dat gekookt smaakt. De taart snijdt het mooist met een heet, droog mes."

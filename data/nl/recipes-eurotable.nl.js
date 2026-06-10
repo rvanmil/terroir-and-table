@@ -26,7 +26,7 @@ Object.assign(window.NL.recipes, {
     "Laat, als de pan bijna leeg is, het dunne korstje op de bodem — la religieuse — goudbruin roosteren, til het eruit en verdeel het; het is het felbegeerde laatste hapje."
   ],
   wines: [
-    "Staalachtige, ongerijpte Chardonnay snijdt door de gesmolten kaas zoals een Zwitserse Chasselas dat zou doen, en verfrist de mond tussen de hapjes door.",
+    "Staalachtige, ongerijpte chardonnay snijdt door de gesmolten kaas zoals een Zwitserse Chasselas dat zou doen, en verfrist de mond tussen de hapjes door.",
     "De canonieke metgezel — Valais-chasselas gaat in de caquelon én in het glas ernaast; zijn steenachtige zachtheid vecht nooit met de kaas."
   ],
   tip: "Koop de kaas aan het stuk en rasp hem zelf — voorgeraspte kaas is bestoven met antiklontermeel dat de fondue korrelig kan maken."
@@ -58,7 +58,7 @@ Object.assign(window.NL.recipes, {
     "Bestrooi met peterselie en serveer direct, het liefst naast krokante rösti."
   ],
   wines: [
-    "Zijdezachte, lichte Pinot Noir begeleidt het delicate kalfsvlees en de aardse champignons zonder de room te overstemmen.",
+    "Zijdezachte, lichte pinot noir begeleidt het delicate kalfsvlees en de aardse champignons zonder de room te overstemmen.",
     "Een rijke, nootachtige witte Bourgogne spiegelt de boterige roomsaus, terwijl zijn zuren het gerecht licht houden."
   ],
   tip: "Zorg dat alles klaarstaat en de rösti af is voordat je het kalfsvlees dichtschroeit — het hele gerecht is in nog geen tien minuten klaar en wacht op niemand."
@@ -86,8 +86,8 @@ Object.assign(window.NL.recipes, {
     "Bak de tweede kant nog 10–12 minuten tot hij gelijkmatig krokant en goudbruin is. Laat op een plank glijden en serveer in punten gesneden, met de korst naar boven."
   ],
   wines: [
-    "Strakke, droge Riesling snijdt door de boterige rijkdom en verfrist tussen de krokante, zoute happen door.",
-    "Een knisperende, licht gekoelde Gamay heeft het toegankelijke fruit en de lage tannine om naast aardappelen te staan, én naast alles wat ze vergezellen."
+    "Strakke, droge riesling snijdt door de boterige rijkdom en verfrist tussen de krokante, zoute happen door.",
+    "Een knisperende, licht gekoelde gamay heeft het toegankelijke fruit en de lage tannine om naast aardappelen te staan, én naast alles wat ze vergezellen."
   ],
   tip: "Weersta de neiging om te roeren zodra de koek gevormd is — de ononderbroken korst is nu juist het hele punt. Keren via een bord is veel veiliger dan omhooggooien in de pan."
 },
@@ -154,8 +154,8 @@ Object.assign(window.NL.recipes, {
     "Laat 10 minuten van het vuur af rusten (of beter: een nacht) en serveer dampend, met roggebrood belegd met katenspek erbij."
   ],
   wines: [
-    "Volle Zuid-Afrikaanse Chenin met zijn diepte van gebakken appel heeft het lijf voor de dikke erwten en een natuurlijke band met gerookt varkensvlees.",
-    "De warme kruidigheid en zachte tannine van een rustieke Grenache-blend voelen zich thuis naast rokerige worst en aardse spliterwten."
+    "Volle Zuid-Afrikaanse chenin met zijn diepte van gebakken appel heeft het lijf voor de dikke erwten en een natuurlijke band met gerookt varkensvlees.",
+    "De warme kruidigheid en zachte tannine van een rustieke grenache-blend voelen zich thuis naast rokerige worst en aardse spliterwten."
   ],
   tip: "Snert is écht beter de volgende dag — maak hem van tevoren, zet hem in de koelkast en warm hem zachtjes op met een scheutje water; voeg de plakjes worst pas op het laatst toe."
 },
@@ -222,7 +222,7 @@ Object.assign(window.NL.recipes, {
     "Bak 30–35 minuten tot de bovenkant goudbruin is en de saus langs de rand borrelt. Laat 5 minuten rusten en serveer met doperwten of gesmoorde groene groenten."
   ],
   wines: [
-    "Krachtige, vuursteenachtige Chardonnay heeft het gewicht voor de romige saus en een hartig randje dat dol is op gerookte schelvis.",
+    "Krachtige, vuursteenachtige chardonnay heeft het gewicht voor de romige saus en een hartig randje dat dol is op gerookte schelvis.",
     "Citroenscherpe zuren snijden door de rijkdom, terwijl het lage alcoholpercentage de behaaglijke stemming intact laat."
   ],
   tip: "Laat de vulling iets afkoelen voor je de puree erop schept — puree op hete saus laat de lagen in elkaar overlopen, en dan zakt de pie in bij het serveren."
@@ -257,8 +257,8 @@ Object.assign(window.NL.recipes, {
     "Snijd het vlees dun, dwars op de draad, en serveer met de puddings, aardappels, jus en mierikswortel."
   ],
   wines: [
-    "Weelderige, fluwelen Merlot vlijt zich om rosbief en jus — de klassieke combinatie van claret met het zondagse braadstuk.",
-    "Milde Tempranillo met een randje vanille en verzachte tannines flatteert zowel het rosé vlees als het krokante vet."
+    "Weelderige, fluwelen merlot vlijt zich om rosbief en jus — de klassieke combinatie van claret met het zondagse braadstuk.",
+    "Milde tempranillo met een randje vanille en verzachte tannines flatteert zowel het rosé vlees als het krokante vet."
   ],
   tip: "De lange rusttijd van het vlees is niet onderhandelbaar — die houdt de plakken sappig en maakt de oven mooi vrij voor de puddings en aardappels."
 },
@@ -345,7 +345,7 @@ Object.assign(window.NL.recipes, {
     "Laat 5 minuten van het vuur af rusten onder een schone doek. Serveer uit de pan met citroenparten en een ferme lepel allioli op elke portie."
   ],
   wines: [
-    "Pittige, kruidige Verdejo tilt de inktzwarte diepte van de rijst op en verfrist tegenover de knoflookrijke allioli.",
+    "Pittige, kruidige verdejo tilt de inktzwarte diepte van de rijst op en verfrist tegenover de knoflookrijke allioli.",
     "Een diepe, gastronomische rosé heeft het lijf voor de hartige inkt en kan berucht goed overweg met knoflook en schroei."
   ],
   tip: "Vraag je vishandelaar om inktvis mét inktzakjes of koop zakjes inkt bij de Spaanse delicatessenwinkel — zeekat (de oorspronkelijke sépia) is zelfs nóg authentieker als je eraan kunt komen."
@@ -378,7 +378,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Zachte Soave met een randje amandel, uit de Veneto, de thuisstreek van de krab, flatteert de zoetheid van het vlees zonder erbovenuit te schreeuwen.",
-    "Kruidige, zilte Vermentino smaakt naar de zee en haakt zich vast aan de citroen, peterselie en pekel."
+    "Kruidige, zilte vermentino smaakt naar de zee en haakt zich vast aan de citroen, peterselie en pekel."
   ],
   tip: "Pluk je zelf een hele krab, dan levert een gekookte Noordzeekrab van 1,2–1,5 kg ongeveer de juiste hoeveelheid — en van de schaal trek je een voortreffelijke snelle bouillon voor een andere dag."
 },
@@ -412,8 +412,8 @@ Object.assign(window.NL.recipes, {
     "Breng op smaak met zout, witte peper en een zweem nootmuskaat. Serveer in diepe borden, met kip en groenten half ondergedompeld, rijkelijk bestrooid met kervel, en met brood of de aardappelen erbij als volwaardige maaltijd."
   ],
   wines: [
-    "De citruszuren en kruidige frisheid van vuursteenachtige Sauvignon verhelderen de romige bouillon en echoën de kervel.",
-    "Frisse, ingetogen minerale Cortese verfrist zonder het zachte, troostende register van het gerecht te verstoren."
+    "De citruszuren en kruidige frisheid van vuursteenachtige sauvignon verhelderen de romige bouillon en echoën de kervel.",
+    "Frisse, ingetogen minerale cortese verfrist zonder het zachte, troostende register van het gerecht te verstoren."
   ],
   tip: "Snijd de groenten écht fijn en voeg ze laat toe — hun lichte beet tegenover de zijdezachte bouillon is wat waterzooi onderscheidt van een doorsnee kippenstoofpot."
 },
@@ -445,7 +445,7 @@ Object.assign(window.NL.recipes, {
     "Laat minstens 15 minuten rusten — gigantes zijn op hun best lauwwarm, niet heet. Bestrooi met de rest van de kruiden en serveer met knapperig brood, en verkruimelde feta voor wie niet vast."
   ],
   wines: [
-    "Macedoniës eigen Xinomavro, met zijn tonen van tomatenblad en olijf en zijn stevige zuren, lijkt wel gemaakt voor in tomaat gegaarde bonen.",
+    "Macedoniës eigen xinomavro, met zijn tonen van tomatenblad en olijf en zijn stevige zuren, lijkt wel gemaakt voor in tomaat gegaarde bonen.",
     "Kurkdroge, vulkanische citroenintensiteit snijdt door de olijfolie en is opgewassen tegen de rustieke kracht van het gerecht."
   ],
   tip: "Echte geweekte en gesudderde droge bonen houden hun vel veel beter dan bonen uit blik; moet je toch boterbonen uit blik gebruiken, halveer dan de oventijd en ga er voorzichtig mee om."

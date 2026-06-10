@@ -32,7 +32,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "De bloemige toon en kurkdroge citrus weerspiegelen de ingemaakte citroen zonder met de saffraan te botsen.",
-    "Zilte, kruidige Vermentino is dol op olijven en snijdt strak door de rijke uiensaus."
+    "Zilte, kruidige vermentino is dol op olijven en snijdt strak door de rijke uiensaus."
   ],
   tip: "Kun je geen ingemaakte citroenen vinden, maak dan een snelle versie: snijd een citroen in kwarten, bestrooi rijkelijk met zout en stoom hem afgedekt 3 minuten in de magnetron; laat hem daarna een uur in zijn eigen sap staan. Het mist de funk van het echte werk, maar redt het gerecht."
 },
@@ -106,7 +106,7 @@ Object.assign(window.NL.recipes, {
     "Roer de harissa door een kommetje hete bouillon en geef het door aan tafel, samen met extra bouillon zodat iedereen naar smaak kan toevoegen."
   ],
   wines: [
-    "Weinig druiven flatteren een stoet groenten zo mooi als peperige Grüner; hij verfrist elke hap.",
+    "Weinig druiven flatteren een stoet groenten zo mooi als peperige grüner; hij verfrist elke hap.",
     "Bleek, droog en zacht fruitig slaat hij de brug tussen de zoete pompoen en de hitte van de harissa zonder zich op te dringen."
   ],
   tip: "Giet voor dit gerecht nooit zomaar kokend water over de couscous — het dubbele stomen boven de groentebouillon maakt de korrels juist licht, los en diep van smaak."
@@ -144,8 +144,8 @@ Object.assign(window.NL.recipes, {
     "Serveer heet met citroenparten en, geheel in ramadanstijl, een paar dadels ernaast."
   ],
   wines: [
-    "Pittige, kruidige Verdejo speelt in op de koriander en het selderijblad en verfrist tussen de lepels door.",
-    "Een knisperende, licht gekoelde Gamay evenaart de tomatenzuren zonder een bouillonachtig voorgerecht te overstemmen."
+    "Pittige, kruidige verdejo speelt in op de koriander en het selderijblad en verfrist tussen de lepels door.",
+    "Een knisperende, licht gekoelde gamay evenaart de tomatenzuren zonder een bouillonachtig voorgerecht te overstemmen."
   ],
   tip: "De tedouira (bloembinding) moet er in een dun straaltje bij onder voortdurend roeren, en daarna minstens 10 minuten sudderen — haast je, en de soep smaakt naar rauwe bloem."
 },
@@ -176,7 +176,7 @@ Object.assign(window.NL.recipes, {
     "Serveer warm of op kamertemperatuur, met tot slot een dun straaltje olijfolie erover, met khobz of knapperig brood."
   ],
   wines: [
-    "Peperige Syrah met fris fruit is dol op rook en komijn en heeft het zuur voor de tomaat.",
+    "Peperige syrah met fris fruit is dol op rook en komijn en heeft het zuur voor de tomaat.",
     "Kurkdroog en vulkanisch snijdt hij door de olie en versterkt hij het geblakerde randje van de aubergine."
   ],
   tip: "Zaalouk wordt een nacht in de koelkast alleen maar beter, doordat de rook en knoflook erin trekken — maak hem een dag van tevoren en laat hem voor het serveren op kamertemperatuur komen."
@@ -311,7 +311,7 @@ Object.assign(window.NL.recipes, {
     "Schep rijst, linzen en macaroni in lagen in kommen. Schep er tomatensaus over, bestrooi met kikkererwten en een royale hand gefrituurde uien, en laat iedereen aan tafel zelf dakka erover sprenkelen."
   ],
   wines: [
-    "Pruimige, peperige Carmenère spiegelt de tomatensaus met komijn en chili en heeft tannines die zacht genoeg zijn voor een vleesloos gerecht.",
+    "Pruimige, peperige carmenère spiegelt de tomatensaus met komijn en chili en heeft tannines die zacht genoeg zijn voor een vleesloos gerecht.",
     "Met textuur en een vleugje bittere amandel heeft hij het gewicht voor de koolhydraten en het zuur voor de azijn-dakka."
   ],
   tip: "De gefrituurde uien maken of breken koshari — snijd ze gelijkmatig dun, leg de pan niet te vol en haal ze eruit als ze diepbruin zijn in plaats van zwart; hun olie kruidt vervolgens elk ander onderdeel."
@@ -345,8 +345,8 @@ Object.assign(window.NL.recipes, {
     "Serveer op gestoomde saffraanrijst (chelow), het liefst met een punt krokante tahdig."
   ],
   wines: [
-    "Bladgroene, frisse Cabernet Franc is een natuurlijke bondgenoot voor een stoofpot die in wezen geconcentreerde kruiden is.",
-    "Vuursteenachtige Sauvignon weerklinkt in de groene intensiteit, en zijn zuren schudden de hand van de gedroogde limoen."
+    "Bladgroene, frisse cabernet franc is een natuurlijke bondgenoot voor een stoofpot die in wezen geconcentreerde kruiden is.",
+    "Vuursteenachtige sauvignon weerklinkt in de groene intensiteit, en zijn zuren schudden de hand van de gedroogde limoen."
   ],
   tip: "Gedroogde Perzische limoenen kunnen bitter worden als ze te lang heel en ongebroken blijven, of als hun pitten zich verspreiden — prik ze in, druk ze halverwege plat en vis ze eruit zodra de stoof zuur genoeg is."
 },
@@ -379,7 +379,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Xinomavro’s zure-kersenbeet, stevige grip en hartige rand zijn gemaakt voor de diepte van walnoot en granaatappel.",
-    "Heldere Gamay met weinig tannine verfrist de dichte, olierijke saus zonder met zijn zuren te botsen."
+    "Heldere gamay met weinig tannine verfrist de dichte, olierijke saus zonder met zijn zuren te botsen."
   ],
   tip: "De kleur van fesenjan verdiept met de tijd — veel Iraanse koks maken hem een dag van tevoren, en het lange, geduldige sudderen van de walnoten (nooit opgejaagd op hoog vuur) is wat de saus van beige naar brons laat verkleuren."
 },
@@ -445,7 +445,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Georgiës in qvevri gerijpte amberwijn heeft de tanninegrip en gedroogde-abrikozendiepte om door een volle boot gesmolten kaas te snijden.",
-    "Staalachtige, onbewerkte Chardonnay zonder hout is een klassieke tegenhanger van kaas en brood en snijdt door boter en dooier."
+    "Staalachtige, onbewerkte chardonnay zonder hout is een klassieke tegenhanger van kaas en brood en snijdt door boter en dooier."
   ],
   tip: "Kun je echte sulguni vinden, gebruik die dan half-om-half met de mozzarella; anders komt de mix van mozzarella en feta verrassend dicht bij de zoute rekbaarheid van het origineel."
 },
@@ -479,7 +479,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "De klassieke supra-schenk: zijn theeachtige tannine en boomgaardfruit omarmen walnoten en azijn waar tere witte wijnen falen.",
-    "Inktzwarte, broeierige Saperavi staat schouder aan schouder met knoflook, biet en fenegriek, zoals al eeuwen aan Georgische tafels."
+    "Inktzwarte, broeierige saperavi staat schouder aan schouder met knoflook, biet en fenegriek, zoals al eeuwen aan Georgische tafels."
   ],
   tip: "Blauwe fenegriek is zachter en bloemiger dan gewone fenegriek — bestel hem online als het kan (hij laat het gerecht écht Georgisch smaken), en vervang nooit de volledige hoeveelheid door de gewone soort, want dan wordt het bitter."
 }

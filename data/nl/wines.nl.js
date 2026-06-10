@@ -15,7 +15,7 @@ Object.assign(window.NL.wines, {
 },
 "chianti-classico": {
   profile: "Zure kers, gedroogde kruiden, balsamico en stoffige tannines met verkwikkende zuren.",
-  notes: "Uit het oorspronkelijke kerngebied tussen Florence en Siena, herkenbaar aan het zegel met de zwarte haan. De zuren en grip van Sangiovese zijn gemaakt voor de Toscaanse tafel — tomaat, olijfolie, gegrild vlees.",
+  notes: "Uit het oorspronkelijke kerngebied tussen Florence en Siena, herkenbaar aan het zegel met de zwarte haan. De zuren en grip van sangiovese zijn gemaakt voor de Toscaanse tafel — tomaat, olijfolie, gegrild vlees.",
   pairsWith: "Bistecca, pasta met tomatensaus, geroosterd varkensvlees, pecorino",
   servingTemp: "16–18°C"
 },
@@ -27,7 +27,7 @@ Object.assign(window.NL.wines, {
 },
 "primitivo-manduria": {
   profile: "Rijpe braam, vijg, zoete specerijen en chocolade; weelderig, zonovergoten en gul.",
-  notes: "Genetisch dezelfde druif als Zinfandel, verbouwd op de hete Salento-vlakte van Puglia. Fluweelzachte rijkdom die houdt van rooksmaak, specerijen en langzaam gegaard vlees.",
+  notes: "Genetisch dezelfde druif als zinfandel, verbouwd op de hete Salento-vlakte van Puglia. Fluweelzachte rijkdom die houdt van rooksmaak, specerijen en langzaam gegaard vlees.",
   pairsWith: "Barbecue, lamsvlees, rijke stoofschotels, harde kazen",
   servingTemp: "16–17°C"
 },
@@ -45,12 +45,12 @@ Object.assign(window.NL.wines, {
 },
 "bourgogne-pinot": {
   profile: "Rode kers, framboos, bosgrond en roos; zijdezachte textuur, frisse zuren, fijne tannines.",
-  notes: "De toegangspoort tot de meest begeerde Pinot Noir ter wereld. Dorpswijnen uit Marsannay of Givry bieden echt Bourgondisch parfum zonder grand-cru-prijzen.",
+  notes: "De toegangspoort tot de meest begeerde pinot noir ter wereld. Dorpswijnen uit Marsannay of Givry bieden echt Bourgondisch parfum zonder grand-cru-prijzen.",
   pairsWith: "Coq au vin, eend, paddenstoelen, zalm, zachte kazen",
   servingTemp: "15–16°C"
 },
 "morgon-gamay": {
-  profile: "Knapperige donkere kers, iris en granietmineraliteit; serieuze, gestructureerde Gamay.",
+  profile: "Knapperige donkere kers, iris en granietmineraliteit; serieuze, gestructureerde gamay.",
   notes: "Van de blauwe vulkanische hellingen van de Côte du Py; Morgon is de meest Bourgondische van de tien Beaujolais-crus. Licht gekoeld serveren; hij flatteert vrijwel elk gerecht.",
   pairsWith: "Charcuterie, geroosterd gevogelte, bistroklassiekers, harde kazen",
   servingTemp: "14–15°C"
@@ -69,13 +69,13 @@ Object.assign(window.NL.wines, {
 },
 "saint-emilion": {
   profile: "Pruim, zwarte kers, ceder, truffel en warme aarde; soepele tannines, lange hartige afdronk.",
-  notes: "Bordeaux van de rechteroever op zijn gastvrijst — gedomineerd door Merlot, rond en geparfumeerd, van de kalksteenhellingen rond het middeleeuwse stadje.",
+  notes: "Bordeaux van de rechteroever op zijn gastvrijst — gedomineerd door merlot, rond en geparfumeerd, van de kalksteenhellingen rond het middeleeuwse stadje.",
   pairsWith: "Rosbief, eendenconfit, paddenstoelengerechten, lamsvlees",
   servingTemp: "17–18°C"
 },
 "cahors-malbec": {
   profile: "De oorspronkelijke ‘zwarte wijn’: kwets, viool, ijzer en pure chocolade met stevige structuur.",
-  notes: "De bakermat van Malbec aan de rivier de Lot, eeuwen vóór Argentinië. Hartiger en strakker gestructureerd dan zijn neef uit de Nieuwe Wereld — gemaakt voor eendenvet en cassoulet.",
+  notes: "De bakermat van malbec aan de rivier de Lot, eeuwen vóór Argentinië. Hartiger en strakker gestructureerd dan zijn neef uit de Nieuwe Wereld — gemaakt voor eendenvet en cassoulet.",
   pairsWith: "Cassoulet, eendenconfit, biefstuk, harde schapenkazen",
   servingTemp: "16–18°C"
 },
@@ -117,25 +117,25 @@ Object.assign(window.NL.wines, {
 },
 "mendoza-malbec": {
   profile: "Fluweelzachte braam, viool, cacao en zoete specerijen met de frisheid van grote hoogte.",
-  notes: "Op 1.000–1.500 m in de uitlopers van de Andes geven intens zonlicht en koude nachten Malbec zowel weelde als spanning. Het visitekaartje van Argentinië, geboren voor rundvlees.",
+  notes: "Op 1.000–1.500 m in de uitlopers van de Andes geven intens zonlicht en koude nachten malbec zowel weelde als spanning. Het visitekaartje van Argentinië, geboren voor rundvlees.",
   pairsWith: "Gegrilde biefstuk, empanada’s, provoleta, paddenstoelengerechten",
   servingTemp: "16–18°C"
 },
 "chilean-carmenere": {
   profile: "Zwarte pruim, paprikapoeder, groene peperkorrel en pure chocolade; soepele, ronde tannines.",
-  notes: "De verloren druif van Bordeaux, in 1994 in Chili herontdekt terwijl hij zich voordeed als Merlot. Zijn hartige, zacht-kruidige karakter past van nature bij rokerige en licht pittige gerechten.",
+  notes: "De verloren druif van Bordeaux, in 1994 in Chili herontdekt terwijl hij zich voordeed als merlot. Zijn hartige, zacht-kruidige karakter past van nature bij rokerige en licht pittige gerechten.",
   pairsWith: "Gegrild vlees, rokerige stoofschotels, bonen, milde chiligerechten",
   servingTemp: "16–17°C"
 },
 "willamette-pinot": {
   profile: "Bing-kers, framboos, cola en vochtig bos; zijdezacht met frisse Pacifische zuren.",
-  notes: "De koele, regenachtige Willamette Valley in Oregon ligt op de breedtegraad van Bourgondië en maakt de meest Bourgondische Pinot van Amerika — zuiver, geparfumeerd en dol op eten.",
+  notes: "De koele, regenachtige Willamette Valley in Oregon ligt op de breedtegraad van Bourgondië en maakt de meest Bourgondische pinot van Amerika — zuiver, geparfumeerd en dol op eten.",
   pairsWith: "Zalm, eend, paddenstoelengerechten, geroosterde kalkoen",
   servingTemp: "15–16°C"
 },
 "napa-cabernet": {
   profile: "Cassis, zwarte kers, mokka en getoast eiken; weelderig, krachtig, lang.",
-  notes: "De maatstaf voor Cabernet uit de Nieuwe Wereld — rijp ‘Rutherford dust’ en fluwelen tannines. Een partner voor speciale gelegenheden bij rundvlees van topkwaliteit.",
+  notes: "De maatstaf voor cabernet uit de Nieuwe Wereld — rijp ‘Rutherford dust’ en fluwelen tannines. Een partner voor speciale gelegenheden bij rundvlees van topkwaliteit.",
   pairsWith: "Ribeye, prime rib, lamskoteletten, belegen cheddar",
   servingTemp: "17–18°C"
 },
@@ -147,13 +147,13 @@ Object.assign(window.NL.wines, {
 },
 "barossa-shiraz": {
   profile: "Weelderige braam, pure chocolade, zoethout en eucalyptus; dicht geweven en verwarmend.",
-  notes: "Enkele van de oudste Shiraz-stokken ter wereld (uit de jaren 1840) overleven in de droge hitte van de Barossa. Onbeschaamd rijk — zet er even robuust eten tegenover.",
+  notes: "Enkele van de oudste shiraz-stokken ter wereld (uit de jaren 1840) overleven in de droge hitte van de Barossa. Onbeschaamd rijk — zet er even robuust eten tegenover.",
   pairsWith: "Op houtskool gegrild lamsvlees, barbecue, biefstuk met peper, harde kazen",
   servingTemp: "16–18°C"
 },
 "central-otago-pinot": {
   profile: "Donkere kers, tijm, gedroogde kruiden en leisteen; levendig fruit met alpiene frisheid.",
-  notes: "Het zuidelijkste wijngebied ter wereld, een voormalige goudzoekerswoestijn omringd door besneeuwde toppen. De Pinot is donkerder en gespierder dan de meeste — opwindend bij wild en eend.",
+  notes: "Het zuidelijkste wijngebied ter wereld, een voormalige goudzoekerswoestijn omringd door besneeuwde toppen. De pinot is donkerder en gespierder dan de meeste — opwindend bij wild en eend.",
   pairsWith: "Eend, hertenvlees, lamsbout, paddenstoelenrisotto",
   servingTemp: "15–16°C"
 },
@@ -183,7 +183,7 @@ Object.assign(window.NL.wines, {
 },
 "sancerre": {
   profile: "Kruisbes, grapefruit, vers gemaaid gras en vuursteen; doordringend, precies, verfrissend.",
-  notes: "Het spirituele thuis van Sauvignon Blanc, op heuvels van vuursteen en kalksteen boven de Loire. De klassieke partner van de andere schat van het dorp: Crottin de Chavignol-geitenkaas.",
+  notes: "Het spirituele thuis van sauvignon blanc, op heuvels van vuursteen en kalksteen boven de Loire. De klassieke partner van de andere schat van het dorp: Crottin de Chavignol-geitenkaas.",
   pairsWith: "Geitenkaas, asperges, witvis, kruidige salades",
   servingTemp: "9–11°C"
 },
@@ -297,7 +297,7 @@ Object.assign(window.NL.wines, {
 },
 "margaret-river-chardonnay": {
   profile: "Witte nectarine, grapefruit, vuursteen en cashewnoot; krachtig maar precies.",
-  notes: "Waar de Indische en Zuidelijke Oceaan elkaar ontmoeten, wordt vuursteenachtige Chardonnay van verbluffende kwaliteit gemaakt. Het Australische antwoord op grote witte bourgogne.",
+  notes: "Waar de Indische en Zuidelijke Oceaan elkaar ontmoeten, wordt vuursteenachtige chardonnay van verbluffende kwaliteit gemaakt. Het Australische antwoord op grote witte bourgogne.",
   pairsWith: "Kreeft, krab, geroosterde kip, romige pasta",
   servingTemp: "11–13°C"
 },
@@ -309,7 +309,7 @@ Object.assign(window.NL.wines, {
 },
 "dry-furmint": {
   profile: "Kweepeer, citroenwit, rook en vulkanisch gesteente; felle zuren, droog en rijpingswaardig.",
-  notes: "De druif van de legendarische zoete Tokaji in zijn moderne droge vorm — vaak vergeleken met een kruising van Chablis en Riesling, verbouwd op uitgedoofde vulkanen.",
+  notes: "De druif van de legendarische zoete Tokaji in zijn moderne droge vorm — vaak vergeleken met een kruising van Chablis en riesling, verbouwd op uitgedoofde vulkanen.",
   pairsWith: "Paprikagerechten, riviervis, geroosterd varkensvlees, romige stoofschotels",
   servingTemp: "10–12°C"
 },
@@ -380,8 +380,8 @@ Object.assign(window.NL.wines, {
   servingTemp: "8–10°C"
 },
 "beerenauslese": {
-  profile: "Honingzoete abrikoos, gebakken appel, citrusolie en bijenwas; de weelderige zoetheid strak gehouden door de elektrische zuren van Riesling.",
-  notes: "Bes voor bes geplukte, door botrytis verschrompelde Riesling uit de grote rivierdalen, alleen gemaakt in jaren waarin de edele rotting toeslaat. Lichtvoetiger dan Sauternes — zoetheid met ruggengraat.",
+  profile: "Honingzoete abrikoos, gebakken appel, citrusolie en bijenwas; de weelderige zoetheid strak gehouden door de elektrische zuren van riesling.",
+  notes: "Bes voor bes geplukte, door botrytis verschrompelde riesling uit de grote rivierdalen, alleen gemaakt in jaren waarin de edele rotting toeslaat. Lichtvoetiger dan Sauternes — zoetheid met ruggengraat.",
   pairsWith: "Appeldesserts, cheesecake, blauwschimmelkaas, fruittaarten",
   servingTemp: "8–10°C"
 },

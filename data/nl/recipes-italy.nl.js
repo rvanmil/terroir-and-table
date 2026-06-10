@@ -31,7 +31,7 @@ Object.assign(window.NL.recipes, {
     "Schep de saus gelijkmatig over het vlees, bestrooi met hele kappertjes en wat zwarte peper, en laat het 20 minuten op koele kamertemperatuur rusten voor het serveren."
   ],
   wines: [
-    "Gegroeid aan de overkant van de Tanaro, tegenover de Langhe, is Arneis de geboren partner van dit gerecht — frisheid van peer en amandel tegen de romige tonijnsaus.",
+    "Gegroeid aan de overkant van de Tanaro, tegenover de Langhe, is arneis de geboren partner van dit gerecht — frisheid van peer en amandel tegen de romige tonijnsaus.",
     "Bleke, droge rosé slaat een brug tussen het koude vlees en de zilte saus zonder een van beide te overstemmen."
   ],
   tip: "Ben je huiverig voor rauwe dooiers, spatel de tonijnpasta dan door 150 g goede kant-en-klare mayonaise — heiligschennis in Turijn, maar gegarandeerd lekker."
@@ -227,7 +227,7 @@ Object.assign(window.NL.recipes, {
     "Meng vlak voor het serveren de geraspte citroenschil, knoflook en peterselie tot een gremolada. Strooi die over de schenkels in hun saus en serveer, het liefst op risotto alla milanese, met lepeltjes voor het merg."
   ],
   wines: [
-    "De grip van teer en rozen en de stevige zuren van Nebbiolo zijn gemaakt voor merg-rijk gesmoord kalfsvlees.",
+    "De grip van teer en rozen en de stevige zuren van nebbiolo zijn gemaakt voor merg-rijk gesmoord kalfsvlees.",
     "Vol kersenfruit met een rozijnige rand omarmt het stoofgerecht, terwijl de frisheid de gremolada aankan."
   ],
   tip: "Bind voor het aanbraden keukentouw rond de omtrek van elke schenkel — zo blijven de kostbare, met merg gevulde schijven heel tijdens het lange smoren."
@@ -285,7 +285,7 @@ Object.assign(window.NL.recipes, {
     "Giet de pasta en groenten af, stort ze op de pesto en schep van het vuur af om tot alles groen omhuld is. Serveer direct — pesto mag nooit een vlam zien."
   ],
   wines: [
-    "Zilte, kruidige Vermentino is de natuurlijke partner van de Tyrreense kust voor basilicum en olijfolie.",
+    "Zilte, kruidige vermentino is de natuurlijke partner van de Tyrreense kust voor basilicum en olijfolie.",
     "Vuursteenachtige sauvignon blanc versterkt de groene aroma’s van de pesto en verfrist tegenover de kaas."
   ],
   tip: "Verwijder de groene kiem uit het teentje knoflook en gebruik een zachte, laat geoogste Ligurische of andere milde olijfolie — een peperige Toscaanse olie overstemt de basilicum."
@@ -316,8 +316,8 @@ Object.assign(window.NL.recipes, {
     "Herhaal met het resterende deeg en serveer elke pizza op het moment dat hij uit de oven komt."
   ],
   wines: [
-    "Het zure-kersenzuur van Sangiovese is een geboren bondgenoot van tomatensaus en geblakerde randjes.",
-    "Knapperige, licht gekoelde Gamay kan het tomatenzuur en de zachte kaas aan zonder tanninegeruzie."
+    "Het zure-kersenzuur van sangiovese is een geboren bondgenoot van tomatensaus en geblakerde randjes.",
+    "Knapperige, licht gekoelde gamay kan het tomatenzuur en de zachte kaas aan zonder tanninegeruzie."
   ],
   tip: "Een huisoven haalt nooit de 450°C van een houtoven; compenseer met een staal of steen die een vol uur is voorverwarmd en zet de laatste minuut de grill aan om de rand te laten blakeren."
 },
@@ -405,7 +405,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "De standaardrode van de Toscaanse tafel — zijn hartigheid van kers en kruiden is naast precies dit gerecht grootgebracht.",
-    "Naar garrigue geurende Grenache echoot de salie en heeft de gemoedelijke warmte waar bonen van houden."
+    "Naar garrigue geurende grenache echoot de salie en heeft de gemoedelijke warmte waar bonen van houden."
   ],
   tip: "Kook de bonen een dag van tevoren en laat ze een nacht in hun vocht rusten — ze nemen de smaakmakers weer op en worden nog romiger. Laat bonen nooit hard koken; bij een trilling blijven hun velletjes heel."
 },
@@ -463,7 +463,7 @@ Object.assign(window.NL.recipes, {
     "Om te storten doop je elk vormpje 5 seconden in heet water en keer je het om op een bord; de panna cotta hoort met een bevredigende huivering los te laten. Serveer met de coulis."
   ],
   wines: [
-    "De schuimige Moscato met weinig alcohol uit Piemonte is de thuiscombinatie — druivige frisheid tegenover koele room.",
+    "De schuimige moscato met weinig alcohol uit Piemonte is de thuiscombinatie — druivige frisheid tegenover koele room.",
     "Abrikozenzoet met elektrische zuren laat de bessen glanzen en de room lichter smaken."
   ],
   tip: "Gebruik het minimum aan gelatine dat de vorm nog houdt — het dessert moet zachtjes inzakken, niet stuiteren. Serveer je in glazen in plaats van te storten, dan kun je teruggaan naar 2 blaadjes voor een nog zijdezachter resultaat."

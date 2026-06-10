@@ -57,7 +57,7 @@ Object.assign(window.NL.recipes, {
     "Bestrooi elk bekertje met een lepel mayonaise, verkruimelde kaas, een ferme kneep limoen en een royale laag chilipoeder. Deel lepels en extra limoenpartjes uit."
   ],
   wines: [
-    "De witte-peperkick van Grüner en zijn voorliefde voor groenten flatteren de zoete maïs en snijden door de mayonaise.",
+    "De witte-peperkick van grüner en zijn voorliefde voor groenten flatteren de zoete maïs en snijden door de mayonaise.",
     "Messcherpe zuren en citroenschilfrisheid snijden door kaas en room zonder de chilipeper te smoren."
   ],
   tip: "Epazote is de ziel van esquites — zoek het in Mexicaanse winkels (vers of gedroogd). Vind je het echt niet, dan is het gerecht nog steeds de moeite waard, maar sla de roosterstap die de smaak opbouwt niet over."

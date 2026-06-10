@@ -98,7 +98,7 @@ Object.assign(window.NL.recipes, {
     "Schep de soep in kommen, lepel de kruidenboter er in een sierlijke draai overheen en serveer met citroenparten — die kneep citroensap aan tafel is niet optioneel."
   ],
   wines: [
-    "De witte-peperbeet en groene affiniteit van Grüner maken hem een van de weinige wijnen die een peulvruchtenpurée flatteren.",
+    "De witte-peperbeet en groene affiniteit van grüner maken hem een van de weinige wijnen die een peulvruchtenpurée flatteren.",
     "Chenin met textuur en de rondeur van gebakken appel evenaart het lijf van de soep, terwijl zijn zuren het werk van de citroen doen."
   ],
   tip: "Sla de aardappel niet over — die geeft de gepureerde soep een volle, donzige body die linzen alleen niet kunnen leveren, een truc uit menige Turkse thuiskeuken."
@@ -131,7 +131,7 @@ Object.assign(window.NL.recipes, {
     "Laat 5 minuten rusten en serveer warm of op kamertemperatuur met yoghurt, platbrood en torshi-tafelzuur."
   ],
   wines: [
-    "Vuursteenachtige Sauvignon Blanc is een natuurlijke bondgenoot van groene kruiden en scherpt de dille en koriander aan in plaats van ze te verstikken.",
+    "Vuursteenachtige sauvignon blanc is een natuurlijke bondgenoot van groene kruiden en scherpt de dille en koriander aan in plaats van ze te verstikken.",
     "Bleek, droog en ingetogen fruitig slaat hij de brug tussen de bittere kruiden en de zoetzure knal van de berberissen."
   ],
   tip: "De korst hoort echt donker te zijn — Perzen prijzen een kuku die tot op het randje van mahonie is gebruind, dus houd je zenuwen in bedwang voordat je keert."
@@ -167,7 +167,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Een tanninerijke amberwijn heeft de grip van een rode wijn en een gefermenteerd randje dat zich vastklinkt aan de frisse yoghurtsaus.",
-    "Soepele Grenache met garrigue-kruiden vouwt zich om het langzaam gegaarde lamsvlees zonder de delicate rijst te overstemmen."
+    "Soepele grenache met garrigue-kruiden vouwt zich om het langzaam gegaarde lamsvlees zonder de delicate rijst te overstemmen."
   ],
   tip: "Echte mansaf gebruikt jameed, in de zon gedroogde gezouten yoghurt uit Karak; verkoopt een Jordaanse winkel jameed-stenen of jameed-concentraat in pot, los het dan op en sla de Griekse yoghurt, het eiwit en de maïzena over — en wees zuinig met extra zout."
 },
@@ -200,7 +200,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Een lichte vulkanische rode wijn met rokerig rood fruit past bij zijdezachte aubergine en tomaat zonder ze met tannine te verpletteren.",
-    "Het pruimige fruit en de groene-paprikatoets van Carmenère klikken met zowel het rundvlees als de geroosterde sivri-pepers."
+    "Het pruimige fruit en de groene-paprikatoets van carmenère klikken met zowel het rundvlees als de geroosterde sivri-pepers."
   ],
   tip: "De aubergines in hun geheel echt zacht bakken is niet onderhandelbaar — te kort gegaarde aubergine herstelt zich nooit meer in de oven; druk er een in met een tang en hij hoort mee te geven als een kussen."
 },
@@ -232,7 +232,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Diepe, gastronomische rosé kan geblakerd vlees, pittige peper en rauwe ui aan op een manier die weinig rode wijnen lukt, en blijft toch verfrissend.",
-    "Peperige Syrah in frisse stijl gaat de rook en pul biber recht tegemoet, zonder zwaar hout of jammig fruit."
+    "Peperige syrah in frisse stijl gaat de rook en pul biber recht tegemoet, zonder zwaar hout of jammig fruit."
   ],
   tip: "Vet is hier smaak én structuur — vraag de slager om schouder te malen met zo’n 20 procent hard vet als staartvet niet te krijgen is, en gebruik nooit mager gehakt, dat van de spies valt."
 },
@@ -264,8 +264,8 @@ Object.assign(window.NL.recipes, {
     "Schep een paar lepels saffraanwater door de bovenste rijst voor gouden strepen. Schep de rijst op borden, bestrooi rijkelijk met de berberissen, stort de tahdig en breek hem in scherven, en serveer met de kip en haar saus."
   ],
   wines: [
-    "Droge, strakke Riesling heeft de scherpte voor de zure berberissen en het parfum om saffraan te flatteren.",
-    "Zijdezachte Pinot met weinig tannine laat de delicate saffraankip stralen, terwijl zijn rode fruit de zereshk echoot."
+    "Droge, strakke riesling heeft de scherpte voor de zure berberissen en het parfum om saffraan te flatteren.",
+    "Zijdezachte pinot met weinig tannine laat de delicate saffraankip stralen, terwijl zijn rode fruit de zereshk echoot."
   ],
   tip: "Koop berberissen bij een Perzische winkel en controleer of ze helderrood en soepel zijn — doffe bruine zijn oud; bewaar ze in de vriezer om hun kleur en frisse zuur te behouden."
 },
@@ -301,7 +301,7 @@ Object.assign(window.NL.recipes, {
     "Roer twee derde van de kashk erdoor (eerst verdund met een beetje hete soep) en controleer de smaak. Schep in kommen en versier met slierten van de resterende kashk, de gebakken uien, knoflook en muntolie."
   ],
   wines: [
-    "Rokerige Furmint met felle zuren snijdt door de dichte peulvruchten en beantwoordt de gefermenteerde zuren van kashk.",
+    "Rokerige furmint met felle zuren snijdt door de dichte peulvruchten en beantwoordt de gefermenteerde zuren van kashk.",
     "Een knapperige, gekoeld te schenken rode wijn zonder harde tannine die de kruiden, bonen en de zoetheid van gebakken ui aankan."
   ],
   tip: "Kashk uit pot van een Perzische winkel is het zoeken waard — zijn zoute, funky diepgang bepaalt het gerecht; verdun hem voor het toevoegen en proef voordat je extra zout."
@@ -337,7 +337,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Gewurz vol lychee en rozen is dol op de kaneel, oranjebloesem en de zoet-hartige spanning van bastilla.",
-    "Vederlichte off-dry Riesling balanceert het suikerlaagje, terwijl zijn zuren het rijke deeg levendig houden."
+    "Vederlichte off-dry riesling balanceert het suikerlaagje, terwijl zijn zuren het rijke deeg levendig houden."
   ],
   tip: "Houd ongebruikt filodeeg onder een nauwelijks vochtige theedoek terwijl je werkt, en boter zuinig maar volledig — droge plekken scheuren, doorweekte worden leerachtig."
 },
@@ -369,7 +369,7 @@ Object.assign(window.NL.recipes, {
     "Bestrooi met de resterende kruiden en zet de pan direct op tafel met brood — bestek is overbodig, alleen gescheurd khobz om mee te scheppen."
   ],
   wines: [
-    "Bladerige, frisse Cabernet Franc houdt van tomatensauzen, en zijn bescheiden tannine botst niet met de zachte dooiers.",
+    "Bladerige, frisse cabernet franc houdt van tomatensauzen, en zijn bescheiden tannine botst niet met de zachte dooiers.",
     "Rijpe, weelderige Primitivo dempt de warmte van komijn en cayenne en evenaart de rijkdom van de kefta."
   ],
   tip: "Rasp de tomaten met het snijvlak naar beneden over een blokrasp — zo krijg je direct velloze pulp, de Marokkaanse en Levantijnse sluiproute naar een verse saus."
@@ -405,8 +405,8 @@ Object.assign(window.NL.recipes, {
     "Laat minstens 20 minuten rusten — gemista is op zijn best warm, niet heet, en veel Grieken houden vol dat hij de volgende dag op kamertemperatuur nog beter is."
   ],
   wines: [
-    "Kurkdroge Assyrtiko vol citrus en vulkaan is de klassieke Griekse partner voor olierijke, tomatenrijke ladera-gerechten.",
-    "De tonen van tomatenblad en olijf in Xinomavro smaken bijna naar dezelfde moestuin als waar de gemista vandaan komt."
+    "Kurkdroge assyrtiko vol citrus en vulkaan is de klassieke Griekse partner voor olierijke, tomatenrijke ladera-gerechten.",
+    "De tonen van tomatenblad en olijf in xinomavro smaken bijna naar dezelfde moestuin als waar de gemista vandaan komt."
   ],
   tip: "Wees gul met de olijfolie en de rusttijd — ladera-gerechten danken hun kenmerkende saus aan olie die tijdens het afkoelen emulgeert met de tomatensappen."
 },
@@ -438,7 +438,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Bleke, droge rosé is gemaakt voor rokerige paprika’s, peperwarmte en tonijn op olie in de mediterrane zon.",
-    "Kruidige, ziltige Vermentino van de overkant van de straat echoot de geblakerde groenten en olijvenpekel."
+    "Kruidige, ziltige vermentino van de overkant van de straat echoot de geblakerde groenten en olijvenpekel."
   ],
   tip: "Blaker de groenten als het even kan boven echt vuur — de rook ís het gerecht; uit de oven krijg je een prima salade, maar geen mechouia."
 },

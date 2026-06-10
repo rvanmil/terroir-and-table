@@ -26,7 +26,7 @@ Object.assign(window.NL.recipes, {
     "Zet minstens 2 uur in de koelkast tot de soep door en door koud is. Serveer in kommen of glazen met de fijngesneden groentegarnering en een laatste sliertje olijfolie."
   ],
   wines: [
-    "De pittige, kruidige frisheid van Verdejo spiegelt de groene paprika en tilt het zuur van de rauwe tomaat op.",
+    "De pittige, kruidige frisheid van verdejo spiegelt de groene paprika en tilt het zuur van de rauwe tomaat op.",
     "Een knisperdroge, bleke rosé evenaart de koelte en frisheid van de soep zonder haar delicatesse te overstemmen."
   ],
   tip: "Het gerecht staat of valt met de tomaten: gebruik in de winter de rijpste trostomaten die je kunt vinden plus een theelepel tomatenpuree, of wacht gewoon op de zomer."
@@ -54,7 +54,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Hartige, getoaste cava is de klassieke partner uit de tapasbar; de bubbels snijden door de rijkdom van ei en olie.",
-    "De witte-peperbeet en groentevriendelijke zuren van Grüner flatteren zowel de aardappel als de zoete ui."
+    "De witte-peperbeet en groentevriendelijke zuren van grüner flatteren zowel de aardappel als de zoete ui."
   ],
   tip: "Bewaar de pocheerolie — die blijft weken goed in de koelkast en is vloeibaar goud voor het bakken van eieren of het aanzetten van een sofrito."
 },
@@ -82,7 +82,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Knisperdroge, zilte fino is gemaakt voor knoflook, olijfolie en zeevruchten — de Andalusische schoolvoorbeeldcombinatie.",
-    "De smakelijk-zilte frisheid van Picpoul houdt stand tegen de knoflook en verfrist tussen de sissende happen door."
+    "De smakelijk-zilte frisheid van picpoul houdt stand tegen de knoflook en verfrist tussen de sissende happen door."
   ],
   tip: "Koop garnalen met schaal en laat de koppen en schalen eerst 5 minuten zachtjes in de olijfolie trekken, zeef dan — de olie krijgt zo een diepe schaaldiersmaak."
 },
@@ -145,7 +145,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Een diepe, gastronomische rosé heeft het gewicht voor het vlees en de frisheid voor saffraan en bonen.",
-    "Naar garrigue geurende Grenache — dezelfde druif als Valencia’s eigen garnacha — vlijt zich om de rokerige socarrat."
+    "Naar garrigue geurende grenache — dezelfde druif als Valencia’s eigen garnacha — vlijt zich om de rokerige socarrat."
   ],
   tip: "De rijstlaag mag niet dieper zijn dan je vinger breed is; is je pan klein, maak dan liever minder paella dan een dikkere laag."
 },
@@ -176,8 +176,8 @@ Object.assign(window.NL.recipes, {
     "Verwijder de ui, laat 15 minuten van het vuur rusten en serveer de bonen in diepe borden met het vlees (‘compango’) in stukken erbovenop of op een aparte schaal."
   ],
   wines: [
-    "Krachtige Tempranillo heeft het donkere fruit en de grip om het gerookte vlees en het paprikavet aan te kunnen.",
-    "Weelderige, fluwelen Merlot omhult de romige bonen en verzacht de rook zonder harde tannine toe te voegen."
+    "Krachtige tempranillo heeft het donkere fruit en de grip om het gerookte vlees en het paprikavet aan te kunnen.",
+    "Weelderige, fluwelen merlot omhult de romige bonen en verzacht de rook zonder harde tannine toe te voegen."
   ],
   tip: "Kun je geen fabes vinden, dan zijn Griekse gigantes of grote judiónbonen de beste vervangers; wat je ook gebruikt, laat de pan nooit hard koken."
 },
@@ -213,7 +213,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Zachte Rioja met vanilletonen en gerijpte tannine is de beproefde Madrileense tafelgenoot voor het vlees van de cocido.",
-    "Donkere, gestructureerde Malbec staat schouder aan schouder met runderschenkel en gezouten varkensvlees, terwijl zijn zuren door de rijkdom snijden."
+    "Donkere, gestructureerde malbec staat schouder aan schouder met runderschenkel en gezouten varkensvlees, terwijl zijn zuren door de rijkdom snijden."
   ],
   tip: "Maak hem een dag van tevoren en warm zachtjes op — de bouillon wordt ’s nachts dieper van smaak, en van de restjes bak je met het uiteengeplukte vlees ‘ropa vieja’."
 },
@@ -242,8 +242,8 @@ Object.assign(window.NL.recipes, {
     "Laat 10 minuten van het vuur rusten en serveer eerder warm dan heet, met een sliertje rauwe olijfolie — of kroon elke portie met een gebakken ei voor een complete maaltijd."
   ],
   wines: [
-    "Bladerige, frisse Cabernet Franc is dol op paprika — zijn kruidige kant gaat de groene tonen van het gerecht recht tegemoet.",
-    "Pittige, kruidige Verdejo uit het naburige Rueda houdt de jamachtige groenten helder en levendig."
+    "Bladerige, frisse cabernet franc is dol op paprika — zijn kruidige kant gaat de groene tonen van het gerecht recht tegemoet.",
+    "Pittige, kruidige verdejo uit het naburige Rueda houdt de jamachtige groenten helder en levendig."
   ],
   tip: "Maak de pisto een dag van tevoren — net als ratatouille wordt hij ’s nachts beter, en onder een laagje olijfolie blijft hij een week goed in de koelkast."
 },
@@ -270,7 +270,7 @@ Object.assign(window.NL.recipes, {
     "Dep vlak voor het serveren eventueel vocht weg, bestrooi elke custard met een gelijkmatige eetlepel suiker en karamelliseer met een brander (of een salamander-ijzer) tot diep amberkleurig. Wacht 1 minuut tot het laagje hard is en serveer dan — koude custard, warm krakend glas."
   ],
   wines: [
-    "Schuimige, zachtzoete Moscato tilt de citroen en kaneel op zonder de delicate custard te bedelven.",
+    "Schuimige, zachtzoete moscato tilt de citroen en kaneel op zonder de delicate custard te bedelven.",
     "Honingzoete botrytisrijkdom echoot het gebrande-suikerlaagje, terwijl de zuren de room verfrissen."
   ],
   tip: "Het suikerlaagje moet op het allerlaatste moment gebrand worden — te vroeg gesuikerd gaat het tranen en verandert het binnen het uur in siroop."
@@ -333,7 +333,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "De eigen ultrafrisse, licht bruisende witte wijn van de streek is de onwrikbare festa-combinatie bij caldo verde.",
-    "Een knapperige, koelbare Gamay heeft het heldere fruit om de rokerige chouriço aan te kunnen zonder de groenten plat te slaan."
+    "Een knapperige, koelbare gamay heeft het heldere fruit om de rokerige chouriço aan te kunnen zonder de groenten plat te slaan."
   ],
   tip: "Voor een vegetarische caldo verde laat je de chouriço weg en laat je in plaats daarvan een theelepel gerookt paprikapoeder opbloeien in de olijfolie waarmee je de soep afmaakt."
 },
@@ -367,7 +367,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Wild-fruitige Douro-rood van leisteengrond heeft de body voor het aangebraden vlees en blijft toch fris genoeg voor de schelpen.",
-    "Neig je naar de schelpen, dan slaat perzikachtig-zilte Albariño de brug tussen het zilte vocht en de knoflookrijke paprikapasta."
+    "Neig je naar de schelpen, dan slaat perzikachtig-zilte albariño de brug tussen het zilte vocht en de knoflookrijke paprikapasta."
   ],
   tip: "Echte massa de pimentão is het zoeken bij een Portugese kruidenier waard; mix anders een geroosterde rode paprika met een theelepel zout en een beetje azijn om hem te benaderen."
 },
@@ -402,7 +402,7 @@ Object.assign(window.NL.recipes, {
     "Breng op smaak, bestrooi rijkelijk met korianderblad en haast je ermee naar tafel; arroz malandrinho wacht op niemand."
   ],
   wines: [
-    "Knisperdroge, citroenige Assyrtiko heeft de zilte ruggengraat om een pan vol schelpdieren en tomaat aan te kunnen.",
+    "Knisperdroge, citroenige assyrtiko heeft de zilte ruggengraat om een pan vol schelpdieren en tomaat aan te kunnen.",
     "Volle Verdicchio draagt de body van de soepige rijst, terwijl zijn bitter-amandelfinale de krab flatteert."
   ],
   tip: "Alle smaak zit in het vocht: sla het sudderen van de garnalenschalen nooit over en houd extra hete bouillon bij de hand zodat de rijst los en golvend op tafel komt."

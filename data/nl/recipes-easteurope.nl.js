@@ -34,8 +34,8 @@ Object.assign(window.NL.recipes, {
     "Serveer in diepe kommen met een lepel zure room en een flinke regen van dille."
   ],
   wines: [
-    "Knapperige, koel te schenken Gamay weerkaatst het zoetzure bietenfruit van de soep zonder de bouillon te overstemmen.",
-    "Een buur aan de Zwarte Zee: het donkere, broeierige fruit en de frisse zuren van Saperavi zijn opgewassen tegen het rijke rundvlees en de aardse bieten."
+    "Knapperige, koel te schenken gamay weerkaatst het zoetzure bietenfruit van de soep zonder de bouillon te overstemmen.",
+    "Een buur aan de Zwarte Zee: het donkere, broeierige fruit en de frisse zuren van saperavi zijn opgewassen tegen het rijke rundvlees en de aardse bieten."
   ],
   tip: "Voor de volledige Oekraïense tafel serveer je er pampushky bij — zachte gistbroodjes bestreken met knoflook-dilleolie — en zet je de zure room apart op tafel voor gasten die geen zuivel eten."
 },
@@ -66,8 +66,8 @@ Object.assign(window.NL.recipes, {
     "Serveer heet, met zure room en versgemalen zwarte peper."
   ],
   wines: [
-    "De witte peper en groene-groentetonen van Grüner zijn gemaakt voor aardappel, ui en zure room.",
-    "Een lichte, zijdezachte Pinot heeft de zachtheid voor boterige dumplings, terwijl zijn zuren tussen de happen door verfrissen."
+    "De witte peper en groene-groentetonen van grüner zijn gemaakt voor aardappel, ui en zure room.",
+    "Een lichte, zijdezachte pinot heeft de zachtheid voor boterige dumplings, terwijl zijn zuren tussen de happen door verfrissen."
   ],
   tip: "Doe niet te veel vulling in elk rondje — een flinke theelepel is genoeg. Ongekookte varenyky vriezen prachtig in op een met bloem bestoven plaat; kook ze rechtstreeks vanuit de vriezer en reken een minuut of twee extra."
 },
@@ -132,8 +132,8 @@ Object.assign(window.NL.recipes, {
     "Proef en breng op smaak, bestrooi met peterselie en serveer direct over gebakken luciferaardappeltjes, puree of boekweit."
   ],
   wines: [
-    "Zijdezachte Pinot uit Oregon spiegelt de zachtheid van de smetana, terwijl zijn rode fruit de champignondiepte optilt.",
-    "Weelderige Merlot vlijt zich om het geschroeide rundvlees en de romige saus, zonder harde tannine die met de zuivel zou botsen."
+    "Zijdezachte pinot uit Oregon spiegelt de zachtheid van de smetana, terwijl zijn rode fruit de champignondiepte optilt.",
+    "Weelderige merlot vlijt zich om het geschroeide rundvlees en de romige saus, zonder harde tannine die met de zuivel zou botsen."
   ],
   tip: "Leg het vlees 20 minuten in de vriezer voordat je het snijdt — het wordt stevig genoeg om gelijkmatige, peesvrije reepjes te snijden, en dat is het verschil tussen malse en taaie stroganoff."
 },
@@ -166,8 +166,8 @@ Object.assign(window.NL.recipes, {
     "Schep ze in voorverwarmde kommen, schud om met de boter en serveer direct met de peperazijn en koude smetana ernaast."
   ],
   wines: [
-    "Strakke, kurkdroge Riesling snijdt door boter en rijk vlees, en zijn citrus weerklinkt in het azijndipje.",
-    "Donker van kers maar fris: deze Pinot heeft net genoeg vlees voor het varkensgehakt zonder zulke delicate dumplings te verstikken."
+    "Strakke, kurkdroge riesling snijdt door boter en rijk vlees, en zijn citrus weerklinkt in het azijndipje.",
+    "Donker van kers maar fris: deze pinot heeft net genoeg vlees voor het varkensgehakt zonder zulke delicate dumplings te verstikken."
   ],
   tip: "Doe als de Siberiërs: maak een drievoudige portie en vries ze in één laag in op met bloem bestoven platen. Vanuit de vriezer zijn ze in amper een minuut langer gaar — een heldhaftig doordeweeks avondmaal."
 },
@@ -235,7 +235,7 @@ Object.assign(window.NL.recipes, {
     "Schep in kommen, leg de gehalveerde eieren erop en werk af met extra marjolein."
   ],
   wines: [
-    "De rook en felle zuren van Furmint gaan de gefermenteerde roggezuurheid frontaal te lijf — een Midden-Europese vanzelfsprekendheid.",
+    "De rook en felle zuren van furmint gaan de gefermenteerde roggezuurheid frontaal te lijf — een Midden-Europese vanzelfsprekendheid.",
     "Hartige, gistige cava verfrist tegenover gerookt spek en rijk ei, terwijl zijn bubbels de romige bouillon verlichten."
   ],
   tip: "Wrijf de marjolein tussen je handpalmen terwijl je hem toevoegt om de oliën wakker te maken — het is hét kruid van żurek. Voor een paasshowstopper serveer je de soep in kleine uitgeholde zuurdesembroodjes."
@@ -271,7 +271,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Honingzoete botrytisrijkdom vleit de citroenige kwark, terwijl de zuren voorkomen dat de compacte taart gaat vervelen.",
-    "Schuimig, zachtzoet en maar 5,5%: Moscato tilt elke romige hap op — een vedergewicht tegenover een stevige taart."
+    "Schuimig, zachtzoet en maar 5,5%: moscato tilt elke romige hap op — een vedergewicht tegenover een stevige taart."
   ],
   tip: "Alles staat of valt met de kaas: echte twaróg (uit de Poolse winkel), twee keer gezeefd, geeft de juiste textuur. Volle kwark of goed uitgelekte kwark werkt; met roomkaas maak je een totaal andere taart."
 },
@@ -307,7 +307,7 @@ Object.assign(window.NL.recipes, {
     "Serveer op gestoomde plakken brooddumpling met een lepel veenbessencompote en een plakje citroen erbovenop, zoals elke Tsjechische hospoda het doet."
   ],
   wines: [
-    "Groene, frisse Cabernet Franc snijdt door de romige saus en klinkt samen met het friszure fruit van de veenbessen.",
+    "Groene, frisse cabernet franc snijdt door de romige saus en klinkt samen met het friszure fruit van de veenbessen.",
     "Milde Rioja met een randje vanille sluit aan bij de zoete wortelgroenteronding van de saus en het malse gesmoorde rundvlees."
   ],
   tip: "Sla het zeven van de saus niet over — die glanzende, fluwelen textuur is waar het allemaal om draait. Kant-en-klare brooddumplings worden zelfs in Tsjechische huishoudens geaccepteerd; stoom ze in plaats van ze te koken om ze op te warmen."
@@ -342,7 +342,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Droge rode bubbels zijn de grote vetsnijder — de levendige belletjes en het donkere fruit schrobben het gehemelte na elke gesmolten hap.",
-    "De vuursteenfrisse, brandnetelgroene zuren van Sauvignon snijden door de gefrituurde korst en de rijke kaas als een kneepje citroen."
+    "De vuursteenfrisse, brandnetelgroene zuren van sauvignon snijden door de gefrituurde korst en de rijke kaas als een kneepje citroen."
   ],
   tip: "Tsjechen gebruiken Eidam (Edammer), maar een plak Hermelín (camembert-stijl) is de luxe cafévariant. Die 20 minuten in de vriezer zijn de truc die de kaas binnenhoudt en de korst krokant."
 },
@@ -377,7 +377,7 @@ Object.assign(window.NL.recipes, {
     "Laat 20 minuten rusten en serveer dan rechtstreeks uit de pan met zachte mămăligă en koude zure room."
   ],
   wines: [
-    "De tomaat-en-olijfhartigheid en stevige zuren van Xinomavro zijn geboren voor langzame tomatenstoofgerechten met zure kool.",
+    "De tomaat-en-olijfhartigheid en stevige zuren van xinomavro zijn geboren voor langzame tomatenstoofgerechten met zure kool.",
     "Een tanninerijke amberwijn heeft de grip en oxidatieve diepte voor gefermenteerde kool en gerookt varkensvlees — hij combineert als een rode maar verfrist als een witte."
   ],
   tip: "Echte verzuurde hele kool (varză murată) is het zoeken waard bij Roemeense, Poolse of Turkse winkels; gebruik je zuurkoolbladeren uit een pot, proef dan op zout en spoel zo nodig af."
@@ -404,7 +404,7 @@ Object.assign(window.NL.recipes, {
     "Serveer direct, elke portie bedekt met verkruimelde kaas, een royale lepel koude zure room en de rest van de boter die erover smelt."
   ],
   wines: [
-    "De hazelnoottextuur en vulkanische frisheid van Fiano vleien de zoete mais en zijn opgewassen tegen zoute schapenkaas.",
+    "De hazelnoottextuur en vulkanische frisheid van fiano vleien de zoete mais en zijn opgewassen tegen zoute schapenkaas.",
     "Een diepe, gastronomische rosé slaat met donker bessenfruit en echte grip een brug tussen de rijke room en de zilte kaas."
   ],
   tip: "Grofgemalen mălai uit een Roemeense of Balkanwinkel geeft een nootachtiger, rustiekere mămăligă dan fijne instantpolenta. Restjes bak je prachtig in boter tot krokante gouden plakken voor het ontbijt."
@@ -435,8 +435,8 @@ Object.assign(window.NL.recipes, {
     "Vul elk brood met vijf ćevapi, een lepel kajmak, flink wat rauwe gehakte ui en een royale veeg ajvar. Eet met je handen, meteen."
   ],
   wines: [
-    "Peperige Syrah in frisse stijl houdt van rooksmaak en rundvet, zonder het gewicht dat een ongedwongen grillfeest zou doden.",
-    "De garrigue-kruiden en gulle rijpheid van Grenache vlijen zich om rokerig vlees en zoete ajvar van geroosterde paprika."
+    "Peperige syrah in frisse stijl houdt van rooksmaak en rundvet, zonder het gewicht dat een ongedwongen grillfeest zou doden.",
+    "De garrigue-kruiden en gulle rijpheid van grenache vlijen zich om rokerig vlees en zoete ajvar van geroosterde paprika."
   ],
   tip: "Het dubbel malen, het lange kneden en de nachtrust zijn de heilige drie-eenheid — sla je er één over, dan krijg je hamburgers, geen ćevapi. Geen grill? Een gloeiend hete gietijzeren pan met een zweem olie komt verrassend dichtbij."
 },
@@ -465,7 +465,7 @@ Object.assign(window.NL.recipes, {
     "Laat 10 minuten rusten en snijd dan in royale vierkanten. Serveer warm, traditioneel met een glas koude yoghurt of kefir."
   ],
   wines: [
-    "Kurkdroge, citroen-zilte Assyrtiko maait door zoute kaas en boterig filodeeg als zeelucht.",
+    "Kurkdroge, citroen-zilte assyrtiko maait door zoute kaas en boterig filodeeg als zeelucht.",
     "Bleke, droge rosé houdt het fris en gezellig naast de rijke, eierige frommel van kaas en deeg."
   ],
   tip: "Wees niet te precies met het frommelen — ongelijke vouwen geven het mooiste contrast tussen krokante richel en romige holte. Gibanica warmt goed op bij 160°C en is de volgende ochtend misschien zelfs nog lekkerder."
@@ -496,7 +496,7 @@ Object.assign(window.NL.recipes, {
   ],
   wines: [
     "Een zilte lippenbijter van een witte wijn schrobt het boterige filodeeg en evenaart de gepekelde scherpte van sirene.",
-    "Kruidige Vermentino met een zeebries tilt de frisse yoghurt en kaas op zonder een delicaat gebak te verdringen."
+    "Kruidige vermentino met een zeebries tilt de frisse yoghurt en kaas op zonder een delicaat gebak te verdringen."
   ],
   tip: "Bulgaarse sirene (bij de Balkanwinkel) is romiger en frisser van smaak dan feta, die overigens ook prima werkt. Het rusten onder de theedoek na het bakken is een babina-truc (van oma) — hij maakt het filodeeg van bros perfect zacht-krokant."
 }
