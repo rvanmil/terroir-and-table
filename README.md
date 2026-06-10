@@ -21,6 +21,17 @@ python3 -m http.server 8741
 
 (Opening `index.html` directly from disk also works, minus the offline features.)
 
+## Single-file bundle
+
+```sh
+node tools/bundle.js     # → dist/bundle.html (~3.7 MB)
+```
+
+Compiles the entire site — all recipes, translations, kamado data, the wine cellar, CSS,
+fonts and favicon — into one self-contained `bundle.html` with zero external references.
+Open it from disk, mail it, or drop it on any host as a single file. (PWA plumbing is
+stripped from the bundle: a single file needs no install step — it *is* the offline copy.)
+
 ## Installing on iPhone (PWA)
 
 The site is a Progressive Web App: installable, with its own icon, running full-screen,
@@ -80,6 +91,7 @@ data/SPEC.md        the data schema all recipe files follow
 data/TRANSLATE.md   the translation spec the Dutch files follow
 data/KAMADO.md      the method & kamado enrichment spec
 tools/validate.js   node tools/validate.js — schema, referential & translation checks
+tools/bundle.js     node tools/bundle.js — builds the single-file dist/bundle.html
 ```
 
 Recipe and wine data are static but real: traditional dishes with their authentic names,
